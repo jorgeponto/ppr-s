@@ -1,0 +1,44 @@
+{
+	"$schema": "https://schemas.wp.org/wp/7.1/theme.json",
+	"version": 3,
+	"slug": "box-info-warning",
+	"title": "Caixa de informação de aviso",
+	"blockTypes": [
+		"core/group"
+	],
+	"styles": {
+		"color": {
+			"background": "var:preset|color|warning",
+			"text": "var:preset|color|white"
+		},
+		"border": {
+			"radius": "0.375rem"
+		},
+		"spacing": {
+			"padding": {
+				"top": "var:preset|spacing|medium",
+				"right": "var:preset|spacing|medium",
+				"bottom": "var:preset|spacing|medium",
+				"left": "var:preset|spacing|medium"
+			}
+		},
+		"elements": {
+			"link": {
+				"color": {
+					"text": "var:preset|color|white",
+					"background": "var:preset|color|warning"
+				},
+				"typography": {
+					"textDecoration": "underline",
+					"fontWeight": "600"
+				},
+				":hover": {
+					"color": {
+						"text": "var:preset|color|warning",
+						"background": "var:preset|color|white"
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"$schema": "https://schemas.wp.org/wp/7.1/theme.json",
+	"version": 3,
+	"slug": "box-info-primary",
+	"title": "Caixa de informação primária",
+	"blockTypes": [
+		"core/group"
+	],
+	"styles": {
+		"color": {
+			"background": "var:preset|color|primary",
+			"text": "var:preset|color|secondary"
+		},
+
+		"border": {
+			"radius": "0.375rem"
+		},
+
+		"spacing": {
+			"padding": {
+				"top": "var:preset|spacing|medium",
+				"right": "var:preset|spacing|medium",
+				"bottom": "var:preset|spacing|medium",
+				"left": "var:preset|spacing|medium"
+			}
+		},
+
+		"elements": {
+			"link": {
+				"color": {
+					"text": "var:preset|color|light",
+					"background": "var:preset|color|primary"
+				},
+				"typography": {
+					"textDecoration": "underline",
+					"fontWeight": "600"
+				},
+				":hover": {
+					"color": {
+						"text": "var:preset|color|light",
+						"background": "var:preset|color|dark"
+					}
+				}
+			}
+		}
+	}
+}
