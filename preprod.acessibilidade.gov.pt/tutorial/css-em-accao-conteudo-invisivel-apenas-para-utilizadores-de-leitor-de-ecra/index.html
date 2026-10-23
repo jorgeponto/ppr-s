@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+<!-- JF note: escrito por head() -->  
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã - acessibilidade.gov.pt</title>
+	<link rel="canonical" href="index.html" />
+	<meta property="og:locale" content="pt_PT" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã - acessibilidade.gov.pt" />
+	<meta property="og:url" content="https://preprod.acessibilidade.gov.pt/tutorial/css-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra/" />
+	<meta property="og:site_name" content="acessibilidade.gov.pt" />
+	<meta property="article:modified_time" content="2020-12-17T14:54:07+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://preprod.acessibilidade.gov.pt/tutorial/css-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra/","url":"https://preprod.acessibilidade.gov.pt/tutorial/css-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra/","name":"CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã - acessibilidade.gov.pt","isPartOf":{"@id":"https://preprod.acessibilidade.gov.pt/#website"},"datePublished":"2020-07-10T12:32:43+00:00","dateModified":"2020-12-17T14:54:07+00:00","breadcrumb":{"@id":"https://preprod.acessibilidade.gov.pt/tutorial/css-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra/#breadcrumb"},"inLanguage":"pt-PT","potentialAction":[{"@type":"ReadAction","target":["https://preprod.acessibilidade.gov.pt/tutorial/css-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra/"]}]},{"@type":"BreadcrumbList","@id":"https://preprod.acessibilidade.gov.pt/tutorial/css-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://preprod.acessibilidade.gov.pt/"},{"@type":"ListItem","position":2,"name":"CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã"}]},{"@type":"WebSite","@id":"https://preprod.acessibilidade.gov.pt/#website","url":"https://preprod.acessibilidade.gov.pt/","name":"acessibilidade.gov.pt","description":"Acessibilidade Digital potencia a inclusão de pessoas com deficiência","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://preprod.acessibilidade.gov.pt/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-PT"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='https://ajax.googleapis.com' />
+<link rel='dns-prefetch' href='https://cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='https://maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/preprod.acessibilidade.gov.pt\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='../../wp-includes/css/dist/block-library/style.min%EF%B9%96ver=6.4.5.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='../../wp-content/plugins/contact-form-7/includes/css/styles%EF%B9%96ver=5.8.4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='math-captcha-frontend-css' href='../../wp-content/plugins/wp-math-captcha/css/frontend%EF%B9%96ver=6.4.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='../../../maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='FontLato-css' href='../../../fonts.googleapis.com/css%EF%B9%96family=Lato%EF%B9%95400,700,900&amp;display=swap&amp;ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='FontRedHatDisplay-css' href='../../../fonts.googleapis.com/css%EF%B9%96family=Red+Hat+Display%EF%B9%95400,700&amp;display=swap&amp;ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Icons-css' href='../../wp-content/themes/acessibilidade/ama-icons/styles%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Slick-css' href='../../wp-content/themes/acessibilidade/slick/slick%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='SlickTheme-css' href='../../wp-content/themes/acessibilidade/slick/slick-theme%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Style-css' href='../../wp-content/themes/acessibilidade/style%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='AboutCSS-css' href='../../wp-content/themes/acessibilidade/css/about%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ContactCSS-css' href='../../wp-content/themes/acessibilidade/css/contact%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='BlogueCSS-css' href='../../wp-content/themes/acessibilidade/css/blogue%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='TutorialCSS-css' href='../../wp-content/themes/acessibilidade/css/tutorial%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='panda-pods-repeater-general-styles-css' href='../../wp-content/plugins/panda-pods-repeater-field/css/general.min%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='panda-pods-repeater-styles-css' href='../../wp-content/plugins/panda-pods-repeater-field/css/front-end.min%EF%B9%96ver=1.2.0.css' type='text/css' media='all' />
+<script type="text/javascript" src="../../wp-includes/js/jquery/jquery.min%EF%B9%96ver=3.7.1.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/jquery-migrate.min%EF%B9%96ver=3.4.1.js" id="jquery-migrate-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%EF%B9%96rsd.xml" />
+<meta name="generator" content="WordPress 6.4.5" />
+<link rel='shortlink' href='index.html' />
+<link rel="alternate" type="application/json+oembed" href="https://preprod.acessibilidade.gov.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreprod.acessibilidade.gov.pt%2Ftutorial%2Fcss-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://preprod.acessibilidade.gov.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreprod.acessibilidade.gov.pt%2Ftutorial%2Fcss-em-accao-conteudo-invisivel-apenas-para-utilizadores-de-leitor-de-ecra%2F&amp;format=xml" />
+		<style type="text/css" id="wp-custom-css">
+			.accordion.faqs .card .card-header h2{
+    position: relative;
+  }
+
+  .accordion.faqs .card .card-header h2 button{
+    font-size: 1.25rem;
+    color: #000;
+    position: relative;
+    padding-right: 2rem;
+    width: 100%;
+    text-align: left;
+    display: block;
+  }
+
+  .accordion.faqs .card .card-header button::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%) rotate(180deg);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23333399'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+    animation: all 150ms ease-in-out;
+  }
+
+  .accordion.faqs .card .card-header button.collapsed::after {
+    transform: translate(0, -50%) rotate(0deg);
+  }
+.orador-card {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    .orador-card .orador-nome {
+        font-family: Lato, sans-serif;
+        font-size: 1.25rem;
+        font-weight: bold;
+        line-height: 1.5;
+        text-align: inherit;
+    }
+
+    .orador-card .orador-cargo {
+        font-family: Lato, sans-serif;
+        font-size: .8rem;
+        font-weight: normal;
+        line-height: 1.5;
+        text-align: inherit;
+    }
+
+    .oradores.container-fluid,
+    .page_details.oradores {
+        background-color: #EDEDEB;
+        padding-top: 48px!important;
+        padding-bottom: 48px!important;
+    }
+
+    .jornadas.container .row,
+    .jornadas.container-fluid .row {
+        padding: 16px;
+    }
+
+    .jornadas.container h2, 
+    .jornadas.container-fluid h2 {
+        font-weight: bold;
+    }
+
+    .jornadas .btn.btn-primary.btn_access:hover,
+    #jornadasAP2023 .btn.btn-primary.btn_access:hover {
+        background-color: transparent !important;
+    }
+
+    @media screen and (max-width: 576px) {
+        .page_details.jornadas {
+            padding: 32px!important;
+        }
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 991px) {
+        .page_details.jornadas {
+            padding: 51px!important;
+        }
+    }
+    
+
+    .jornadas ul > li {
+        margin-bottom: 15px;
+    }
+
+    .jornadas ul > li p {
+        margin-bottom: 0;
+    }
+
+    .jornadas .list-group .list-group-item {
+        padding-left: 2rem !important;
+        position: relative;
+        margin-bottom: 0;
+    }
+
+    .jornadas .list-group .list-group-item::before {
+        content: "\61";
+        color: #333399;
+        font-family: "ama" !important;
+        font-style: normal !important;
+        font-weight: normal !important;
+        font-variant: normal !important;
+        text-transform: none !important;
+        speak: none;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        top: 1rem;
+        left: 0;
+        position: absolute;
+    }
+
+
+    .oradores.orador-nome {
+        font-weight: bold;
+    }
+
+    .oradores.orador-cargo {
+        font-weight: 600;
+    }
+
+    .oradores.bio {
+        margin-bottom: 1rem;
+        font-size: 18px;
+    }
+
+    .jornadas .ama_link {
+        /* text-decoration: underline; */
+        color:#333399
+    }
+
+    .jornadas hr.ama_hr {
+        border: unset;
+        height: 1px;
+    } 
+
+#carousel_photos.carousel.slide .image-container {
+		aspect-ratio: 16/9;
+		object-fit: cover;
+		object-position: center;
+		width: 100%!important;
+	}
+	
+	#carousel_photos.carousel.slide .image-container .carousel-image {
+		aspect-ratio: 16/9;
+		object-fit: cover;
+		object-position: center;
+		width: 100%!important;
+	}
+
+	#carousel_photos .carousel-indicators li {
+		padding-bottom: 0;
+	}		</style>
+		<!-- JF note: fim da escrita por head() --> 
+  
+<link rel="icon" type="image/png" sizes="96x96" href="../../wp-content/themes/acessibilidade/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../wp-content/themes/acessibilidade/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../wp-content/themes/acessibilidade/favicon/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="57x57" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../wp-content/themes/acessibilidade/favicon/apple-icon-180x180.png">
+
+<link rel="icon" type="image/png" sizes="36x36"  href="../../wp-content/themes/acessibilidade/favicon/android-icon-36x36.png">
+<link rel="icon" type="image/png" sizes="48x48"  href="../../wp-content/themes/acessibilidade/favicon/android-icon-48x48.png">
+<link rel="icon" type="image/png" sizes="72x72"  href="../../wp-content/themes/acessibilidade/favicon/android-icon-72x72.png">
+<link rel="icon" type="image/png" sizes="96x96"  href="../../wp-content/themes/acessibilidade/favicon/android-icon-96x96.png">
+<link rel="icon" type="image/png" sizes="144x144"  href="../../wp-content/themes/acessibilidade/favicon/android-icon-144x144.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../../wp-content/themes/acessibilidade/favicon/android-icon-192x192.png">
+
+<link rel="mask-icon" href="../../wp-content/themes/acessibilidade/favicon/website_icon.svg" color="#333399">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://preprod.acessibilidade.gov.pt/wp-content/themes/acessibilidade/favicon/ms-icon-70x70.png">
+<meta name="msapplication-TileImage" content="https://preprod.acessibilidade.gov.pt/wp-content/themes/acessibilidade/favicon/ms-icon-144x144.png">
+<meta name="msapplication-TileImage" content="https://preprod.acessibilidade.gov.pt/wp-content/themes/acessibilidade/favicon/ms-icon-150x150.png">
+<meta name="msapplication-TileImage" content="https://preprod.acessibilidade.gov.pt/wp-content/themes/acessibilidade/favicon/ms-icon-310x310.png">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="manifest" href="../../wp-content/themes/acessibilidade/manifest.json">
+<meta name="msapplication-config" content="https://preprod.acessibilidade.gov.pt/wp-content/themes/acessibilidade/favicon/browserconfig.xml" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="../../../www.googletagmanager.com/gtag/js%EF%B9%96id=UA-35831726-11.js"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-35831726-11');
+	</script>
+	
+	<script>
+		function submitForm() {
+		  let uri = document.getElementById("uri").value;
+		  location.href = "https://accessmonitor.acessibilidade.gov.pt/results/" + encodeURIComponent(uri);
+		  return false;
+		}
+	</script>
+
+</head>
+<body>
+  <!--a class="d-none" href="#infos">Conteúdo Página</a-->
+
+  
+  <header>
+    <a id="jump_main" class="sr-only sr-only-focusable" href="#main">Saltar para o conteúdo principal da página</a>
+                <section id="cookies_bar">
+              			<div class="textwidget"><h2 class="sr-only">Cookies</h2>
+<div class="container d-flex justify-content-between align-items-center">
+<div class="d-block">
+<p>Este website utiliza cookies. Ao continuar a navegação está a aceitar a sua utilização.</p>
+<p class="d-lg-block">Caso pretenda saber mais, consulte a nossa <a href="https://www.ama.gov.pt/web/agencia-para-a-modernizacao-administrativa/politica-de-privacidade">política de privacidade</a>.</p>
+</div>
+<div id="cookies_buttons" class="d-flex justify-content-between align-items-center"><button class="btn_cookies" type="button">Sim, aceito</button><br />
+<button class="btn_no_cookies" type="button">Não, não aceito</button></div>
+<p><!--div class="d-block d-lg-none">
+
+Caso pretenda saber mais, consulte a nossa <a href="https://www.ama.gov.pt/web/agencia-para-a-modernizacao-administrativa/politica-de-privacidade">política de privacidade</a>..
+
+</div-->
+</div>
+</div>
+		            </section>
+        <section id="top-bar">
+      <div class="container d-flex justify-content-between">
+
+		  		  
+		  
+        <div class="top-bar-left d-inline-flex">
+          <button class="d-flex justify-content-start align-items-center" id="btn_experience_menu" aria-expanded="false" type="button">
+              <span aria-hidden="true" class="icon-ed-menu-dots icon"></span>
+              <span class="d-inline-block">Uma ferramenta do ecossistema <br class="d-block d-sm-none"/><span class="bold">acessibilidade.gov.pt</span></span>
+              <span aria-hidden="true" class="icon-arrow-drop icon"></span>
+          </button>
+        </div>
+        <div class="top-bar-right">
+          <nav class="d-none d-lg-flex justify-content-end" aria-label="Menu de opções de visualização de conteúdos">   
+            <ul class="d-flex justify-content-end">
+              <li class="d-flex align-items-center" id="btn_dark_mode">
+							<a href="#" id="dark_mode"><span aria-hidden="true" class="icon-dark icon"></span></a>
+						</li>            </ul>
+          </nav>
+        </div>
+      </div>
+    </section>
+
+
+  <section id="top-bar2">
+    <div class="container">
+      <div class="d-flex justify-content-between">
+        <div class="d-flex title" id="site_title">
+        </div>
+        <div class="d-flex align-items-end justify-content-end d-lg-none" id="open_small_menu">
+            <button type="button" aria-expanded="false"><span class="icon-hamburguer-menu-round icon" aria-hidden="true"></span><span class="sr-only">Abrir menu de navegação</span></button>
+        </div>
+        <div class="d-lg-flex d-none title_description">
+          O sítio para a divulgação, partilha e promoção das melhores práticas de acessibilidade para conteúdos Web e aplicações móveis.        </div>
+      </div>
+      <div class="d-lg-none title_description" id="title_description_small">
+        O sítio para a divulgação, partilha e promoção das melhores práticas de acessibilidade para conteúdos Web e aplicações móveis.      </div>
+    </div>
+  </section>
+
+
+  <section id="navbar">
+    <div class="container d-lg-flex justify-content-between d-none">
+      <nav class="navbar navbar-expand-sm d-flex no-gutters" aria-label="Menu principal do acessibilidade.gov.pt">
+        <ul class="navbar-nav p-2">
+                        <li class="nav-item" id="nav_index">
+                <a class="nav-link" href="../../index.html">Início</a>
+              </li>
+                        <li class="nav-item" id="nav_about">
+                <a class="nav-link" href="../../quem-somos/index.html">Quem Somos</a>
+              </li>
+                        <li class="nav-item" id="nav_">
+                <a class="nav-link" href="https://observatorio.acessibilidade.gov.pt">Observatório</a>
+              </li>
+                        <li class="nav-item" id="nav_tools">
+                <a class="nav-link" href="../../ferramentas/index.html">Ferramentas</a>
+              </li>
+                        <li class="nav-item" id="nav_tutorials">
+                <a class="nav-link" href="../../tutoriais/index.html">Tutoriais</a>
+              </li>
+                        <li class="nav-item" id="nav_publications">
+                <a class="nav-link" href="../../publicacoes/index.html">Publicações</a>
+              </li>
+                        <li class="nav-item" id="nav_blogue">
+                <a class="nav-link" href="../../blogue/index.html">Blogue</a>
+              </li>
+                        <li class="nav-item" id="nav_contacts">
+                <a class="nav-link" href="../../contactos/index.html">Contactos</a>
+              </li>
+                  </ul> 
+      </nav>
+      <form class="ml-auto p-2" id="search_form" method="post" role="search">
+        <div class="input-group">
+          <label class="sr-only" id="search_label" for="search">Pesquisa</label>
+          <input class="form-control mr-sm-2" type="text" id="search" placeholder="Pesquisa">
+          <button type="submit"><span class="icon-search icon" aria-hidden="true" title="efetuar pesquisa"></span><span class="sr-only">efetuar pesquisa</span></button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+
+  <section id="small_menu">
+    <div class="container">
+      <div class="d-flex justify-content-between no-gutters align-items-start" id="small_menu_top">
+        <div class="d-flex title" id="site_title_small"></div>
+        <div class="d-flex justify-content-end align-items-end">
+          <div class="d-flex align-items-center justify-content-end" id="close_small_menu">
+            <button aria-expanded="true" type="button"><span class="icon-close-round icon" aria-hidden="true"></span><span class="sr-only">Fechar menu de navegação</span></button>
+          </div>
+        </div>
+      </div>
+      <div class="d-flex flex-column">
+        <div class="p-2 d-flex justify-content-start align-items-center search_div">
+          <form class="p-2" id="search_form_small" method="post" role="search">
+            <div class="input-group">
+              <label class="sr-only" id="search_label_small" for="search_small">Pesquisar</label>
+              <input class="form-control mr-sm-2" type="text" id="search_small" placeholder="Pesquisa">
+              <button type="submit"><span class="icon-search icon" aria-label="efetuar pesquisa" role="img"></span></button>
+            </div>
+          </form>
+        </div>
+        <nav aria-label="Menu principal do acessibilidade.gov.pt">
+          <ul>
+                        <li class="p-2 d-flex">
+                <a href="../../index.html"><div id="nav_small_index" class="link d-flex align-items-center">Início</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="../../quem-somos/index.html"><div id="nav_small_about" class="link d-flex align-items-center">Quem Somos</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="https://observatorio.acessibilidade.gov.pt"><div id="nav_small_" class="link d-flex align-items-center">Observatório</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="../../ferramentas/index.html"><div id="nav_small_tools" class="link d-flex align-items-center">Ferramentas</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="../../tutoriais/index.html"><div id="nav_small_tutorials" class="link d-flex align-items-center">Tutoriais</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="../../publicacoes/index.html"><div id="nav_small_publications" class="link d-flex align-items-center">Publicações</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="../../blogue/index.html"><div id="nav_small_blogue" class="link d-flex align-items-center">Blogue</div></a>
+              </li>
+                        <li class="p-2 d-flex">
+                <a href="../../contactos/index.html"><div id="nav_small_contacts" class="link d-flex align-items-center">Contactos</div></a>
+              </li>
+                    </ul>
+        </nav>
+      </div>
+      <nav>
+        <ul class="d-flex d-md-flex no-gutters align-items-center small_bottom">
+          <li class="d-flex align-items-center">
+							<a class="d-flex align-items-center" href="#" id="dark_mode_small">
+								<span id="dark_mode_text_small"></span>
+								<span aria-hidden="true" class="icon-dark icon"></span>
+							</a>
+						</li>        </ul>
+      </nav>
+    </div>
+  </section>
+  
+  
+
+            <section id="experience_menu">
+          			<div class="textwidget"><div class="container">
+<div id="experience_top" class="row no-gutters">
+<div id="experience_menu_title" class="col-12 col-lg-5 d-inline-flex align-items-start" data-toggle="" data-target="">
+<h1 class="d-block" style="color: #333333;">ecossistema<br class="d-block d-sm-none d-lg-block" /><span class="bold">acessibilidade</span>.gov.pt</h1>
+<div class="d-sm-none d-inline-flex">
+<div class="icon-arrow-drop icon" aria-hidden="true"></div>
+</div>
+</div>
+<div id="experience_menu_desc" class="col-12 col-lg-7">
+<div class="row no-gutters">
+<div class="col-12 col-md-8">
+<p>Os sítios e as ferramentas de apoio à acessibilidade e à usabilidade, para garantir a promoção das boas práticas e melhorar a experiência de utilização dos serviços digitais.</p>
+</div>
+<p><!-- futuro botão p/ o Portal EED
+
+
+<div class="col-12 col-md-4 d-flex justify-content-end"><button class="btn_info" title="experiencia-digital.gov.pt" type="button">Visite o portal</button></div>
+
+
+--></p>
+</div>
+</div>
+</div>
+<div id="experience_links" class="row no-gutters">
+<div id="accessibility_links" class="col-12 col-lg-4">
+<div class="d-inline-flex align-items-start" role="region" data-target="#accessibility-links" data-toggle="" aria-expanded="true">
+<h2 class="d-lg-block d-none"><a class="accessibility_links_title" href="../../index.html"><span class="bold">acessibilidade</span><br class="d-block d-sm-none break-title" />.gov.pt</a></h2>
+<h2 class="d-lg-none d-block accessibility_links_title"><span class="bold">acessibilidade</span><br class="d-block d-sm-none break-title" />.gov.pt</h2>
+<div class="d-lg-none d-inline-flex">
+<div class="icon-arrow-drop icon" aria-hidden="true"></div>
+</div>
+</div>
+<div id="accessibility-links" class="collapse">
+<p>Divulgação, partilha e promoção das melhores práticas de acessibilidade para conteúdos Web e aplicações móveis.</p>
+<ul class="list-group no-gutters">
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a target="_blank" class="d-block" href="https://observatorio.acessibilidade.gov.pt" rel="noopener">Observatório Português da Acessibilidade Web <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="../../gerador/index.html" target="_blank" rel="noopener">Gerar a Declaração de acessibilidade <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://accessmonitor.acessibilidade.gov.pt" target="_blank" rel="noopener">Validador AccessMonitor <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="../../wcag/index.html" target="_blank" rel="noopener"><em lang="en">Standard Web</em> <abbr title="Diretrizes de Acessibilidade para Conteúdo Web - versão 2.1">WCAG 2.1</abbr> <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+</ul>
+</div>
+</div>
+<div id="usability_links" class="col-12 col-lg-4">
+<div class="d-inline-flex align-items-start" role="region" data-target="#usability-links" data-toggle="" aria-expanded="true">
+<h2 class="d-lg-block d-none"><a class="accessibility_links_title" href="https://usabilidade.gov.pt/" target="_blank" rel="noopener"><span class="bold">usabilidade</span>.gov.pt <span class="sr-only">hiperligação externa</span></a></h2>
+<h2 class="d-lg-none d-block accessibility_links_title"><span class="bold">usabilidade</span><br class="d-block d-sm-none break-title" />.gov.pt</h2>
+<div class="d-lg-none d-inline-flex">
+<div class="icon-arrow-drop icon" aria-hidden="true"></div>
+</div>
+</div>
+<div id="usability-links" class="collapse">
+<p>Recursos, ferramentas e boas práticas para melhorar a usabilidade e a experiência de utilização dos serviços digitais.</p>
+<ul class="list-group no-gutters">
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://usabilidade.gov.pt/guia-web" target="_blank" rel="noopener">Guia de usabilidade <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://selo.usabilidade.gov.pt/requisitos.html" target="_blank" rel="noopener">Lista de verificação <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://usabilidade.gov.pt/componentes" target="_blank" rel="noopener">Componentes <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://usabilidade.gov.pt/paginas-de-template" target="_blank" rel="noopener">Templates <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+</ul>
+</div>
+</div>
+<div id="badge_links" class="col-12 col-lg-4">
+<div class="d-inline-flex align-items-start" role="region" data-target="#badge-links" data-toggle="" aria-expanded="true">
+<h2 class="d-lg-block d-none"><a class="accessibility_links_title" href="https://selo.usabilidade.gov.pt/" target="_blank" rel="noopener"><span class="bold">selo.usabilidade</span><br class="d-block d-sm-none break-title" />.gov.pt <span class="sr-only">hiperligação externa</span></a></h2>
+<h2 class="d-lg-none d-block accessibility_links_title"><span class="bold">selo</span><br class="d-block d-sm-none break-title" />.gov.pt</h2>
+<div class="d-lg-none d-inline-flex">
+<div class="icon-arrow-drop icon" aria-hidden="true"></div>
+</div>
+</div>
+<div id="badge-links" class="collapse">
+<p>Selo de excelência que premeia as boas práticas de acessibilidade e usabilidade nos sítios Web dos serviços públicos.</p>
+<ul class="list-group no-gutters">
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://selo.usabilidade.gov.pt/selo.html" target="_blank" rel="noopener">Como obter o selo <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://amagovpt.github.io/kit-selo/" target="_blank" rel="noopener">Kit de apoio <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://selo.usabilidade.gov.pt/candidatura.html" target="_blank" rel="noopener">Candidatura <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="d-flex list-group-item border-0">
+<div class="icon-arrow-bullets list_arrow_link" aria-hidden="true"></div>
+<div class="list_link"><a class="d-block" href="https://selo.usabilidade.gov.pt/acessibilidadeeusabilidade.html" target="_blank" rel="noopener">Declaração de acessibilidade e usabilidade <span class="sr-only">hiperligação externa</span></a></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+		        </section>
+       
+
+</header>
+<main id="main">
+        <input type="number" value="0" id="full" name="full" hidden/>
+        <input type="number" value="1" name="current_page" id="current_page" hidden>
+        <section id="page">
+            <div class="container">
+                <nav class="d-sm-flex d-none" aria-label="você está aqui">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="../../index.html">Início</a></li>
+                        <li class="breadcrumb-item">
+                            <span aria-hidden="true" class="breadcrumb_arrow"></span>
+                            <a href="../../tutoriais/index.html">Tutoriais</a>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">
+                            <span aria-hidden="true" class="breadcrumb_arrow"></span>
+                            CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã                        </li>
+                                                        <li class="breadcrumb-item active" aria-current="page">
+                                    <span aria-hidden="true" class="breadcrumb_arrow"></span>
+                                    Página 1                                </li>
+                                            </ol>
+                </nav>
+
+                <div class="d-block d-sm-none" id="breadcrumbs_mobile">
+                    <p class="d-block w-100">Você está aqui:</p>
+                    <div class="dropdown d-block w-100">
+                        <button class="btn dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  type="button">
+                                                                <span>Página 1</span>
+                                                        <span aria-hidden="true" class="icon-arrow-drop"></span>
+                        </button>
+                        <ul class="dropdown-menu breadcrumbs" aria-labelledby="dropdownMenuButton">
+                            <li><a class="dropdown-item item-blue" href="../../index.html">Início</a></li>
+                            <li><a class="dropdown-item item-blue" href="../../tutoriais/index.html">&nbsp;&nbsp;&nbsp;Tutoriais</a></li>
+                            <li><a class="dropdown-item" id="post_title" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã</a></li>
+                                                                <li><a class="dropdown-item" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Página 1</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+
+                <div class="row no-gutters">
+                    <div class="col-12 d-flex align-items-center justify-content-start" aria-label="categoria do artigo" role="region">
+                        <a href="../../tutoriais/index.html" class="version" title="consulte todos os artigos classificados nesta categoria">Tutoriais</a>
+                    </div>
+                    <div class="col-lg-8 col-md-12 col-sm-12">
+                        <h1 class="page_title">CSS em Ação: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã</h1>
+                        <p class="page_description">A grande maioria das técnicas que tornam o conteúdo da web acessível a leitores de ecrã são invisíveis aos utilizadores que fazem uso da visão. Aprenda neste tutorial algumas técnicas para leitores de ecrã - tecnologia usada por pessoas cegas para aceder à informação existente num ecrã de computador através de sintetizador de fala e/ou linha braille.</p>
+                    </div>
+                    <div class="col-lg-4 d-none d-lg-flex justify-content-center">
+                                                        <img aria-hidden="true" alt="texto alternativo icone" class="icon_image" src="../../wp-content/uploads/2020/04/iconmonstr-friend-4.svg"/>
+                                            </div>
+                </div>
+                <hr aria-hidden="true"/>
+            </div>
+        </section>
+        
+        <section id="tutorial">
+            <div class="container">
+                <div class="d-flex justify-content-start no-gutters" id="tutorial-content">
+                    <div class="index" id="index_tutorial_full">
+                        <div class="sticky-top" id="index_sticky">
+                            <button class="index-title" type="button" id="btn_index" aria-expanded="true">
+                                <span class="index_title">Índice de conteúdos</span>
+                                <span aria-hidden="true" class="icon-content-menu-left d-lg-flex d-none" id="icon_menu_index"></span>
+                                <span aria-hidden="true" class="icon-content-menu-down d-flex d-lg-none" id="btn_index_small"></span>
+                            </button>
+                            <nav aria-label="índice de conteúdos do tutorial">
+                                <ul class="d-lg-block" id="index_pages">
+                                                                                    <li>
+                                                    <div class="single_page"></div>
+                                                                                                    <ul class="topics" id="topic_page1">
+                                                                                                                            <li class="topic topic-active" aria-current="true">
+                                                                        <span><a href="#page1_topic_1" data-page="1">Introdução</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_2" data-page="1">Esconder Texto dos Utilizadores Que Usam o Sentido da Visão</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_3" data-page="1">Gráficos utilizados como cabeçalhos</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_4" data-page="1">Links "saltar navegação"</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_5" data-page="1">Formulários dentro de tabelas de dados</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_6" data-page="1">Múltiplos elementos de formulário que "partilham" uma única etiqueta</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_7" data-page="1">Providenciar sugestões contextuais apenas para utilizadores de leitores de ecrã</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_8" data-page="1">Conclusão</a></span>
+                                                                    </li>
+                                                                                                                                <li class="topic">
+                                                                        <span><a href="#page1_topic_9" data-page="1">Veja também</a></span>
+                                                                    </li>
+                                                                                                                </ul>
+                                                </li>
+                                                                        </ul>
+                            </nav>
+                        </div>
+                    </div>
+
+                    <div id="tutorial-full">
+                                                <div class="tutorial_page">
+                                <div class="tutorial-text">
+                                    <h2>CSS em Acção: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã.</h2>
+                                                                                <h3 id="page1_topic_1">Introdução</h3> 
+                                            <p>A grande maioria das técnicas que tornam o conteúdo da web acessível a leitores de ecrã são <strong>invisíveis</strong> aos utilizadores que fazem uso da visão. O texto alternativo nas imagens (uso do atributo <code>alt</code>), a identificação dos cabeçalhos de uma tabela (uso do elemento <code>&lt;th&gt;</code>), o sumariar uma tabela (atributo <code>summary</code>), assim como a etiquetagem dos campos de um formulário (uso do elemento <code>&lt;label&gt;</code>) são alguns dos exemplos de técnicas extremamente úteis para quem usa leitores de ecrã, como é o caso das pessoas cegas. Para os conteúdos web o impacto da utilização destas técnicas, do ponto de vista gráfico, é mínimo ou mesmo nulo.</p>
+<p>Todos, de alguma maneira, sabemos que os <span lang="en" xml:lang="en">designers</span> web se confrontam com situações em que a adição de marcação acessível tem um impacto na apresentação visual do conteúdo. Nalguns casos, este impacto visual pode reduzir a usabilidade dos conteúdos para os utilizadores que recorrem à visão. Noutros casos, os <span lang="en" xml:lang="en">designers</span> privilegiam uma aparência ou formatação mais agradável, a qual poderá ser comprometida pela inclusão de todas as peças de texto num formato semanticamente correcto.</p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_2">Esconder Texto dos Utilizadores Que Usam o Sentido da Visão</h3> 
+                                            <p>Felizmente há formas de resolver os conflitos existentes entre as necessidades e os desejos dos utilizadores que fazem uso do sentido da visão e os desejos e necessidades dos utilizadores de leitor de ecrã. O presente artigo examina algumas das circunstâncias em que, esconder texto dos utilizadores que usam a visão, pode ser benéfico, propondo uma solução que faz com que o <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym> fique escondido sem comprometer a acessibilidade ou a integridade semântica do documento, permitindo ainda um funcionamento transversal aos navegadores e às plataformas.</p>
+<p>A essência da técnica proposta neste artigo consiste em esconder o conteúdo acima da área visível do navegador e ainda, também, de encolher o conteúdo apresentado numa área com uma altura e um comprimento de 1 pixel. A combinação de esconder o conteúdo acima da área visível e a de o encolher num quadrado de 1 pixel de lado é o que permite a esta técnica funcionar num vasto leque de navegadores e plataformas.</p>
+<h3>Amostra de Código 1</h3>
+<p>O seguinte código deverá aparecer na folha de estilo:</p>
+<pre>
+<code>
+.hidden {
+  position:absolute;
+  left:0px;
+  top:-500px;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+</code>
+</pre>
+<p>Na página <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym> a classe <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> (<code>.hidden</code>) deverá então ser referenciada dentro da <span lang="en" xml:lang="en">tag</span> do elemento que se pretende esconder, tal como se mostra a seguir:</p>
+<p><code>&lt;div class="hidden"&gt;<br />
+Este texto está escondido dos utilizadores que fazem uso da visão para ler mas visível a utilizadores com leitor de ecrã.<br />
+&lt;/div&gt;</code></p>
+<p>Os utilizadores que usam a visão não irão ver, de forma alguma, o conteúdo escondido. Este encontra-se fora do seu ângulo de visão, escondido acima do topo da janela do navegador. Os utilizadores de leitor de ecrã terão acesso integral ao conteúdo como se este não estivesse escondido. Os leitores de ecrã lêem o conteúdo normalmente, ignorando completamente os estilos usados nesta técnica.</p>
+<p>Alguns navegadores respondem bem à primeira metade desta técnica, a que consiste em colocar o elemento acima da janela de visualização do navegador. Outros navegadores não respondem a este método, e daí o uso da segunda técnica, o de tornar o elemento extremamente pequeno, ficando assim impossível de ver. Tendo em conta as diferenças de implementação existentes nos vários navegadores é necessário usar ambos os métodos. A distância de 500 pixeis acima da janela de visualização do navegador é um número seleccionado aleatoriamente. Qualquer distância será suficiente, desde que coloque o conteúdo fora do alcance visível no ecrã. Colocar o conteúdo acima da área visível no ecrã é preferível a colocá-lo à esquerda ou à direita uma vez que quaisquer uma destas duas direcções provocam, nalguns navegadores, irregularidades de visualização.</p>
+<p>A altura e a largura do elemento foram definidos em 1 pixel e não com zero, como seria mais lógico, porque alguns leitores de ecrã se recusam a ler conteúdo sem comprimento ou largura. Ao ajustar o atributo <code>overflow</code> para o valor <code>hidden</code>, estamos a garantir que o conteúdo não vai estravazar a área de visualização de 1 pixel em caso algum, nomeadamente nos navegadores em que a sua implementação /interpretação se encontra incorrecta. Juntos, estes métodos funcionam de forma transversal a um vasto leque de navegadores, plataformas e leitores de ecrã.</p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_3">Gráficos utilizados como cabeçalhos</h3> 
+                                            <p>Os <span lang="en" xml:lang="en">designers</span> sempre pensaram o conteúdo web como algo, quanto mais possível, agradável visualmente. Em vez disso, a linguagem de marcação <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym> produz algo de aspecto visual mais suave, sem adição de gráficos ou outros elementos media e privilegia claramente a estrutura do documento atribuindo significado aos elementos que formata. A técnica favorita dos <span lang="en" xml:lang="en">designers</span> que privilegiam o visual é a utilização de gráficos para dar forma aos cabeçalhos de um documento. Esta técnica, mais do que o texto simples, permite aos <span lang="en" xml:lang="en">designers</span> um maior controlo sobre o aspecto e a sensação provocada pelos cabeçalhos. Infelizmente, ao nível da marcação da linguagem <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym>, isto produz documentos que não possuem uma boa estrutura semântica. Os leitores de ecrã são incapazes de reconhecer estes elementos, sem uma correcta marcação, como cabeçalhos (i.e. <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, etc.). Envolver o elemento gráfico com <span lang="en" xml:lang="en">tags</span> de cabeçalho também não resolve, de forma apropriada, o problema. Numa lógica semântica, os cabeçalhos devem ser texto.</p>
+<p>Diversas têm sido as técnicas apresentadas que permitem aos criadores web usar gráficos como cabeçalhos em documentos semanticamente correctos. A primeira, e a mais amplamente conhecida, é a técnica de substituição da imagem de <span lang="en" xml:lang="en">Todd Fahrner</span> <a title="nota de rodapé: Using background-image to replace text" href="#one">[1]</a>. Logo após a sua introdução, peritos em acessibilidade web notaram que a técnica tornava o conteúdo indisponível aos leitores de ecrã <a title="nota de rodapé: Facts and opinion about Faherner image replacement" href="#two">[2]</a>. Não muito tempo depois, diversas pessoas introduziram técnicas alternativas, tais como a técnica "<span lang="en" xml:lang="en">off-to-left-technique</span>" (fora-para-a-esquerda) de <span lang="en" xml:lang="en">Bob Easton</span> <a title="nota de rodapé: Screen reader visibility" href="#three">[3]</a>, o método de texto-indentado de <span lang="en" xml:lang="en">Mike Rundle</span> <a title="nota de rodapé: Accessible image replacement" href="#four">[4]</a>, e outras. Todas estas técnicas tiveram êxito em esconder o conteúdo <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym>; algumas delas tiveram êxito em tornar o conteúdo acessível aos leitores de ecrã; e algumas delas funcionam mesmo com os navegadores e sistemas operativos mais utilizados. No entanto, nenhuma destas técnicas logrou ter êxito em simultâneo nestes três campos (i.e. leitores de ecrã, navegadores web e sistemas operativos), embora haja umas melhores do que outras.</p>
+<h3>Amostra de Código 2</h3>
+<p>Para implementar a técnica descrita neste artigo, deve então colocar o seguinte código na folha de estilo:</p>
+<p><code>.hidden<br />
+{<br />
+position:absolute;<br />
+left:0px;<br />
+top:-500px;<br />
+width:1px;<br />
+height:1px;<br />
+overflow:hidden;<br />
+}</p>
+<p>h1<br />
+{<br />
+height:30px;<br />
+width:60px;<br />
+background-image:url(h1.jpg);<br />
+}</code></p>
+<p>Na página <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym> a classe de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> deverá então ser referenciada no interior da <span lang="en" xml:lang="en">tag</span> do elemento que está a ser escondido, da seguinte forma:</p>
+<p><code>&lt;h1&gt;<br />
+&lt;img src="h1.jpg" alt="" height="30" width="60" /&gt;<br />
+&lt;span class="hidden"&gt;<br />
+O texto deste cabeçalho está escondido.<br />
+&lt;/span&gt;<br />
+&lt;/h1&gt;</code></p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_4">Links "saltar navegação"</h3> 
+                                            <p>É frequente os <span lang="en" xml:lang="en">designers</span> resistirem à ideia de colocarem nas suas páginas um <span lang="en" xml:lang="en">link</span> de texto que permita aos utilizadores de leitores de ecrã saltar os <span lang="en" xml:lang="en">links</span> que compõem o menu de navegação, conforme é solicitado pela <span lang="en" xml:lang="en">section 508</span> da <span lang="en" xml:lang="en">Rehabilitation Act</span> nos Estados Unidos <a title="nota de rodapé: U.S. Access Board (2001). Summary of Section 508 Standards" href="#five">[5]</a>, e conforme recomendado a nível internacional pelas Directrizes de Acessibilidade para o Conteúdo Web (<acronym lang="en" title="Web Content Accessibility Guidelines" xml:lang="en">WCAG</acronym>), versão 1.0 <a title="nota de rodapé: W3C (1999). Web Content Accessibility Guidelines 1.0" href="#six">[6]</a>. Adicionar um <span lang="en" xml:lang="en">link</span> para "saltar navegação" numa página web interfere no <span lang="en" xml:lang="en">design</span> original e, muitas vezes, obriga o <span lang="en" xml:lang="en">designer</span> a alterar a maquetagem da página.</p>
+<p>Alguns <span lang="en" xml:lang="en">designers</span> responderam à solicitação escondendo o texto dentro do atributo <code>alt</code> de uma imagem, ou utilizando outros métodos que escondem, por completo, o <span lang="en" xml:lang="en">link</span> dos utilizadores que usam o sentido da visão para acesso à informação. A grande desvantagem de colocar este <span lang="en" xml:lang="en">link</span> invisível fica a dever-se ao facto de o tornar indisponível a todos os que fazem uso da visão para navegar na web. E há alguns destes que o iriam considerar de extrema utilidade, como é o caso das pessoas que têm dificuldades motoras graves. Para estes utilizadores o uso de um dispositivo apontador como o rato é limitada ou mesmo impossível. Alguns utilizadores com dificuldades motoras, nomeadamente ao nível dos membros superiores, usam com frequência dispositivos e <span lang="en" xml:lang="en">softwares</span> que actuam por varrimento. Estes utilizadores apreciariam o uso de um <span lang="en" xml:lang="en">link</span> para "saltar a navegação" em vez de recorrerem repetidamente à tecla <kbd>tab</kbd>, ou equivalente em termos de varrimento, para passar por todas as opções do menu, ou outro conteúdo, até atingir o conteúdo principal da página.</p>
+<p>Uma forma de conciliar os desejos, dos <span lang="en" xml:lang="en">designers</span> gráficos, que privilegiam a imagem, dos utilizadores que usam leitores de ecrã e dos utilizadores com deficiências motoras, que fazem uso de <span lang="en" xml:lang="en">softwares</span> de varrimento, é utilizar a técnica que esconde o <span lang="en" xml:lang="en">link</span> "saltar a navegação" mas que fica visível quando é alcançado ao navegar com a tecla <kbd>tab</kbd>: nesta altura o <span lang="en" xml:lang="en">link</span> torna-se visível a quem faz uso da visão para navegar na web. Isto irá permitir que ambos os utilizadores: cegos e os que fazem uso da visão tirem vantagem da funcionalidade do <span lang="en" xml:lang="en">link</span> "saltar a navegação", assim como não introduz atrito no trabalho do <span lang="en" xml:lang="en">designer</span>.</p>
+<p>Para concretizar este objectivo, o <span lang="en" xml:lang="en">link</span> encontra-se, por defeito, escondido - para o efeito usa-se a técnica descrita neste artigo - mas torna-se visível quando o link recebe o foco do teclado. O que é o mesmo que dizer que são criados dois estilos. Um para o elemento <span lang="en" xml:lang="en">link</span> <code>&lt;a&gt;</code> e um outro para o pseudo-elemento foco do <span lang="en" xml:lang="en">link</span> <code>&lt;a:focus&gt;</code>. O estilo para o pseudo-elemento <code>&lt;a:focus&gt;</code> ficará apenas activo quando o utlizador usar a tecla <kbd>tab</kbd> sob o <span lang="en" xml:lang="en">link</span> , e o <span lang="en" xml:lang="en">link</span> voltará ao seu estado anterior, ou seja, o seu estado por defeito (i.e. invisível), quando o utilizador pressionar <kbd>tab</kbd> sob um outro elemento <span lang="en" xml:lang="en">link</span> .</p>
+<h3>Amostra Código 3</h3>
+<p>O seguinte código deverá aparecer na folha de estilo:</p>
+<p><code>#skip a, #skip a:hover, #skip a:visited<br />
+{<br />
+position:absolute;<br />
+left:0px;<br />
+top:-500px;<br />
+width:1px;<br />
+height:1px;<br />
+overflow:hidden;<br />
+}</p>
+<p>#skip a:active<br />
+{<br />
+position:static;<br />
+width:auto;<br />
+height:auto;<br />
+}</code></p>
+<p>Na página <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym> a classe de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> (<code>skip</code>) deverá ser referenciada no interior da <span lang="en" xml:lang="en">tag</span> do elemento, ficando com o seguinte aspecto:</p>
+<p><code>&lt;div id="skip"&gt;<br />
+&lt;a href="#content"&gt;Saltar para o conteúdo principal&lt;/a&gt;<br />
+&lt;/div&gt;</code></p>
+<p>Um dos inconvenientes desta ideia, em termos conceptuais, é a aparição repentina e inesperada de um <span lang="en" xml:lang="en">link</span> que estava anteriormente invisível, que poderá confundir o utilizador que usa a visão e que use o teclado para navegar. Para os utilizadores de leitor de ecrã isto não será um problema porque, ao não verem o ecrã, não se apercebem que subitamente surgiu um <span lang="en" xml:lang="en">link</span> novo. A partir da perspectiva destes utilizadores o <span lang="en" xml:lang="en">link</span> sempre esteve lá. E esta é a perspectiva mais correcta pois o efeito visual é apenas ilusório. Quanto aos utilizadores de rato, nunca irão ver o link, pelo que esta questão é completamente transparente para eles.</p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_5">Formulários dentro de tabelas de dados</h3> 
+                                            <p>Para um utilizador que faz uso da visão, as células de cabeçalho de uma tabela podem actuar com uma dupla função: por um lado, o de organizarem o conteúdo da tabela e por outro, o de servirem de etiquetas para os campos de edição do formulário que se encontra dentro dessa tabela. Isto mesmo pode ser visto no recorte de ecrã abaixo, que nos mostra um formulário construído dentro de uma tabela.</p>
+<div class="figura">
+<p style="text-align: center;"><small><img class="wp-image-2089 size-full aligncenter" src="../../wp-content/uploads/2020/04/accao_fig01.jpg" alt="Tabela com cabeçalhos, composta por 3 colunas e 5 linhas. As células de dados contêm elementos do tipo formulário, mas sem etiquetas. Os utilizadores que fazem uso da visão poderão juntar os cabeçalhos da tabela com os respectivos elementos do formulário tal como se os cabeçalhos fossem etiquetas de formulário." width="472" height="305" /></small></p>
+<p style="text-align: center;"><small>Figura 1. Tabela de dados utilizada para atribuir "labels" (etiquetar) aos elementos de um formulário</small></p>
+</div>
+<p>Para um utilizador de leitor de ecrã, os cabeçalhos em linha ou em coluna da tabela são em certa medida úteis para compreender o <span lang="en" xml:lang="en">layout</span> da mesma, mas os cabeçalhos não funcionam como etiquetas para o formulário que se encontra dentro da tabela e que o formata. Quando os utilizadores de leitor de ecrã passam num formulário, de um elemento para outro, não irão ouvir os cabeçalhos da tabela. Para sermos mais exactos, eles não irão ouvir, de todo, qualquer etiqueta. Para os leitores de ecrã os cabeçalhos da tabela não servem de etiquetas para o formulário. Os leitores de ecrã necessitam de etiquetas textuais codificadas no próprio formulário. Idealmente, estas etiquetas devem ser envelopadas na <span lang="en" xml:lang="en">tag</span> <code>&lt;label&gt;</code>, tal como é recomendado pelas <acronym lang="en" title="Web Content Accessibility Guidelines" xml:lang="en">WCAG</acronym> 1.0. Pode ainda, adicionalmente, etiquetar e agrupar elementos usando as <span lang="en" xml:lang="en">tags</span> <code>&lt;fieldset&gt;</code> e <code>&lt;legend&gt;</code>.</p>
+<p>No entanto, neste exemplo em particular, os utilizadores que usam a visão não irão obter qualquer benefício adicional a partir das etiquetas textuais. Para eles, este tipo de etiquetas textuais serão redundantes aos cabeçalhos da tabela, desde que, no estrito senso visual, estes cabeçalhos constituam de facto etiquetas adequadas aos elementos do formulário. Eis como a mesma tabela ficaria visualmente se fossem adicionadas etiquetas textuais padrão, com a <span lang="en" xml:lang="en">tag</span> <code>&lt;label&gt;</code>, a <span lang="en" xml:lang="en">tag</span> <code>&lt;fieldset&gt;</code> e a <span lang="en" xml:lang="en">tag</span> <code>&lt;legend&gt;</code>:</p>
+<div class="figura" style="text-align: center;">
+<p><img class="size-full wp-image-2090 aligncenter" src="../../wp-content/uploads/2020/04/accao_fig02.jpg" alt="Esta é a mesma tabela do primeiro exemplo, mas foram adicionadas etiquetas textuais a cada elemento do formulário." width="508" height="228" /></p>
+<p style="text-align: center;"><small>Figura 2. Formulário com etiquetas dentro da informação da tabela.</small></p>
+</div>
+<p>Apesar desta versão da tabela agradar aos utiizadores de leitor de ecrã, muitos utilizadores que usam a visão para a ler vão-se queixar que estas adições só constituem elementos de distracção. Para os utilizadores que usam a visão, a tabela, simplesmente, se tornou mais atafolhada, com redundância excessiva de palavras, e mais difícil de entender num simples relance. Esta é uma situação na qual a adição de marcação com a intenção de beneficiar os utlizadores de leitor de ecrã interfere com a acessibilidade, ou pelo menos a utilização-amigável, do conteúdo por parte dos utilizadores que usam a visão.</p>
+<h3>Amostra do código 4</h3>
+<p>O código que se segue deve aparecer na folha de estilo:</p>
+<p><code>.hidden<br />
+{<br />
+position:absolute;<br />
+left:0px;<br />
+top:-500px;<br />
+width:1px;<br />
+height:1px;<br />
+overflow:hidden;<br />
+}</code></p>
+<p>A classe de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> deveria então ser referenciada a partir do interior do elemento escondido, conforme se mostra:</p>
+<p><code>(...)<br />
+&lt;label for="amembers" class="hidden"&gt;Número de membros da equipa A&lt;/label&gt;<br />
+(...)</code></p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_6">Múltiplos elementos de formulário que "partilham" uma única etiqueta</h3> 
+                                            <p>Outro exemplo de incompatibilidade aparente entre as necessidades dos utilizadores de leitores de ecrã  e a dos utilizadores que usam a visão ocorre quando os <span lang="en" xml:lang="en">designers</span> concebem múltiplos campos de edição de formulário que dependem da mesma etiqueta. Um exemplo típico disto mesmo é quando dois, ou mais campos de edição são usados para dar entrada de números de telefone.</p>
+<div class="figura" style="text-align: center;">
+<img class="size-full wp-image-2091 aligncenter" src="../../wp-content/uploads/2020/04/accao_fig03.jpg" alt="Às palavras 'número de telefone' seguem-se 4 caixas de edição de texto, que intencionalmente foram colocadas para introduzir o indicativo de área, os três primeiros digitos, os últimos quatro digitos, ao que se segue a extensão" width="389" height="42" /></p>
+<p style="text-align: center;"><small>Figura 3. Etiquetas de formulário que se aplicam a mais do que um elemento de formulário.</small></p>
+</div>
+<p>No recorte de ecrã acima, muitos dos utilizadores que façam uso da visão para o interpretar irão compreender que a cada uma das caixas de edição corresponde uma determinada secção, parte de um número de telefone padronizado. Os utilizadores de leitor de ecrã podem ser induzidos a introduzir, logo na primeira caixa, o número de telefone completo. Quando descobrirem que a caixa os limita a introduzir um máximo de 3 caracteres, irão, provavelmente, ficar confusos. Alguns utilizadores irão ser capazes de proceder a uma análise contextual prévia antes de iniciarem a introdução, mas este tipo de experimentação leva tempo, e é desnecessária.</p>
+<p>O trabalho mais óbvio para contornar este problema em particular seria agregar todas as caixas de entrada de texto numa única caixa, e depois fornecer a respectiva etiqueta. Esta deverá ser a melhor solução a aplicar na maioria das circunstâncias e em quase todos os casos. Não obstante, a técnica de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> pode, igualmente, ser aqui aplicada.</p>
+<h3>Amostra de Código 5</h3>
+<p><code>.hidden<br />
+{<br />
+position:absolute;<br />
+left:0px;<br />
+top:-500px;<br />
+width:1px;<br />
+height:1px;<br />
+overflow:hidden;<br />
+}</code></p>
+<p>A classe de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> deve então ser referenciada no interior da <span lang="en" xml:lang="en">tag</span> do elemento a ser escondido, como se mostra a seguir:</p>
+<p><code>&lt;form method="post" action=""&gt;<br />
+&lt;p&gt;Número de Telefone:<br />
+(<br />
+&lt;label for="area" class="hidden"&gt;Indicativo de área&lt;/label&gt;<br />
+&lt;input name="area" type="text" size="3" maxlength="3" id="area" /&gt;<br />
+)<br />
+&lt;label for="first" class="hidden"&gt;primeiros 3 digitos&lt;/label&gt;<br />
+&lt;input name="first" type="text" size="3" maxlength="3" id="first" /&gt;<br />
+-<br />
+&lt;label for="last" class="hidden"&gt;últimos 4 digitos&lt;/label&gt;<br />
+&lt;input name="last" type="text" size="4" maxlength="4" id="last" /&gt;<br />
+&lt;label for="ext"&gt;extensão&lt;/label&gt;<br />
+&lt;input name="ext" type="text" size="5" maxlength="5" id="ext" /&gt;<br />
+&lt;/p&gt;<br />
+&lt;p&gt;&lt;input type="submit" name="Submit" value="Submeter" /&gt;&lt;/p&gt;<br />
+&lt;/form&gt;</code></p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_7">Providenciar sugestões contextuais apenas para utilizadores de leitores de ecrã</h3> 
+                                            <p>A mesma técnica de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> pode ser utilizada para fornecer informação contextual especialmente dirigida a utilizadores de leitor de ecrã, e que não será vista pelos utilizadores que usam o sentido da visão. Desde que não se abuse da utilização desta técnica, os utilizadores de leitor de ecrã podem beneficiar das mensagens de texto que lhes explicam o contexto do conteúdo web.</p>
+<p>Por exemplo, sítios com sistemas de menu complexos são muitas vezes desenhados com interfaces gráficas que organizam as hierarquias do menu em espaços visuais. Os "separadores" visuais são frequentemente utilizados para este propósito. Muitas vezes, o sistema de menu é concebido de tal forma que coloca em evidência a posição actual do utilizador na estrutura hierárquica do menu. Muita desta informação é perdida pelos utilizadores de leitor de ecrã porque toda ela é transmitida visualmente. Poderá, neste caso, ser apropriado colocar frases escondidas que permitam aos utilizadores de leitor de ecrã orientarem-se neste tipo de estrutura. As frases que poderão ser úteis e apropriadas inserir incluem:</p>
+<ul>
+<li>Início do menu principal.</li>
+<li>Fim do menu principal.</li>
+<li>Início [e fim] do submenu Produtos e Serviços.</li>
+<li>Você está aqui [seguido do texto do item actual na estrutura hierárquica do menu].</li>
+<li>Anúncio [coloque-o, por exemplo, antes de um anúncio tipo <span lang="en" xml:lang="en">banner</span>].</li>
+</ul>
+<p><strong>Uma palavra de precaução</strong>: todas estas frases devem ser breves, e devem ser, de todo, utilizadas moderadamente. Muitos sítios web não necessitam de recorrer a este tipo de ajuda contextual. Quanto mais simples e limpo for o <span lang="en" xml:lang="en">design</span>, menor será a necessidade de utilização desta técnica. Os <span lang="en" xml:lang="en">designers</span> nao devem sobrecarregar os utilizadores de leitor de ecrã com texto que lhes forneça pouco ou nenhum valor acrescentado. Esta técnica pode dar indicações contextuais importantes que de outra forma ficariam adstritas à natureza visual mas, uma vez que os utilizadores de leitor de ecrã têm de ouvir qualquer texto que esteja na página, estas indicações devem permanecer no limiar mínimo.</p>
+<h3>Amostra Código 6</h3>
+<p>O código seguinte deverá aparecer na folha de estilo:</p>
+<p><code>.hidden<br />
+{<br />
+position:absolute;<br />
+left:0px;<br />
+top:-500px;<br />
+width:1px;<br />
+height:1px;<br />
+overflow:hidden;<br />
+}</code></p>
+<p>A classe de <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> deve então ser referenciada no interior da <span lang="en" xml:lang="en">tag</span> do elemento a ser escondido, como se mostra a seguir:</p>
+<p><code>&lt;div class="hidden"&gt;Início do menu principal.&lt;/div&gt;<br />
+...<br />
+&lt;div class="hidden"&gt;Fim do menu principal.&lt;/div&gt;</code></p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_8">Conclusão</h3> 
+                                            <p>Quando a técnica <acronym lang="en" title="Cascading Style Sheet" xml:lang="en">CSS</acronym> aqui apresentada é utilizada para esconder o conteúdo em formato <acronym lang="en" title="Hiper Text Markup Language" xml:lang="en">HTML</acronym>, os utilizadores que fazem uso da visão para aceder ao conteúdo nunca chegarão a saber, de todo, que o conteúdo está lá. Pelo contrário, os utilizadores de leitor de ecrã nunca se aperceberão que este conteúdo está invisível aos utilizadores que fazem uso da visão para ler o ecrã.</p>
+<p>Ambos os tipos de utilizadores irão ser capazes, intuitivamente, de usar o conteúdo sem necessidade de grandes ajustamentos da informação ao nível da sua marcação/codificação. Esta técnica pode fornecer importantes indicações contextuais que, de outra maneira, se tornariam impossíveis de descodificar pelos utilizadores de leitor de ecrã, dada a intrinseca natureza visual destas indicações. Quando utilizada prudentemente, esta técnica pode esbater algumas das tensões existentes entre as solicitações da acessibilidade e as solicitações do <span lang="en" xml:lang="en">design</span> visual. Não é a única técnica ou método para resolver este problema mas é uma que os conceptualistas web poderão adicionar à sua lista de possíveis soluções para usar sempre que a necessidade emerge.</p>
+                                                                                        <hr aria-hidden="true"/> 
+                                                                                    <h3 id="page1_topic_9">Veja também</h3> 
+                                            <ol>
+<li><a id="one" href="https://stopdesign.com/archive/2003/03/13/flawed.html" hreflang="en" name="one">Using background-image to replace text - Link <span lang="pt" xml:lang="pt">externo</span></a></li>
+<li><a id="two" href="http://www.alistapart.com/articles/fir" hreflang="en" name="two">Facts and opinion about Faherner image replacement - Link <span lang="pt" xml:lang="pt">externo</span></a></li>
+<li><a id="five" href="http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=11#web." hreflang="en" name="five"><acronym title="United States">U.S.</acronym> Access Board (2001). Summary of Section 508 Standards<span lang="pt" xml:lang="pt"> - Link externo</span></a></li>
+<li><a id="six" href="http://www.w3.org/TR/WCAG10/" hreflang="en" name="six"><acronym title="World Wide Web Consortium">W3C</acronym> (1999). Web Content Accessibility Guidelines 1.0 - Link <span lang="pt" xml:lang="pt">externo</span></a></li>
+</ol>
+<p>Tutorial Original <acronym lang="en" title="Web Accessibility In Mind" xml:lang="en">WebAIM</acronym> com o título: <a lang="en" xml:lang="en" href="http://www.webaim.org/techniques/css/invisiblecontent/" hreflang="en"><acronym title="Cascading Style Sheet">CSS</acronym> in Action: Invisible Content Just for Screen Reader.</a><br />
+Tradução portuguesa: Cláudia Cardoso<br />
+Revisão Técnica: Jorge Fernandes</p>
+                                                                        </div>
+                            </div>
+                    
+                        <div class="share-tutorial">
+                            <h2>Partilhar</h2>
+                            <div class="d-block d-sm-flex justify-content-between">
+                                <ul class="d-flex">
+                                    <li>
+                                        <button aria-label="Partilhar no Facebook" type="button" role="button">
+                                            <span id="fb_icon" aria-hidden="true" class="icon-share-facebook social_icon"></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button aria-label="Partilhar no Twitter" type="button" role="button">
+                                            <span id="tw_icon" aria-hidden="true" class="icon-share-twitter social_icon"></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button aria-label="Partilhar no Linkedin" type="button" role="button">
+                                            <span id="ln_icon" aria-hidden="true" class="icon-share-linkedin social_icon"></span>
+                                        </button>
+                                    </li>
+                                </ul>
+                                <div class="p2">
+                                    <span class="d-sm-block d-none">Última atualização:<br class="d-sm-none d-block"/> 10 de Julho, 2020</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row no-gutters" id="tutorial-pagination">
+                                        <div class="col-sm-6" id="previous-page">
+                                                </div>
+                        <div class="col-sm-6" id="next-page">
+                                                </div>
+                                                              
+                    
+                </div>
+            </div>
+        </section>  
+        
+  
+    			<div class="textwidget"><section class="change">
+<div class="container">
+<div class="row no-gutters changes">
+<div class="col-lg-9 col-md-9 col-12 order-2 order-2 order-md-1 order-lg-1">
+<h2 class="d-inline">Acessibilidade Web</h2>
+<p id="change_description">Na <abbr title="União Europeia">UE</abbr> o <i lang="en">standard</i> que contém os requisitos de acessibilidade aplicado à Web e às aplicações móveis é a Norma EN301549. Ela não é mais do que uma cópia do <i lang="en">standard</i> <abbr lang="en" title="Web Content Accessibility Guidelines, version 2.1">WCAG 2.1</abbr> conformidade &#8216;AA&#8217;. Em Portugal esses requisitos constam do <abbr title="Regulamento Nacional de Interoperabilidade Digital">RNID</abbr> conforme decretado pelo DL n.º 83/2018.</p>
+<ul id="change_links" class="d-sm-block d-md-flex d-lg-flex no-gutters">
+<li class="p-2 d-flex justify-content-start align-items-center">
+<div class="icon-arrow-bullets d-flex justify-content-start align-items-center" aria-hidden="true"></div>
+<div><a href="../../blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/index.html" rel="noopener noreferrer">DL n.º 83/2018</a></div>
+</li>
+<li class="p-2 d-flex justify-content-start align-items-center">
+<div class="icon-arrow-bullets d-flex justify-content-start align-items-center" aria-hidden="true"></div>
+<div><a href="https://www.w3.org/TR/WCAG21/" target="_blank" rel="noopener noreferrer">WCAG 2.1 standard W3C<span class="sr-only">hiperligação externa</span></a></div>
+</li>
+<li class="p-2 d-flex justify-content-start align-items-center">
+<div class="icon-arrow-bullets d-flex justify-content-start align-items-center" aria-hidden="true"></div>
+<div><a href="../../blogue/categoria-normas/microsoft-publica-videos-sobre-a-norma-europeia-de-acessibilidade-as-tic/index.html" rel="noopener noreferrer">Norma Europeia EN 301549</a></div>
+</li>
+</ul>
+</div>
+<div class="col-lg-3 col-md-3 col-12 order-1 order-md-2 order-lg-2 d-flex justify-content-center">
+<div class="icon-xl-conversation icon" aria-hidden="true"></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+		    			<div class="textwidget"><section id="access" class="d-block">
+<div class="container">
+<div class="row no-gutters">
+<div class="col-lg-6 col-12">
+<div class="col-12 d-flex d-sm-none align-items-center justify-content-end"><span class="version">versão 2.1</span></div>
+<div class="d-flex justify-content no-gutters">
+<div class="p-2 d-flex">
+<div class="icon-check-monitor icon" aria-hidden="true"></div>
+<h2><a href="https://accessmonitor.acessibilidade.gov.pt/" target="_blank" rel="noopener">access<strong>Monitor</strong> <span class="sr-only">hiperligação externa</span></a></h2>
+</div>
+<div class="p-2 d-sm-flex d-none align-items-center"><span class="version">versão 2.1<br />
+</span></div>
+</div>
+<p><span id="access_description">O validador de práticas de acessibilidade web (WCAG 2.1)</span></p>
+</div>
+<form id="accessmonitor" onsubmit="return submitForm();" class="w-100 col-lg-6 col-12 row no-gutters">
+<div class="col-lg-8 col-md-6 col-sm-8 col-12">
+<p><label id="url_label" for="uri">Introduza o endereço de uma página:</label></p>
+<div class="input-group"><input id="uri" class="form-control mr-sm-2" title="Endereço da página" name="uri" pattern="https?://.+" required="" size="20" type="text" value="" placeholder="http://" /></div>
+<p><span class="access_error d-none">Introduza um url válido. Ex.: http://www.google.pt</span></p>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-4 col-12 d-flex"><button class="btn btn-primary btn_access" type="submit"><br />
+<i class="fa fa-check-square-o" aria-hidden="true"></i> Validar<br />
+</button></div>
+</form>
+</div>
+</div>
+</section>
+</div>
+		</main>
+
+  
+
+<footer>
+    
+            <div class="footer">
+          			<div class="textwidget"><div class="d-block">
+<div class="row no-gutters">
+<div class="col-sm-12 col-8">
+<nav aria-label="Menu de conformidade do acessibilidade.gov.pt">
+<ul class="d-sm-flex d-block justify-content-center p-3"><li class="d-flex links">
+							<a href="../../acessibilidade/index.html">Acessibilidade</a>
+						</li><li class="d-flex links">
+							<a href="../../termos-e-condicoes/index.html">Termos e Condições</a>
+						</li><li class="d-flex links">
+							<a target="_blank" href="https://www.ama.gov.pt/web/agencia-para-a-modernizacao-administrativa/politica-de-privacidade" rel="noopener">Política de Privacidade</a>
+						</li><li class="d-flex links">
+							<a target="_blank" href="https://amagovpt.github.io/kit-selo/" rel="noopener">GitHub</a>
+						</li><li class="d-flex links">
+							<a href="../../glossario/index.html">Glossário</a>
+						</li><li class="d-flex links">
+							<a href="../../opcoes-de-visualizacao/index.html">Opções de Visualização</a>
+						</li></ul>
+</nav>
+</div>
+<div class="col-4 d-flex justify-content-end d-sm-none">
+<div><a class="position-relative" href="https://selo.acessibilidade.gov.pt/" target="_blank" rel="noopener"><span class="sr-only">hiperligação externa</span><img decoding="async" src="../../wp-content/themes/acessibilidade/imgs/selo_ouro_small.png" alt="Selo Ouro de Usabilidade e Acessibilidade" /></a></div>
+</div>
+<div class="col-sm-12 d-flex justify-content-center">
+<nav class="d-inline-flex" aria-label="Proprietário e co-financiadores do acessibilidade.gov.pt">
+<ul class="d-sm-flex justify-content-center d-block">
+<li class="d-inline-flex justify-content-center"><img decoding="async" id="republica_portuguesa" src="../../wp-content/themes/acessibilidade/imgs/republica_portuguesa.png" alt="República Portuguesa" /></li>
+<li class="d-inline-flex justify-content-center"><img decoding="async" id="ama_img" src="../../wp-content/themes/acessibilidade/imgs/ama-modernizacao_administrativa.png" alt="AMA – Agência para a Modernização Administrativa I.P." /></li>
+<li class="d-inline-flex justify-content-center"><img decoding="async" id="compete_2020" src="../../wp-content/themes/acessibilidade/imgs/compete_2020.png" alt="COMPETE 2020 – Programa Operacional Competitividade e Internacionalização" /></li>
+<li class="d-inline-flex justify-content-center"><img decoding="async" id="uniao_europeia" src="../../wp-content/themes/acessibilidade/imgs/UE-uniao_europeia.png" alt="União Europeia – Fundo Europeu de Desenvolvimento Regional" /></li>
+<li class="d-inline-flex justify-content-center"><img decoding="async" id="portugal_2020" src="../../wp-content/themes/acessibilidade/imgs/portugal_2020.png" alt="Portugal 2020" /></li>
+</ul>
+</nav>
+<div class="d-sm-flex d-none selo_large"><a class="position-relative" href="https://selo.acessibilidade.gov.pt/" target="_blank" rel="noopener"><span class="sr-only">hiperligação externa</span><img decoding="async" src="../../wp-content/themes/acessibilidade/imgs/selo.png" alt="Selo Ouro de Usabilidade e Acessibilidade" /></a></div>
+</div>
+</div>
+<div class="d-flex justify-content-center p-3 copyright">
+<p>© 2021 AMA <span class="d-none d-sm-inline">&#8211;</span> <br class="d-block d-sm-none" />Agência para a Modernização Administrativa, I. P. Todos os direitos reservados.</p>
+</div>
+</div>
+</div>
+		        </div>
+    
+</footer>
+  
+  <script type="text/javascript" src="../../wp-content/plugins/contact-form-7/includes/swv/js/index%EF%B9%96ver=5.8.4.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/preprod.acessibilidade.gov.pt\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../wp-content/plugins/contact-form-7/includes/js/index%EF%B9%96ver=5.8.4.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js?ver=1.0.0" id="jQuery-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js?ver=1.0.0" id="Popper-js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js?ver=1.0.0" id="BootstrapJS-js"></script>
+<script type="text/javascript" src="../../wp-content/themes/acessibilidade/slick/slick.min%EF%B9%96ver=1.0.0.js" id="SlickJS-js"></script>
+<script type="text/javascript" src="../../wp-content/themes/acessibilidade/index%EF%B9%96ver=1.0.0.js" id="indexJS-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/ui/core.min%EF%B9%96ver=1.13.2.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/ui/mouse.min%EF%B9%96ver=1.13.2.js" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/ui/resizable.min%EF%B9%96ver=1.13.2.js" id="jquery-ui-resizable-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/ui/draggable.min%EF%B9%96ver=1.13.2.js" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/ui/droppable.min%EF%B9%96ver=1.13.2.js" id="jquery-ui-droppable-js"></script>
+<script type="text/javascript" src="../../wp-includes/js/jquery/ui/sortable.min%EF%B9%96ver=1.13.2.js" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" id="panda-pods-repeater-scripts-js-extra">
+/* <![CDATA[ */
+var strs_obj = {"be_restored":"It will be restored.","can_recover":"You can recover it from trash.","be_deleted":"It will be deleted permanently.","you_sure":"Are you sure?","Ignore_changes":"It seems like you have made some changes in a repeater field. Ignore the changes?"};
+var ajax_script = {"ajaxurl":"https:\/\/preprod.acessibilidade.gov.pt\/wp-admin\/admin-ajax.php","nonce":"ef42a96c78"};
+var PANDA_PODS_REPEATER_PAGE_URL = ["https:\/\/preprod.acessibilidade.gov.pt\/wp-content\/plugins\/panda-pods-repeater-field\/fields\/?page=panda-pods-repeater-field&"];
+var PANDA_PODS_REPEATER_URL = ["https:\/\/preprod.acessibilidade.gov.pt\/wp-content\/plugins\/panda-pods-repeater-field\/"];
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../wp-content/plugins/panda-pods-repeater-field/js/admin.min%EF%B9%96ver=1.0.0.js" id="panda-pods-repeater-scripts-js"></script>
+
+    <script>
+        $(document).ready(function () {
+            app.init();
+            app.shareIcons();
+            app.tutorialIndex();
+            app.tutorialPages();
+            //app.highlightTopic();
+            app.changeTutorialView();
+            app.changeActivePage();
+            app.socialSharing();
+            app.tableTutorial();
+            app.breadcrumbsMobile();
+        });     
+    </script>
+
+</body>
+</html>
+

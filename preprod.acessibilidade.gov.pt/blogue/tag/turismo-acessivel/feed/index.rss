@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de turismo acessível - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/tag/turismo-acessivel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/tag/turismo-acessivel/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 23 Jul 2020 19:43:04 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Hotelaria de Lisboa investe pouco na inclusão</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/hotelaria-de-lisboa-investe-pouco-na-inclusao/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Mon, 16 Sep 2013 10:04:05 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[acessibilidade web]]></category>
+		<category><![CDATA[turismo acessível]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=618</guid>
+
+					<description><![CDATA[<p>Lisboa é o principal destino turístico nacional, e a sua reputação enquanto destino turístico de eleição tem vindo a consolidar-se com prestigiados prémios internacionais. No entanto, a hotelaria da nossa capital parece ainda não ter despertado para o facto de estar situada num continente cada vez mais envelhecido, e num país em que 18% da população tem algum tipo de incapacidade: a oferta de quartos acessíveis representa menos de 2% da oferta total de alojamento lisboeta.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/hotelaria-de-lisboa-investe-pouco-na-inclusao/">Hotelaria de Lisboa investe pouco na inclusão</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[texto escrito por <em>Dora Alexandre<sup><a title="nota sobre Dora Alexandre" href="#nota1">1</a></sup></em>
+
+Lisboa é o principal destino turístico nacional, e a sua reputação enquanto destino turístico de eleição tem vindo a consolidar-se com prestigiados prémios internacionais. No entanto, a hotelaria da nossa capital parece ainda não ter despertado para o facto de estar situada num continente cada vez mais envelhecido, e num país em que 18% da população tem algum tipo de incapacidade: a <strong>oferta de quartos acessíveis representa menos de 2% da oferta total</strong> de alojamento lisboeta. A conclusão é do estudo “Turismo para Todos na Hotelaria de Lisboa – um custo ou um investimento”, realizado no âmbito de Mestrado na Escola Superior de Hotelaria e Turismo do Estoril (Alexandre, D., 2013).
+
+<span id="more-618"></span>
+
+O estudo tomou como amostra 100 hotéis de Lisboa que, na sua maioria, não veem no Turismo inclusivo uma prioridade ou uma oportunidade de negócio: <strong>48% afirmaram já terem considerado o Turismo para Todos, mas ponderam ainda se merece ou não ser desenvolvido e 33% consideram que a aposta na inclusão de clientes com necessidades especiais é uma questão de responsabilidade/solidariedade social</strong>.
+
+A criação de condições adequadas a clientes com necessidades especiais representa, no entanto, uma promissora oportunidade de negócio, comprovada por estudos realizados por vários países que já despertaram para esta realidade. É o caso da Alemanha, que apurou que o montante líquido anual de viajantes com limitações ronda os <strong>2500 milhões de euros</strong>. Nos Estados Unidos, o segmento do Turismo Acessível representa rendimentos de mais de 200 milhões de dólares; no Reino Unido, estima-se um valor anual de dois mil milhões de libras em receitas provenientes de turistas com incapacidades e, na Austrália, os gastos destes turistas foram calculados entre cerca de 8 e 12 milhões de dólares australianos. <strong>Na Europa, as receitas relativas ao Turismo Acessível variam entre 83 e 166 mil milhões de euros</strong>.
+
+No que toca à <strong>acessibilidade eletrónica</strong>, o estudo mostra que, <strong>entre os 100 hotéis lisboetas analisados, nenhum cumpre os requisitos mínimos de acessibilidade</strong> definidos nas <em lang="en">Web Content Accessibility Guidelines (WCAG 2.0)</em>. Uma aferição realizada pelo <strong><em lang="en">Access</em>Monitor da Unidade Acesso da Fundação para a Ciência e a Tecnologia</strong>. E, de facto, quando testados por pessoas cegas, os websites melhor classificados pelo <em lang="en">Access</em>Monitor não permitiram a estas pessoas realizar uma reserva de forma autónoma. Numa escala que varia entre 1 e 10, os <em lang="en">websites</em> analisados ficam-se por uma média de 4.3.
+
+A fraca aposta dos hoteleiros de Lisboa nos clientes com incapacidades é também traduzida na informação que prestam: <strong>em Lisboa, existem hotéis que dispõem de quartos adaptados mas não o anunciam no seu sítio online</strong>. Quando abordados telefonicamente, 77% dos hotéis assumiram ter quartos adaptados para pessoas com deficiência mas, nos <em lang="en">websites</em>, apenas 47% o referem.
+
+Uma realidade muito aquém da de outros países que já se adiantam na inclusão e na aposta num acolhimento universal. A inclusão não precisa de ter um aspeto ortopédico, basta adotar os princípios do design universal e usar de criatividade – a recompensa chegará em novos clientes e mais retorno económico – afinal, de acordo com estudos internacionais, os turistas com necessidades especiais são mais fiéis aos destinos, tendem a viajar com mais acompanhantes, a despender valores mais elevados, a optar por estadias mais prolongadas e ainda a contrariar a sazonalidade.
+
+A Organização Mundial do Turismo atualizou neste mês de setembro de 2013 as recomendações de 2005 sobre o Turismo acessível a todos e prevê que, em 2020, as pessoas com algum tipo de incapacidade representarão 25% dos 1,56 mil milhões de chegadas mundiais.
+
+Num contexto internacional iluminado pela Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006), que Portugal também ratificou, é importante que o Turismo – e neste caso a Hotelaria – deem o seu contributo para a criação de uma sociedade para Todos. Com a vantagem de poderem retirar dessa aposta o devido proveito económico.
+
+<address>Dora Alexandre,
+Jornalista programa Consigo, RTP2/INR, I.P.
+Mestre em Turismo, <abbr title="Escola Superior de Hotelaria e Turismo do Estoril">ESHTE</abbr></address>
+<h2>Referências bibliográficas</h2>
+<ul>
+ 	<li>Alexandre, D. (2013). <em>O Turismo para Todos na Hotelaria de Lisboa – um custo ou um investimento?</em> Estoril: Escola Superior de Hotelaria e Turismo do Estoril.</li>
+ 	<li>Department for Culture, Media and Sport. (2010). <em lang="en">Accessible Tourism: Making it work for your business.</em> Londres: Department for Culture, Media and Sport.</li>
+ 	<li>Neumann, P. e Reuber, P. (2004). <em>Estímulos económicos do turismo acessível para todos, Ministério Federal da Economia e do Trabalho Alemão (BMWA).</em> Munique e Berlim: BMWA.</li>
+ 	<li>Dwyer, L. e Darcy, S. (2008). <em lang="en">The economic contribution of accessible tourism to the australian economy. In Darcy et al (Ed.) Visitor Accessibility in Urban Centres (pp.21-34).</em> Gold Coast, Queensland: The Sustainable Tourism Cooperative Research Centre.</li>
+ 	<li>Arola, E., Cooper, C. e Cooper, R. (2011). <em lang="en">Encounters of disabled customers on the tourism stage. In Buhalis, D. e Darcy, S. (Ed.), Accessible Tourism Concepts and issues (pp. 139-148).</em> Bristol: Charlesworth Press.</li>
+ 	<li>Buhalis, D., Eichhorn, V., Michopoulou, E. e Miller, G. (2006). <em lang="en">Accessibility Market and Stakeholder Analysis 2005. OSSATE/ University of Surrey, 2006.</em> Consultado a 19 novembro, 2011, em http://www.ossate.org/doc_resources/OSSATE_Market&amp;Stakeholder%20Analysis_Public_Version_Fina..pdf</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/hotelaria-de-lisboa-investe-pouco-na-inclusao/">Hotelaria de Lisboa investe pouco na inclusão</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

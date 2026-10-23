@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Recursos - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/category/categoria-recursos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/category/categoria-recursos/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Tue, 12 Sep 2023 09:38:15 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>O que precisa saber sobre a Declaração de Acessibilidade</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-acessibilidade/perguntas-frequentes-sobre-a-declaracao-de-acessibilidade-conforme/</link>
+		
+		<dc:creator><![CDATA[Catarina Fontinha]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 11:39:47 +0000</pubDate>
+				<category><![CDATA[Acessibilidade]]></category>
+		<category><![CDATA[Recursos]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=4122</guid>
+
+					<description><![CDATA[<p>Nesta secção foram compiladas as questões mais recorrentes sobre a Declaração de Acessibilidade. Caso tenha uma dúvida para a qual não encontra aqui resposta, envie-nos um e-mail para acessibilidade@ama.gov.pt. Porque é que o meu sítio web tem de ter uma Declaração de Acessibilidade? De acordo com o Decreto-lei n.º 83/2018, de 19 de outubro, todos [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-acessibilidade/perguntas-frequentes-sobre-a-declaracao-de-acessibilidade-conforme/">O que precisa saber sobre a Declaração de Acessibilidade</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Nesta secção foram compiladas as questões mais recorrentes sobre a Declaração de Acessibilidade. Caso tenha uma dúvida para a qual não encontra aqui resposta, envie-nos um e-mail para <a href="mailto:acessibilidade@ama.gov.pt">acessibilidade@ama.gov.pt</a>. </p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="accordion faqs" id="accordionFAQs">
+            <!-- faq01 -->
+            <div class="card">
+              <div class="card-header" id="faq01">     
+                <h2 class="mb-0">       
+                  <button class="btn-link text-left" data-toggle="collapse" data-target="#collapseFAQ01" aria-expanded="true" aria-controls="collapseFAQ01">
+                    Porque é que o meu sítio web tem de ter uma Declaração de Acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ01" class="collapse show" aria-labelledby="faq01" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>De acordo com o <a href="/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/">Decreto-lei n.º 83/2018, de 19 de outubro</a>, todos os sítios web são obrigados a publicar uma Declaração de Acessibilidade. O prazo para o fazer terminou a 23 de setembro de 2020.</p>
+                  <p>Além disso, olhar para os aspetos de acessibilidade do seu sítio web, traz inúmeros benefícios, tais como:</p>
+                  <ul><li><strong>Melhoria da reputação do seu sítio web e da sua organização:</strong> Um sítio web acessível melhora significativamente a reputação da sua página e organização;</li><li><strong>Atendimento às necessidades dos utilizadores:</strong> Leva soluções mais usáveis e acessíveis, proporcionando uma melhor experiência de utilização, potenciand as capacidades de cada um;</li><li><strong>Comunicação eficaz:</strong> Um sítio web acessível garante que a sua mensagem é transmitida de forma eficiente, o que contribui para uma maior retenção de utilizadores;</li><li><strong>Cumprimento da legislação:</strong> Evita custos do não cumprimento da legislação.</li></ul>
+                  <p>Para publicar a Declaração de Acessibilidade, siga os seguintes passos:</p>
+                  <ol><li><a href="/blogue/categoria-acessibilidade/3passos-declaracao/#n1">Avalie o conteúdo do seu sítio web e as várias componentes da interface dos seus serviços</a></li><li><a href="/blogue/categoria-acessibilidade/3passos-declaracao/#n2">Preencha a Declaração de Acessibilidade</a></li><li><a href="/blogue/categoria-acessibilidade/3passos-declaracao/#n3">Publique a Declaração de Acessibilidade no seu sítio web</a></li></ol>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq 01 -->
+            <!-- faq02 -->
+            <div class="card">
+              <div class="card-header" id="faq02">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ02" aria-expanded="false" aria-controls="collapseFAQ02">
+                    De acordo com legislação, quais são os sítios web que estão obrigados a ter uma Declaração de Acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ02" class="collapse" aria-labelledby="faq02" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>No artigo 2.º do <a href="/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/#n2">DL n.º 83/2018</a> o grupo-alvo encontra-se assim definido:</p>
+                  <ul><li>Estado;</li><li>Regiões Autónomas;</li><li>Autarquias locais;</li><li>Institutos públicos;</li><li>Entidades administrativas independentes;</li><li>Fundações públicas;</li><li>Associações públicas;</li><li>Entidades do setor público empresarial;</li><li>Organizações Não Governamentais que prestam serviços essenciais ao público ou que prestam serviços que visam especificamente responder às necessidades das pessoas com deficiência ou que lhes são diretamente dirigidos;</li><li>Instituições de ensino superior, estabelecimentos de educação pré-escolar e de educação escolar, públicos e privados com financiamento público, no que se refere ao conteúdo relativo a funções administrativas essenciais por via eletrónica;</li><li>Organismos de direito público, tal como definidos nas alíneas a) e b) do n.º 2 do artigo 2.º do Código dos Contratos Públicos;</li><li>Associações de que façam parte uma ou várias entidades referidas nas alíneas anteriores, se essas associações forem criadas para o fim específico de satisfazer necessidades de interesse geral, sem caráter industrial ou comercial.</li></ul>
+                  <p>Para mais informações, consulte: o <a href="/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/" target="_blank" rel="noreferrer noopener">DL n.º 83/2018 &#8211; Acessibilidade dos sítios web e das aplicações móveis.</a></p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq02 -->
+            <!-- faq03 -->
+            <div class="card">
+              <div class="card-header" id="faq03">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ03" aria-expanded="false" aria-controls="collapseFAQ03">
+                    O que precisa saber sobre a Declaração de Acessibilidade
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ03" class="collapse" aria-labelledby="faq03" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Nesta secção foram compiladas as questões mais recorrentes sobre a Declaração de Acessibilidade. Caso tenha uma dúvida para a qual não encontra aqui resposta, envie-nos um e-mail para <a href="mailto:acessibilidade@ama.gov.pt">acessibilidade@ama.gov.pt</a>. </p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq03 -->
+            <!-- faq04 -->
+            <div class="card">
+              <div class="card-header" id="faq04">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ04" aria-expanded="false" aria-controls="collapseFAQ04">
+                    De acordo com legislação, quais são os sítios web que estão obrigados a ter uma Declaração de Acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ04" class="collapse" aria-labelledby="faq04" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>No artigo 2.º do <a href="/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/#n2">DL n.º 83/2018</a> o grupo-alvo encontra-se assim definido:</p>
+                  <ul><li>Estado;</li><li>Regiões Autónomas;</li><li>Autarquias locais;</li><li>Institutos públicos;</li><li>Entidades administrativas independentes;</li><li>Fundações públicas;</li><li>Associações públicas;</li><li>Entidades do setor público empresarial;</li><li>Organizações Não Governamentais que prestam serviços essenciais ao público ou que prestam serviços que visam especificamente responder às necessidades das pessoas com deficiência ou que lhes são diretamente dirigidos;</li><li>Instituições de ensino superior, estabelecimentos de educação pré-escolar e de educação escolar, públicos e privados com financiamento público, no que se refere ao conteúdo relativo a funções administrativas essenciais por via eletrónica;</li><li>Organismos de direito público, tal como definidos nas alíneas a) e b) do n.º 2 do artigo 2.º do Código dos Contratos Públicos;</li><li>Associações de que façam parte uma ou várias entidades referidas nas alíneas anteriores, se essas associações forem criadas para o fim específico de satisfazer necessidades de interesse geral, sem caráter industrial ou comercial.</li></ul>
+                  <p>Para mais informações, consulte: o <a href="/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/" target="_blank" rel="noreferrer noopener">DL n.º 83/2018 &#8211; Acessibilidade dos sítios web e das aplicações móveis.</a></p>
+          
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq04 -->
+            <!-- faq05 -->
+            <div class="card">
+              <div class="card-header" id="faq05">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ05" aria-expanded="false" aria-controls="collapseFAQ05">
+                    Qual é a diferença entre usabilidade e acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ05" class="collapse" aria-labelledby="faq05" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Antes de usar [Usabilidade] é preciso aceder [Acessibilidade]. A área de usabilidade está relacionada com a facilidade de utilização e as funcionalidades de um produto ou serviço, enquanto a acessibilidade visa garantir que não existam barreiras que impeçam a maioria das pessoas de utilizar essas mesmas funcionalidades.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq05 -->
+            <!-- faq06 -->
+            <div class="card">
+              <div class="card-header" id="faq06">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ06" aria-expanded="false" aria-controls="collapseFAQ06">
+                    Qual é a diferença entre a Declaração de Acessibilidade plenamente conforme, parcialmente conforme ou não conforme? 
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ06" class="collapse" aria-labelledby="faq06" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>A Declaração de Acessibilidade pode apresentar 3 estados:</p>
+                  <ul>
+                    <li>Plenamente conforme</li>
+                    <li>Parcialmente conforme</li>
+                    <li>Não conforme</li>
+                  </ul>
+                  <p>Para determinar o estado de conformidade a declarar é necessário efetuar dois tipos de avaliações: avaliação automática e avaliação manual.</p>
+                  <p>A primeira consiste na utilização de ferramentas automáticas &#8211; validadores de acessibilidade web &#8211; pelas diferentes páginas web que compõem uma amostra. Esta avaliação tem por objetivo verificar as práticas de acessibilidade encontradas.</p>
+                  <p>Para a avaliação automática, o DL n.º 83/2018 recomenda que a mesma seja feita recorrendo a um validador de acessibilidade web comummente utilizado no mercado. No mínimo e sempre que possível, a AMA recomenda a utilização do validador <a href="https://accessmonitor.acessibilidade.gov.pt">AccessMonitor</a>. Dos estudos efetuados nos últimos 25 anos, sabe-se que as ferramentas automáticas detetam cerca de 30% dos requisitos de acessibilidade e que, com alguma frequência, produzem falsos negativos e falsos positivos &#8211; ou seja, a sua eficácia é relativa. Este conhecimento obriga-nos a complementar a avaliação automática com a avaliação manual. Recorde-se também que há sítios web em que a avaliação automática se revela mesmo de impossível.</p>
+                  <p>A avaliação manual, mais robusta em termos de resultados que a avaliação automática, consiste em análises humanas periciais com base em listas de requisitos. O objetivo é verificar até que ponto os conteúdos web satisfazem  os requisitos. No caso da legislação portuguesa a lista de requisitos a utilizar designa-se por <a href="https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html">&#8220;10 aspetos críticos de acessibilidade funcional&#8221;</a>.</p>
+                  <h3>Plenamente conforme</h3>
+                  <p>Diz-se que uma Declaração de Acessibilidade apresenta um estado de plenamente conforme, quando:</p>
+                  <ul>
+                    <li>todas as páginas do sítio web apresentam na avaliação automática feita através do <a href="https://accessmonitor.acessibilidade.gov.pt/">AccessMonitor</a>, uma classificação superior ou igual a 9, e ainda;</li><li>Na avaliação manual pericial, a entidade tem de demonstrar que o seu sítio web cumpre, no mínimo, 75% dos requisitos constantes da <a href="https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html">checklist dos 10 aspetos críticos de acessibilidade funcional</a>.</li>
+                  </ul>
+                  <h3>Parcialmente conforme</h3>
+                  <p>Diz-se que uma Declaração de Acessibilidade apresenta um estado de parcialmente conforme, quando:</p>
+                  <ul><li>O sítio web apresenta páginas, na avaliação automática feita através do <a href="https://accessmonitor.acessibilidade.gov.pt/">AccessMonitor</a>, com classificação entre [8 e 9[, e ainda;</li><li>Na avaliação manual pericial, a entidade tem de demonstrar que o seu sítio web cumpre, no mínimo, entre [50% a 75%[ dos requisitos constantes da <a href="https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html">checklist dos 10 aspetos críticos de acessibilidade funcional</a>.</li></ul>
+                  <h3>Não conforme</h3>
+                  <p>Diz-se que uma Declaração de Acessibilidade apresenta um estado de não conforme, quando:</p>
+                  <ul><li>O sítio web apresenta páginas, na avaliação automática feita através do <a href="https://accessmonitor.acessibilidade.gov.pt/">AccessMonitor</a>, com classificação inferior a 8, e ainda;</li><li>Na avaliação manual pericial, o sítio web não chega a satisfazer 50% dos requisitos constantes da <a href="https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html">checklist dos 10 aspetos críticos de acessibilidade funcional</a>.</li></ul>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq06 -->
+            <!-- faq07 -->
+            <div class="card">
+              <div class="card-header" id="faq07">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ07" aria-expanded="false" aria-controls="collapseFAQ07">
+                    Posso utilizar o Observatório Português de Acessibilidade Web para efetuar um primeiro diagnóstico?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ07" class="collapse" aria-labelledby="faq07" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Sim, poderá utilizar o <a href="https://observatorio.acessibilidade.gov.pt/">Observatório Português de Acessibilidade</a> como ferramenta de recurso ao diagnóstico do seu sítio web.</p>
+                  <p>O <a href="https://observatorio.acessibilidade.gov.pt/">Observatório</a> avalia, identifica e promove a aplicação das melhores práticas de acessibilidade e usabilidade em sítios Web e aplicações móveis na Administração Pública Portuguesa. No <a href="https://observatorio.acessibilidade.gov.pt/">Observatório</a>, pode identificar as melhores práticas e os erros mais comuns.</p>
+                  <p>Para iniciar o diagnóstico, caso ainda o sítio web não se encontre disponível no <a href="https://observatorio.acessibilidade.gov.pt/">Observatório</a>, poderá solicitá-lo à Equipa de Usabilidade e Conteúdos da AMA através do email: <a href="mailto:acessibilidade@ama.gov.pt">acessibilidade@ama.gov.pt</a>.</p>
+                  <p>Para uma análise mais detalhada, através de ferramentas de avaliação automática, poderá consultar informação no passo <a href="/blogue/categoria-noticias/3passos-declaracao/#n1">&#8220;Avaliar&#8221;</a> presente no artigo <a href="/blogue/categoria-noticias/3passos-declaracao/">3 passos para publicar a Declaração de Acessibilidade</a>.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq07 -->
+            <!-- faq08 -->
+            <div class="card">
+              <div class="card-header" id="faq08">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ08" aria-expanded="false" aria-controls="collapseFAQ08">
+                    Que ferramentas devo utilizar para efetuar a avaliação automática do meu sítio web?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ08" class="collapse" aria-labelledby="faq08" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Para a avaliação automática, é necessário recorrer a ferramentas de diagnóstico do seu sítio web. Para avaliar as boas práticas de acessibilidade em conteúdos e diferentes componentes da página, recomendamos a utilização das seguintes ferramentas:</p>
+                  <ul><li><strong><a href="https://accessmonitor.acessibilidade.gov.pt/">AccessMonitor</a>:</strong> Esta é uma ferramenta desenvolvida pela própria AMA para realizar o diagnóstico inicial;</li><li><strong><a href="https://rocketvalidator.com/"><strong>RocketValidator</strong></a><strong>:</strong> A AMA disponibiliza <em lang="en">vouchers</em> para os organismos públicos, que podem ser solicitados através do e-mail <a href="mailto:acessibilidade@ama.pt">acessibilidade@ama.pt</a>;</strong></li><li><strong><strong><a href="https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd">aXe Dev Tools</a>:</strong> Este é um <em lang="en">plugin</em> para o navegador Chrome, recomendado para verificar páginas sob autenticação.</strong></li></ul>
+                  <p><strong>Lembramos que, numa avaliação automática, é aconselhável usar mais do que uma ferramenta. Nem todas as ferramentas funcionam da mesma forma e dão os mesmos resultados. Ao usarmos mais do que uma ferramenta conseguimos avaliações mais abrangentes.</strong></p>
+                  <p>A avaliação, de acordo com o <a href="/blogue/categoria-acessibilidade/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis/">Decreto-lei n.º 83/2018</a>, deve ser feita a uma amostra mínima, composta pela página de entrada mais todas as páginas hiperligadas à página de entrada pertencentes ao domínio em análise.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq08 -->
+            <!-- faq09 -->
+            <div class="card">
+              <div class="card-header" id="faq09">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ09" aria-expanded="false" aria-controls="collapseFAQ09">
+                    Como posso efetuar uma avaliação automática a páginas de acesso restrito?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ09" class="collapse" aria-labelledby="faq09" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Para efetuar uma análise a páginas sob sistema de autenticação, poderá utilizar as seguintes ferramentas:</p>
+                  <ul><li><strong><a href="https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd">Axe Dev Tools</a>: </strong>É uma extensão para o navegador Google Chrome e permite encontrar e corrigir problemas de acessibilidade em qualquer página sob login.</li></ul>
+                  <p>Outra possibilidade será efetuar a avaliação através de um ambiente de desenvolvimento desativando o sistema de autenticação.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq09 -->
+            <!-- faq10 -->
+            <div class="card">
+              <div class="card-header" id="faq10">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ10" aria-expanded="false" aria-controls="collapseFAQ10">
+                    Quantas páginas do meu sítio web são necessárias avaliar para demonstrar resultados na Declaração de Acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ10" class="collapse" aria-labelledby="faq10" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>O número de páginas da amostra poderá variar consoante a dimensão do seu sítio web. Para efetuar uma amostra de páginas poderá utilizar o método <em lang="en">Home+</em> que consiste em reunir todas as páginas hiperligadas à página de entrada pertencentes ao domínio em análise.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq10 -->
+            <!-- faq11 -->
+            <div class="card">
+              <div class="card-header" id="faq11">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ11" aria-expanded="false" aria-controls="collapseFAQ11">
+                    O meu sítio web possui diversos idiomas. Devo contemplar os requisitos da Declaração de Acessibilidade para todos os idiomas?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ11" class="collapse" aria-labelledby="faq11" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Sim, a avaliação deverá ser efetuada também às páginas com diversos idiomas. O <a href="/gerador/">gerador da Declaração de Acessibilidade</a> encontra-se disponível em 2 línguas: português e inglês.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq11 -->
+            <!-- faq12 -->
+            <div class="card">
+              <div class="card-header" id="faq12">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ12" aria-expanded="false" aria-controls="collapseFAQ12">
+                    Qual a validade da minha Declaração de Acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ12" class="collapse" aria-labelledby="faq12" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>A Declaração de Acessibilidade tem a validade de 12 meses, a contar da data da sua publicação. No fim desse período, é necessário atualizar a avaliação automática e manual, e a data da Declaração. Deve submeter o pedido de renovação dos dados constantes no <a href="https://observatorio.acessibilidade.gov.pt/">Observatório Português de Acessibilidade</a>, através do e-mail: <a href="mailto:acessibilidade@ama.pt">acessibilidade@ama.pt</a>. </p>        
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq12 -->
+            <!-- faq13 -->
+            <div class="card">
+              <div class="card-header" id="faq13">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ13" aria-expanded="false" aria-controls="collapseFAQ13">
+                    Quando o meu sítio web já possui uma Declaração de Acessibilidade e é reformulado, devo criar uma nova declaração de acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ13" class="collapse" aria-labelledby="faq13" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Sim, se o seu sítio web passar por uma reformulação significativa que envolva alterações no <em lang="en">template</em>, <em lang="en">design</em> visual, conteúdo e outras funcionalidades, será necessário criar uma nova Declaração de Acessibilidade.</p>
+                  <p>As mudanças realizadas na reformulação devem ser consideradas tanto nas avaliações automáticas como nas avaliações manuais com base na <a href="https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html"><em lang="en">Checklist</em> 10 aspetos críticos de acessibilidade funcional</a>.</p>
+                </div>
+              </div>
+            </div>
+            <!-- fim da faq13 -->
+            <!-- faq14 -->
+            <div class="card">
+              <div class="card-header" id="faq14">
+                <h2 class="mb-0">
+                  <button class="btn-link text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFAQ14" aria-expanded="false" aria-controls="collapseFAQ14">
+                    Como posso ser reconhecido com o Selo de Usabilidade e Acessibilidade?
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseFAQ14" class="collapse" aria-labelledby="faq14" data-parent="#accordionFAQs">
+                <div class="card-body">
+                  <p>Enquanto que para declarar o estado de conformidade na Declaração de Acessibilidade é um processo auto-declarativo, o qual só depende da sua organização, para obter o Selo de Usabilidade e Acessibilidade é necesário submeter uma candidatura à AMA para que esta possa validar que o seu sítio web ou aplicação móvel cumpre, de facto, os requisitos. Se atualmente a sua Declaração já apresenta um estado de plenamente conforme, parta para o próximo passo. Verifique no sítio web do <a href="https://selo.usabilidade.gov.pt">Selo de Usabilidade</a> quais os requisitos adicionais, valide-os, compile as evidências, anexe-as à sua Declaração e, <a href="https://selo.usabilidade.gov.pt/candidatura.html">submeta a candidatura à AMA</a>.</p>
+                  <p>O <a href="https://selo.usabilidade.gov.pt">Selo de Usabilidade e Acessibilidade</a> identifica e promove a aplicação das melhores práticas em sítios Web e aplicações móveis.</p>
+                  <p>A iniciativa, desenvolvida pela <a href="https://www.ama.gov.pt">Agência para a Modernização Administrativa</a> e pelo <a href="https://www.inr.pt">Instituto Nacional para a Reabilitação</a>, visa simplificar e tornar mais eficiente a utilização dos serviços públicos online por parte dos cidadãos, nomeadamente aqueles que necessitam de recorrer a tecnologias de apoio.</p>
+                  <p>O Selo de Usabilidade e Acessibilidade está estruturado em três níveis de classificação, correspondendo a níveis de esforço distintos:</p>
+                  <ul><li>O nível 1, o mais básico, corresponde ao Selo Bronze;</li><li>O nível 2 corresponde ao Selo Prata;</li><li>O nível 3, o mais exigente em termos de esforço, corresponde ao Selo Ouro.</li></ul>
+                  <p>Os requisitos do Selo são internacionalmente reconhecidos, compilando as melhores práticas e standards internacionais nas áreas da usabilidade e da experiência de utilização.</p>
+                  <p>Para mais informações, visite a página dedicada ao Selo de Usabilidade e Acessibilidade em: <a href="https://selo.usabilidade.gov.pt">selo.usabilidade.gov.pt</a>.</p>
+                </div>
+              </div>
+            </div> <!-- fim da faq14 -->
+          </div> <!-- fim do acordeão -->
+</div></div>
+
+
+
+<p></p>
+</div></div>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-acessibilidade/perguntas-frequentes-sobre-a-declaracao-de-acessibilidade-conforme/">O que precisa saber sobre a Declaração de Acessibilidade</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Acessibilidade nos dispositivos móveis iOS da Apple</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/acessibilidade-nos-sistemas-operativos-apple-para-dispositivos-moveis-ios-e-watchos/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Sun, 23 Feb 2020 10:56:00 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Recursos]]></category>
+		<category><![CDATA[Dispositivos móveis]]></category>
+		<category><![CDATA[iOS]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1061</guid>
+
+					<description><![CDATA[<p>Se desenvolve aplicações para o iPhone, iPad, iPod ou mesmo para o Apple Watch, apresentamos nesta página um conjunto de Recursos que lhe permitem o desenvolvimento das mesmas de forma a ficarem acessíveis a pessoas com deficiência.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/acessibilidade-nos-sistemas-operativos-apple-para-dispositivos-moveis-ios-e-watchos/">Acessibilidade nos dispositivos móveis iOS da Apple</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"></div>
+<div><img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-1993" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/voiceover-300x177.png" alt="Utilizadora Cega usando um iPhone com o leitor de ecrã VoiceOver" width="300" height="177" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/voiceover-300x177.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/voiceover.png 452w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+Se desenvolve aplicações para o iPhone, iPad, iPod ou mesmo para o Apple Watch, apresentamos nesta página um conjunto de Recursos que lhe permitem o desenvolvimento das mesmas de forma a ficarem acessíveis a pessoas com deficiência.
+
+<span id="more-1061"></span>
+<h2>Recursos para desenvolvedores de aplicações iOS</h2>
+<ul>
+ 	<li>Acessibilidade no iOS &#8211; como tornar as suas aplicações para o iPhone, iPad e iPod Acessíveis.
+<ul>
+ 	<li><a href="https://developer.apple.com/videos/wwdc/2015/?id=201">(WWDC 2015). <em lang="en">iOS Accessibility</em></a>.</li>
+ 	<li>Para <a href="https://developer.apple.com/accessibility/ios/">mais informações sobre Acessibilidade no iOS</a>.</li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li>Acessibilidade no Apple Watch
+<ul>
+ 	<li><a href="https://developer.apple.com/videos/play/wwdc2015-204/">(WWDC 2015). <em lang="en">WatchOS Accessibility</em></a>.</li>
+</ul>
+</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/acessibilidade-nos-sistemas-operativos-apple-para-dispositivos-moveis-ios-e-watchos/">Acessibilidade nos dispositivos móveis iOS da Apple</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

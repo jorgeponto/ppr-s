@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Material Didático Acessível - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/tag/material-didatico-acessivel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/tag/material-didatico-acessivel/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Sun, 19 Jul 2020 16:50:49 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>PDFs em formato Universal Access a partir do Google Docs</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/pdfs-em-formato-universal-access-a-partir-do-google-docs/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2020 11:42:00 +0000</pubDate>
+				<category><![CDATA[Normas]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Material Didático Acessível]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1647</guid>
+
+					<description><![CDATA[<p>A produção de ficheiros em formato PDF que possam ser lidos por utilizadores que usam tecnologias de apoio não é uma tarefa fácil. Apesar de existir uma norma já desde 2012 e atualizada em 2014 (ISO 14289-1:2014 &#8211; PDF/UA) que descreve com detalhe quais os cuidados a ter para que um documento digital possa ser [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/pdfs-em-formato-universal-access-a-partir-do-google-docs/">PDFs em formato Universal Access a partir do Google Docs</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<strong>A produção de ficheiros em formato PDF que possam ser lidos por utilizadores que usam tecnologias de apoio não é uma tarefa fácil</strong>. Apesar de existir uma norma já desde 2012 e atualizada em 2014 (<a href="https://www.iso.org/standard/64599.html">ISO 14289-1:2014 &#8211; PDF/UA</a>) que descreve com detalhe quais os cuidados a ter para que um documento digital possa ser acessível, o problema reside em localizar um <strong>editor de texto</strong> que comporte estas práticas e que, no momento da conversão para formato PDF, os <strong>conversores</strong> disponíveis não destruam essas práticas &#8211; resultando num PDF final completamente inacessível.
+
+A <a href="http://www.grackledocs.com">GrackleDocs.com</a> propõe um processo de produção muito simples. Partindo do <strong>editor Google Docs online</strong>, disponibilizou um &#8220;add-on&#8221; que valida o documento, orienta a correção e, no final do processo, disponibiliza a opção de conversão de um documento Google Docs num documento em formato PDF/UA. <abbr lang="en" title="Universal Accessibility" xml:lang="en">UA</abbr> é a abreviatura de <strong>Acessibilidade Universal</strong>, preservando este PDF uma ordem de leitura adequada por exemplo a quem usa leitores de ecrã com sintetizadores de fala, preserva a estrutura de cabeçalhos, parágrafos, tabelas de dados, bem como os equivalentes textuais alternativos dos gráficos e diagramas. Durante o processo de revisão o sistema ainda chama a atenção para as cores usadas na letra e no fundo, e ainda para o tamanho da letra a usar.
+
+Uma excelente ferramenta para quem precisa de produzir ficheiros PDF em conformidade para com as <a href="http://www.w3.org/Translations/WCAG20-pt-PT/"><em lang="en" xml:lang="en">Web Content Accessibility Guidelines</em></a>. Esperemos que a Google e outros grandes fabricantes de aplicações de edição e gestão de conteúdos digitais sigam o exemplo.<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/pdfs-em-formato-universal-access-a-partir-do-google-docs/">PDFs em formato Universal Access a partir do Google Docs</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

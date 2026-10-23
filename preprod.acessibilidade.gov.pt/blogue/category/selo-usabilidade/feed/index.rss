@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Selo Usabilidade - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/category/selo-usabilidade/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/category/selo-usabilidade/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 16 Nov 2023 13:33:19 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Jornadas reforçam compromisso com Acessibilidade e Usabilidade Digital</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/jornadas-reforcam-compromisso-com-acessibilidade-e-usabilidade-digital/</link>
+		
+		<dc:creator><![CDATA[Catarina Fontinha]]></dc:creator>
+		<pubDate>Wed, 15 Nov 2023 16:23:21 +0000</pubDate>
+				<category><![CDATA[Acessibilidade]]></category>
+		<category><![CDATA[Evento]]></category>
+		<category><![CDATA[Inclusão]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Selo Usabilidade]]></category>
+		<category><![CDATA[Usabilidade]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=4605</guid>
+
+					<description><![CDATA[<p>As Jornadas de Acessibilidade e Usabilidade Digital da Administração Pública (AP) 2023 decorreram nos dias 9 e 10 de novembro, no Auditório do IAPMEI, em Lisboa, e estabeleceram-se como um evento de referência na área da Acessibilidade e Usabilidade Digital.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/jornadas-reforcam-compromisso-com-acessibilidade-e-usabilidade-digital/">Jornadas reforçam compromisso com Acessibilidade e Usabilidade Digital</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>As Jornadas de Acessibilidade e Usabilidade Digital da Administração Pública (AP) 2023 decorreram nos dias 9 e 10 de novembro, no Auditório do IAPMEI, em Lisboa, e estabeleceram-se como um evento de referência na área da Acessibilidade e Usabilidade Digital.</p>
+
+
+
+<p>Ao longo de dois dias, a iniciativa promovida pela Agência para a Modernização Administrativa (AMA) integrou componentes teóricas e práticas, com o objetivo de apresentar estratégias, debater necessidades, partilhar conhecimento, pensar a integração da tecnologia e experimentar práticas e ferramentas que tornem os sítios web e as aplicações móveis mais acessíveis e inclusivos.</p>
+
+
+
+<p>Com 106 pessoas inscritas para 12 horas de sessões em auditório, 4 workshops hands on job esgotados e cerca de 3.000 visualizações no canal YouTube, as Jornadas foram um êxito e evidenciaram a procura e o interesse do setor público, mas também do setor privado, por momentos de confluência focados no cidadão.</p>
+
+
+
+<p>Esta primeira edição das Jornadas pretendeu, ainda, reforçar o compromisso da AP com a acessibilidade digital, a usabilidade e a inclusão, bem como ser o primeiro passo para a criação de um fórum interativo de partilha de conhecimento e soluções digitais, aberto à AP, à academia e ao setor privado que permita olhar para o presente e projetar o futuro tendo em vista serviços digitais cada vez melhores e sem barreiras.</p>
+
+
+
+<p>Quem quiser saber mais e ver ou rever sessões expositivas das Jornadas no canal YouTube da AMA, pode fazê-lo através do link: <a rel="noreferrer noopener" href="https://preprod.acessibilidade.gov.pt/jornadas2023/." target="_blank">https://preprod.acessibilidade.gov.pt/jornadas2023/. </a></p>
+
+
+
+<div class="carousel slide" data-ride="carousel" data-interval="false" id="carousel_photos">
+  <ol class="carousel-indicators" aria-label="6 imagens, seletor em forma de carrossel">
+    <li data-target="#carousel_photos" data-slide-to="0" class="active">
+      <span role="button">1</span>
+    </li>
+    <li data-target="#carousel_photos" data-slide-to="1">
+      <span role="button">2</span>
+    </li>
+
+	<li data-target="#carousel_photos" data-slide-to="2">
+		<span role="button">3</span>
+	  </li>
+
+	  <li data-target="#carousel_photos" data-slide-to="3">
+		<span role="button">4</span>
+	  </li>
+
+	  <li data-target="#carousel_photos" data-slide-to="4">
+		<span role="button">5</span>
+	  </li>
+
+	  <li data-target="#carousel_photos" data-slide-to="5">
+		<span role="button">6</span>
+	  </li>
+  </ol>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="image-container">
+		  <img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2023/11/02.jpg" alt="" class="carousel-image img-fluid">
+	  </div>
+    </div>
+	<div class="carousel-item">
+		<div class="image-container">
+			<img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2023/11/03.jpg" alt="" class="carousel-image img-fluid">
+		</div>
+	  </div>
+	  <div class="carousel-item">
+		<div class="image-container">
+			<img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2023/11/04.jpg" alt="" class="carousel-image img-fluid">
+		</div>
+	  </div>
+	  <div class="carousel-item">
+		<div class="image-container">
+			<img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2023/11/07.jpg" alt="" class="carousel-image img-fluid">
+		</div>
+	  </div>
+	  <div class="carousel-item">
+		<div class="image-container">
+			<img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2023/11/05.jpg" alt="" class="carousel-image img-fluid">
+		</div>
+	  </div>
+	  <div class="carousel-item">
+		<div class="image-container">
+			<img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2023/11/06.jpg" alt="" class="carousel-image img-fluid">
+		</div>
+	  </div>
+  </div>
+
+</div>
+
+
+
+<p></p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/jornadas-reforcam-compromisso-com-acessibilidade-e-usabilidade-digital/">Jornadas reforçam compromisso com Acessibilidade e Usabilidade Digital</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Paralímpicos já são Ouro</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/paralimpicos-ja-sao-ouro/</link>
+		
+		<dc:creator><![CDATA[Cláudia Cardoso]]></dc:creator>
+		<pubDate>Tue, 17 Aug 2021 15:24:11 +0000</pubDate>
+				<category><![CDATA[Acessibilidade]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Selo Usabilidade]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3669</guid>
+
+					<description><![CDATA[<p>O sítio Web do Comité Paralímpico de Portugal https://paralimpicos.pt, obteve o Selo Ouro de Usabilidade e Acessibilidade mesmo antes da chamada de embarque para Tóquio, onde se realizarão os Jogos Paralímpicos 2020.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/paralimpicos-ja-sao-ouro/">Paralímpicos já são Ouro</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>O sítio Web do Comité Paralímpico de Portugal <a href="https://paralimpicos.pt">https://paralimpicos.pt</a> obteve o <strong>Selo Ouro de Usabilidade e Acessibilidade</strong>, mesmo antes da chamada de embarque para Tóquio, onde se realizarão os Jogos Paralímpicos 2020.</p>
+
+
+
+<p>Cumpridos os requisitos de Usabilidade e Acessibilidade necessários, de acordo com as listas de verificação &#8211; 10 Aspetos Funcionais, Conteúdo e Transação &#8211; o sítio web foi também alvo de testes com utilizadores. Exigência esta requerida para a obtenção do Selo Ouro e que surge pela primeira vez na legislação nacional (Decreto-Lei n.º 83/2018). </p>
+
+
+
+<p>Os testes com utilizadores devem ser realizados com um mínimo de seis utilizadores, dois dos quais com necessidades especiais (o relatório deve indicar a data da análise, descrição das tarefas solicitadas, número de participantes e sua caracterização, bem como os resultados obtidos, nomeadamente o número e o tipo de pessoas com deficiência que participaram no estudo, principais barreiras encontradas, taxas de sucesso de execução das tarefas e tempos de execução). Mais informação disponível em: <a href="https://selo.usabilidade.gov.pt">https://selo.usabilidade.gov.pt</a> .</p>
+
+
+
+<p>Desejamos as maiores felicidades a todos os atletas paralímpicos, que tragam de Tóquio mais Bronze, Prata e Ouro a que nos habituaram, mas acima de tudo que superem os seus objetivos pessoais!</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/paralimpicos-ja-sao-ouro/">Paralímpicos já são Ouro</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

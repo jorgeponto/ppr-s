@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de selo - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/tag/selo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/tag/selo/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 15 Oct 2020 12:05:17 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Kit &#8220;Selo de Usabilidade e Acessibilidade&#8221;</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/kit-selo-de-usabilidade-e-acessibilidade-2/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2020 23:47:24 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[acessibilidade web]]></category>
+		<category><![CDATA[legislação]]></category>
+		<category><![CDATA[Normas]]></category>
+		<category><![CDATA[selo]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1890</guid>
+
+					<description><![CDATA[<p>Decorrente da identificação de que é fundamental simplificar e tornar mais eficiente a utilização dos serviços digitais públicos, por parte dos cidadãos, a Agência para a Modernização Administrativa, I.P., em colaboração com o Instituto Nacional para a Reabilitação, I.P. desenvolveram o Selo de Usabilidade e Acessibilidade. O selo de Usabilidade e Acessibilidade identifica e distingue [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/kit-selo-de-usabilidade-e-acessibilidade-2/">Kit &#8220;Selo de Usabilidade e Acessibilidade&#8221;</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[Decorrente da identificação de que é fundamental simplificar e tornar mais eficiente a utilização dos serviços digitais públicos, por parte dos cidadãos, a Agência para a Modernização Administrativa, I.P., em colaboração com o Instituto Nacional para a Reabilitação, I.P. desenvolveram o <strong>Selo de Usabilidade e Acessibilidade</strong>.
+
+O selo de Usabilidade e Acessibilidade identifica e distingue a aplicação das melhores práticas de usabilidade e acessibilidade em sítios web e aplicações. Escalonado em 3 níveis de exigência, o selo apresenta-se na cor Bronze, Prata e Ouro, promovendo a melhoria contínua dos sítios Web ou das aplicações móveis. Como principais destinatários encontram-se as entidades da Administração Pública.
+
+<span id="more-1890"></span>
+<p class="lead">Usabilidade e, mais recentemente, <em lang="en">User Experience</em> são hoje conceitos incontornáveis na construção de qualquer tipo de presença digital. A preocupação com a interação do utilizador, a minimização das suas frustrações e a criação de uma experiência de navegação agradável, são objetivos que adquirem particular relevância quando se aplicam à presença digital dos organismos da Administração Pública.</p>
+No caso de pessoas com deficiência ou incapacidade a seleção dos requisitos levou em conta o princípio básico de &#8220;antes de usar é preciso aceder&#8221;. Neste contexto, torna-se extremamente relevante eliminar todo o tipo de barreiras que impeçam estes utilizadores &#8211; utilizadores de tecnologias de apoio &#8211; de aceder aos serviços e à informação disponibilizada na Internet. <strong>Só depois de aceder podemos falar de usabilidade.</strong>
+
+O Selo está estruturado em três níveis, correspondendo a 3 etapas de esforço diferenciadas. Cada uma destas etapas é chancelada por um Selo. O Selo Bronze chancela a conformidade para com os requisitos de nível 1. Ao nível intermédio corresponde o Selo Prata e ao nível mais elevado corresponde o Selo Ouro. Para obter o Selo Ouro, é necessário adicionar aos testes com utilizadores, os requisitos definidos para o Selo Bronze e para o Selo Prata.
+
+O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado, na sequência da qual surgiu o Regulamento Nacional de Interoperabilidade Digital (RNID). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro.
+
+A adoção do Selo de Usabilidade e Acessibilidade permite, aos organismos públicos, não só fornecer melhores serviços digitais, mas também dar um passo importante no que concerne ao incremento da sua utilização por parte dos cidadãos.
+
+Para mais informações consulte:
+<ul>
+ 	<li><a href="https://amagovpt.github.io/kit-selo/">Kit &#8220;Selo de Usabilidade e Acessibilidade (HTML, disponível no GitHub da AMA)</a>.</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/kit-selo-de-usabilidade-e-acessibilidade-2/">Kit &#8220;Selo de Usabilidade e Acessibilidade&#8221;</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

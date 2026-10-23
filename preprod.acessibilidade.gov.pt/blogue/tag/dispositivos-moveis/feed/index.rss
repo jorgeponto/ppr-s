@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Dispositivos móveis - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/tag/dispositivos-moveis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/tag/dispositivos-moveis/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 23 Jul 2020 20:04:05 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Acessibilidade nos dispositivos móveis iOS da Apple</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/acessibilidade-nos-sistemas-operativos-apple-para-dispositivos-moveis-ios-e-watchos/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Sun, 23 Feb 2020 10:56:00 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Recursos]]></category>
+		<category><![CDATA[Dispositivos móveis]]></category>
+		<category><![CDATA[iOS]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1061</guid>
+
+					<description><![CDATA[<p>Se desenvolve aplicações para o iPhone, iPad, iPod ou mesmo para o Apple Watch, apresentamos nesta página um conjunto de Recursos que lhe permitem o desenvolvimento das mesmas de forma a ficarem acessíveis a pessoas com deficiência.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/acessibilidade-nos-sistemas-operativos-apple-para-dispositivos-moveis-ios-e-watchos/">Acessibilidade nos dispositivos móveis iOS da Apple</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"></div>
+<div><img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-1993" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/voiceover-300x177.png" alt="Utilizadora Cega usando um iPhone com o leitor de ecrã VoiceOver" width="300" height="177" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/voiceover-300x177.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/voiceover.png 452w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+Se desenvolve aplicações para o iPhone, iPad, iPod ou mesmo para o Apple Watch, apresentamos nesta página um conjunto de Recursos que lhe permitem o desenvolvimento das mesmas de forma a ficarem acessíveis a pessoas com deficiência.
+
+<span id="more-1061"></span>
+<h2>Recursos para desenvolvedores de aplicações iOS</h2>
+<ul>
+ 	<li>Acessibilidade no iOS &#8211; como tornar as suas aplicações para o iPhone, iPad e iPod Acessíveis.
+<ul>
+ 	<li><a href="https://developer.apple.com/videos/wwdc/2015/?id=201">(WWDC 2015). <em lang="en">iOS Accessibility</em></a>.</li>
+ 	<li>Para <a href="https://developer.apple.com/accessibility/ios/">mais informações sobre Acessibilidade no iOS</a>.</li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li>Acessibilidade no Apple Watch
+<ul>
+ 	<li><a href="https://developer.apple.com/videos/play/wwdc2015-204/">(WWDC 2015). <em lang="en">WatchOS Accessibility</em></a>.</li>
+</ul>
+</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/acessibilidade-nos-sistemas-operativos-apple-para-dispositivos-moveis-ios-e-watchos/">Acessibilidade nos dispositivos móveis iOS da Apple</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Sem categoria - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/category/sem-categoria/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 18 Aug 2022 16:07:38 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>1º Período de Monitorização: 281 sites e 16 apps</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/1o-perido-de-monitorizacao-281-sites-e-16-apps/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 17:36:31 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Publicações]]></category>
+		<category><![CDATA[Sem categoria]]></category>
+		<category><![CDATA[aplicações móveis]]></category>
+		<category><![CDATA[monitorização digital]]></category>
+		<category><![CDATA[sítios Web]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3851</guid>
+
+					<description><![CDATA[<p>Sites e Apps em monitorização: uma análise mais aprofundada aos dados recolhidos em Portugal permite perceber que a situação encontrada é bastante diferenciada quando se observam as cláusulas da Norma Europeia EN 301 549 que constituem os 4 princípios de acessibilidade enumerados pelo W3C.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/1o-perido-de-monitorizacao-281-sites-e-16-apps/">1º Período de Monitorização: 281 sites e 16 apps</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><span id="G02"></span><strong>Nota:</strong> caso não consiga consultar, por qualquer razão, o gráfico seguinte, veja os dados na <a href="/reports/monitor1/1report-pt.html#T41">Tabela 41</a>.</p>
+<figure><figcaption>Gráfico 02 – Taxa média de não conformidade dos sítios Web para com as cláusulas da Norma Europeia <em>EN 301 549</em> aplicáveis</figcaption><img decoding="async" src="/reports/monitor1/img/pt02.png" alt="As curvas da monitorização simplificada e aprofundada são similares. Monitorização aprofundada revela taxas de não conformidade superiores à monitorização simplificada em todos os 4 princípios" style="width: 100%">
+</figure>
+
+
+
+<p>A métrica de análise <abbr title="World Wide Web Consortium" lang="en">W3C</abbr> não revelou em Portugal nenhum sítio ou aplicação em conformidade com o nível &#8216;AA&#8217; das Diretrizes de Acessibilidade para Conteúdo Web (<a href="/wcag/">WCAG</a>) 2.1. Este é, aliás, um resultado que está alinhado com o que foi encontrado nos vários Estados-Membro da União Europeia. No entanto, uma análise mais aprofundada aos 281 <em>sites</em> e às 16 <em>apps</em> que foram alvo da 1ª monitorização revela diferenças significativas nas taxas de não conformidade dos 4 princípios de acessibilidade. </p>
+
+
+
+<p>Da análise foi possível perceber que a situação encontrada é bastante diferenciada quando se observam as cláusulas da Norma Europeia EN 301 549 que constituem os 4 princípios de acessibilidade. Genericamente, os 4 princípios correspondem à adição de 4 atributos ao conteúdo digital. Para serem acessíveis os conteúdos digitais têm de ser tendencialmente mais percetíveis, mais operáveis, mais compreensíveis e mais robustos. </p>
+
+
+
+<p>Dos dados apresentados em síntese no gráfico do presente artigo é possível concluir que os princípios &#8220;Percetível&#8221; (1) e &#8220;Robusto&#8221; (4) são os mais penalizados, com taxas médias de não conformidade maiores, na ordem dos 70% e 90% de não conformidade respetivamente. Para os princípios &#8220;Operável&#8221; (2) e “Compreensível” (3), a taxa média de não conformidade apresenta-se com rácios mais baixos, na ordem dos 50% e 30% respetivamente.</p>
+
+
+
+<p>O princípio &#8220;Percetível&#8221;, muito ligado à perceção sensorial por via da visão e da audição, deixam antever uma dificuldade acrescida na utilização dos sítios Web por parte de pessoas cegas, pessoas com baixa visão e também por pessoas surdas e pessoas com dificuldades auditivas severas. A situação das pessoas cegas agrava-se com a taxa de não conformidade do princípio &#8220;Robusto&#8221;. É ao nível deste princípio que encontramos requisitos que fazem com que as tecnologias consigam interoperar o conteúdo e apresentar representações alternativas à representação em ecrãs. Se, por exemplo, os leitores de ecrã, usados principalmente por pessoas cegas, não conseguirem transmitir corretamente a estrutura e semântica de um documento ao utilizador, aquele &#8211; o documento &#8211; torna-se de leitura caótica para estes utilizadores. Já o principio &#8220;Operável&#8221; afeta todos os utilizadores que tenham de usar diferentes dispositivos de navegação. Passar de dispositivos apontadores de seleção direta, como é o rato, para dispositivos de seleção por varrimento ou 100% dependentes de teclado ou emuladores do mesmo, é tarefa que fica, não raras as vezes, bloqueada por violações de requisitos de acessibilidade que formam o princípio &#8220;Operável&#8221;.</p>
+
+
+
+<p>O princípio &#8220;Compreensível&#8221; envolve várias cláusulas de acessibilidade relacionadas com o processamento cognitivo dos conteúdos digitais. As ferramentas automáticas não são boas a desbravar os requisitos aqui enumerados e os próprios requisitos parecem, quando se observam os 4 princípios em conjunto, os menos trabalhados pelas Normas e Recomendações Técnicas existentes &#8211; caso das <abbr title="Web Content Accessibility Guidelines" lang="en">WCAG</abbr> 2.1 do W3C. Esta é, aliás, matéria que foi atualizada na versão 2.1 e que está a ser refinada na versão 2.2 e na versão 3.0.</p>
+
+
+
+<p>A monitorização simplificada, levada a efeito de acordo com a metodologia proposta no âmbito da Diretiva Europeia da acessibilidade web, baseou-se  100% em <em>validadores</em> automáticos de práticas de acessibilidade web). Portugal usou dois tipos de amostras para a monitorização simplificada.  A amostra tipo <a href="https://observatorio.acessibilidade.gov.pt">Observatório Português da Acessibilidade Web</a>, a que designámos de <em>Home+</em> e que recolheu uma média de 80 páginas por sítio, e a amostra 2K que procurou incorporar 2 mil páginas por sítio Web. Este último método permitiu-nos concluir que 70% dos sítios Web analisados têm menos de 2 mil páginas, o que é o mesmo que dizer que em 70% dos sítios a amostra corresponde à totalidade do <em>site</em>. Quando se compara a amostra mais pequena com a amostra maior, verificamos que o número de não conformidades adicionais, revelado pela amostra maior, não é significativo. No máximo, mais 5% no caso do princípio &#8220;Compreensível&#8221;. No princípio &#8220;Percetível&#8221; o acréscimo foi apenas de 2% e no &#8220;Operável&#8221; de 1%. Estas taxas de não conformidade revelam-nos que o método de amostragem usado no Observatório Português da Acessibilidade Web é fiável, apesar da diferença do número de páginas média por sítio ser considerável: 80 para 1000.</p>
+
+
+
+<p>Quando se compara a monitorização simplificada (automática) com a monitorização aprofundada (manual), percebe-se que a taxa de não conformidade é maior na monitorização manual. Mais 10% no &#8220;Percetível&#8221;, mais 20% no &#8220;Operável&#8221;, mais 20% no &#8220;Compreensível&#8221; e mais 10% no &#8220;Robusto&#8221;. Daqui conclui-se que as ferramentas automáticas de validação de práticas de acessibilidade fazem um trabalho bastante bom ao nível da deteção das não conformidade, principalmente, dos princípios &#8220;Percetível&#8221; e &#8220;Robusto&#8221;.</p>
+
+
+
+<p>O cenário encontrado nas aplicações móveis é semelhante ao encontrado para os sítios Web.</p>
+
+
+
+<p>Consulte o relatório integral em &#8220;<a href="https://preprod.acessibilidade.gov.pt/publicacao/monitorizacao1/">Relatório de Monitorização do Periodo 2020/21</a>&#8220;.     </p>
+
+
+
+<p></p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/1o-perido-de-monitorizacao-281-sites-e-16-apps/">1º Período de Monitorização: 281 sites e 16 apps</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Portugal pioneiro na certificação digital</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/portugal-pioneiro-na-certificacao-digital/</link>
+		
+		<dc:creator><![CDATA[Cláudia Cardoso]]></dc:creator>
+		<pubDate>Mon, 20 Dec 2021 12:29:36 +0000</pubDate>
+				<category><![CDATA[Acessibilidade]]></category>
+		<category><![CDATA[Certificação]]></category>
+		<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3748</guid>
+
+					<description><![CDATA[<p>Aumentar a confiança, a segurança, a privacidade e a acessibilidade entre os cidadãos e as empresas é o princípio do Modelo Nacional de Certificação da Maturidade Digital discutido no passado dia 15, no evento organizado pela Imprensa Nacional-Casa da Moeda e a Estrutura de Missão Portugal Digital.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/portugal-pioneiro-na-certificacao-digital/">Portugal pioneiro na certificação digital</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Aumentar a confiança, a segurança, a privacidade e a acessibilidade entre os cidadãos e as empresas é o princípio do Modelo Nacional de Certificação da Maturidade Digital discutido no passado dia 15, no evento organizado pela Imprensa Nacional-Casa da Moeda e a Estrutura de Missão Portugal Digital.</p>
+
+
+
+<p>Contando com a presença do Ministro de Estado, da Economia e Transição Digital, Pedro Siza Vieira, e da Ministra de Estado e da Presidência, Mariana Vieira da Silva, o evento demonstrou como os selos de maturidade digital promovem ganhos de eficiência nas organizações que certificam, melhoram a relação com os seus consumidores e impulsionam a transição digital das empresas.</p>
+
+
+
+<p>No encerramento, o Secretário de Estado para a Transição Digital, André de Aragão Azevedo, salientou o alinhamento desta iniciativa com o plano de ação para a Transição digital, na medida que certifica a maturidade digital do nosso setor empresarial induzindo confiança nas várias dimensões associadas ao digital.</p>
+
+
+
+<p>A atribuição dos selos de maturidade digital é uma das medidas que consta do Plano de Recuperação e Resiliência e um dos catalisadores do Plano de Ação para a Transição Digital do país, reconhecendo a adoção de soluções e práticas digitais nas instituições e empresas nacionais.</p>
+
+
+
+<p>Do combate ao cibercrime à dinamização da competitividade do tecido empresarial português, esta certificação digital inclui quatro dimensões: sustentabilidade, cibersegurança, privacidade e acessibilidade. Para além disso, reconhece, via a emissão de selos, três níveis de maturidade digital: bronze, prata e ouro, de acordo com os requisitos do Instituto Português de Qualidade (IPQ) e do Instituto Português de Acreditação (IPAC).</p>
+
+
+
+<p>A <a href="https://selosmaturidadedigital.incm.pt/SMD/">Plataforma de Certificação</a> foi também apresentada e já está disponível para todas as organizações que quiserem saber como podem ser certificadas e acompanhar o seu processo.</p>
+
+
+
+<p>As empresas Cycloid, Sisqual e SportTV são as primeiras empresas certificadas com o selo de cibersegurança e tiveram a oportunidade de esclarecer, no evento desta tarde, a experiência e os impactos que sentiram nas suas organizações.</p>
+
+
+
+<p>A emissão dos selos é coordenada pela Imprensa Nacional-Casa da Moeda e a iniciativa conta com o envolvimento da Direção-Geral das Atividades Económicas, do Centro Nacional de Cibersegurança, da Comissão Nacional da Proteção de Dados, da Agência para a Modernização Administrativa e do GeSI.</p>
+
+
+
+<p><strong>Fonte:</strong> Sítio web do Governo de Portugal</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/portugal-pioneiro-na-certificacao-digital/">Portugal pioneiro na certificação digital</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dia Internacional das Pessoas com Deficiência, 3 dezembro 2021</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/dia-internacional-das-pessoas-com-deficiencia-3-dezembro-2021/</link>
+		
+		<dc:creator><![CDATA[Cláudia Cardoso]]></dc:creator>
+		<pubDate>Thu, 02 Dec 2021 19:01:52 +0000</pubDate>
+				<category><![CDATA[Acessibilidade]]></category>
+		<category><![CDATA[Legislação]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3729</guid>
+
+					<description><![CDATA[<p>Entre as diversas iniciativas que assinalam esta data comemorativa, damos destaque ao debate e partilha sobre as políticas de inclusão nos últimos anos, bem como sobre a recente publicada Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025 (RCM 119/2021).<br />
+Esta iniciativa é da responsabilidade do Gabinete da Secretária de Estado da Inclusão das Pessoas com Deficiência, e pode ser assistida através do Canal Youtube do INR, a partir das 14.30h.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/dia-internacional-das-pessoas-com-deficiencia-3-dezembro-2021/">Dia Internacional das Pessoas com Deficiência, 3 dezembro 2021</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Entre as diversas iniciativas que assinalam esta data comemorativa, damos destaque ao debate e partilha sobre as políticas de inclusão nos últimos anos, bem como sobre a recente publicada Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025 (RCM 119/2021).<br>Esta iniciativa é da responsabilidade do Gabinete da Secretária de Estado da Inclusão das Pessoas com Deficiência, e pode ser assistida através do <a href="https://www.youtube.com/watch?v=wvF78teMFUM" target="_blank" rel="noreferrer noopener">Canal Youtube do INR</a>, a partir das 14.30h.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/dia-internacional-das-pessoas-com-deficiencia-3-dezembro-2021/">Dia Internacional das Pessoas com Deficiência, 3 dezembro 2021</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Diretiva Europeia da Acessibilidade Web em consulta pública</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/a-diretiva-europeia-da-acessibilidade-web-em-consulta-publica/</link>
+		
+		<dc:creator><![CDATA[Cláudia Cardoso]]></dc:creator>
+		<pubDate>Thu, 22 Jul 2021 09:22:00 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3622</guid>
+
+					<description><![CDATA[<p>Até dia 25 de outubro, encontra-se em consulta pública, a revisão da Diretiva Europeia (EU) 2016/2102, relativa à acessibilidade dos sítios web e das aplicações móveis de organismos do setor público.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/a-diretiva-europeia-da-acessibilidade-web-em-consulta-publica/">A Diretiva Europeia da Acessibilidade Web em consulta pública</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Até dia 25 de outubro, encontra-se em <a href="https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12537-Accessible-web-&amp;-digital-content-for-people-with-disabilities-review-of-EU-rules/public-consultation_pt">consulta pública, a revisão da Diretiva Europeia (EU) 2016/2102</a>, relativa à acessibilidade dos sítios web e das aplicações móveis de organismos do setor público.</p>
+
+
+
+<p>O objetivo da consulta é recolher dados e pontos de vista das partes interessadas para apoiar a avaliação da Diretiva Acessibilidade da Web e dos seus atos de execução.</p>
+
+
+
+<p>Apela-se à participação de todos os interessados, sejam autoridades dos Estados-Membros, as autoridades regionais e locais, organismos independentes que se ocupam da acessibilidade, ONG e organizações que representam pessoas com deficiência e idosos, intervenientes da indústria e fornecedores de tecnologia, instituições académicas e organismos de certificação, peritos em acessibilidade e cidadãos, em particular pessoas com deficiência ou limitações funcionais e idosos.</p>
+
+
+
+<p></p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/a-diretiva-europeia-da-acessibilidade-web-em-consulta-publica/">A Diretiva Europeia da Acessibilidade Web em consulta pública</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de WCAG 2.0 - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/tag/wcag-2-0/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/tag/wcag-2-0/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Wed, 22 Jul 2020 08:13:35 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>W3C/WAI publica Recomendação com as WCAG 2.1</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-normas/w3c-wai-publica-recomendacao-wcag-2-1/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Fri, 08 Jun 2018 17:18:33 +0000</pubDate>
+				<category><![CDATA[Normas]]></category>
+		<category><![CDATA[WCAG 2.0]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1676</guid>
+
+					<description><![CDATA[<p>Há 17 novos requisitos em relação à versão 2.0 das WCAG. Eles destinam-se a resolver situações nas seguintes 3 áreas:<br />
+(a) acessibilidade aos dispositivos móveis; (b)<br />
+pessoas com baixa visão, e (c)<br />
+pessoas com incapacidade cognitiva e de aprendizagem.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-normas/w3c-wai-publica-recomendacao-wcag-2-1/">W3C/WAI publica Recomendação com as WCAG 2.1</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[O Grupo de Trabalho para as Diretrizes de Acessibilidade publicou a 5 de junho de 2018 a Recomendação do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr> para a versão 2.1 das Diretrizes de Acessibilidade para Conteúdo Web (<a href="https://www.w3.org/TR/WCAG21/"><em lang="en"><abbr title="Web Content Accessibility Guidelines">WCAG</abbr> 2.1</em></a>).<span id="more-1676"></span>
+
+Todos os requisitos (“critérios de sucesso”) da versão 2.0 estão incluídos na versão 2.1. Os critérios de sucesso da versão 2.0 foram transpostos para a versão 2.1 exatamente com o mesmo texto.
+
+Aos 61 critérios de sucesso da versão 2.0 foram adicionados mais 17, perfazendo um total de 78 requisitos.
+
+Os 17 requisitos adicionais da versão 2.1 destinam-se a resolver situações nas seguintes 3 áreas:
+<ul>
+ 	<li>acessibilidade móvel</li>
+ 	<li>pessoas com baixa visão</li>
+ 	<li>pessoas com incapacidade cognitiva e de aprendizagem</li>
+</ul>
+Pode consultar:
+<ul>
+ 	<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/"><em lang="en">What&#8217;s New in WCAG 2.1</em></a></li>
+ 	<li><a href="https://www.w3.org/blog/2018/06/wcag21-rec/">a entrada do Blogue do W3C com o anúncio da publicação da recomendação</a></li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-normas/w3c-wai-publica-recomendacao-wcag-2-1/">W3C/WAI publica Recomendação com as WCAG 2.1</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

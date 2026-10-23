@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Normas - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/category/categoria-normas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/category/categoria-normas/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Tue, 15 Dec 2020 14:18:14 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>PDFs em formato Universal Access a partir do Google Docs</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/pdfs-em-formato-universal-access-a-partir-do-google-docs/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2020 11:42:00 +0000</pubDate>
+				<category><![CDATA[Normas]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Material Didático Acessível]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1647</guid>
+
+					<description><![CDATA[<p>A produção de ficheiros em formato PDF que possam ser lidos por utilizadores que usam tecnologias de apoio não é uma tarefa fácil. Apesar de existir uma norma já desde 2012 e atualizada em 2014 (ISO 14289-1:2014 &#8211; PDF/UA) que descreve com detalhe quais os cuidados a ter para que um documento digital possa ser [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/pdfs-em-formato-universal-access-a-partir-do-google-docs/">PDFs em formato Universal Access a partir do Google Docs</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<strong>A produção de ficheiros em formato PDF que possam ser lidos por utilizadores que usam tecnologias de apoio não é uma tarefa fácil</strong>. Apesar de existir uma norma já desde 2012 e atualizada em 2014 (<a href="https://www.iso.org/standard/64599.html">ISO 14289-1:2014 &#8211; PDF/UA</a>) que descreve com detalhe quais os cuidados a ter para que um documento digital possa ser acessível, o problema reside em localizar um <strong>editor de texto</strong> que comporte estas práticas e que, no momento da conversão para formato PDF, os <strong>conversores</strong> disponíveis não destruam essas práticas &#8211; resultando num PDF final completamente inacessível.
+
+A <a href="http://www.grackledocs.com">GrackleDocs.com</a> propõe um processo de produção muito simples. Partindo do <strong>editor Google Docs online</strong>, disponibilizou um &#8220;add-on&#8221; que valida o documento, orienta a correção e, no final do processo, disponibiliza a opção de conversão de um documento Google Docs num documento em formato PDF/UA. <abbr lang="en" title="Universal Accessibility" xml:lang="en">UA</abbr> é a abreviatura de <strong>Acessibilidade Universal</strong>, preservando este PDF uma ordem de leitura adequada por exemplo a quem usa leitores de ecrã com sintetizadores de fala, preserva a estrutura de cabeçalhos, parágrafos, tabelas de dados, bem como os equivalentes textuais alternativos dos gráficos e diagramas. Durante o processo de revisão o sistema ainda chama a atenção para as cores usadas na letra e no fundo, e ainda para o tamanho da letra a usar.
+
+Uma excelente ferramenta para quem precisa de produzir ficheiros PDF em conformidade para com as <a href="http://www.w3.org/Translations/WCAG20-pt-PT/"><em lang="en" xml:lang="en">Web Content Accessibility Guidelines</em></a>. Esperemos que a Google e outros grandes fabricantes de aplicações de edição e gestão de conteúdos digitais sigam o exemplo.<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/pdfs-em-formato-universal-access-a-partir-do-google-docs/">PDFs em formato Universal Access a partir do Google Docs</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introdução à Norma Europeia EN 301 549</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/microsoft-publica-videos-sobre-a-norma-europeia-de-acessibilidade-as-tic/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2020 10:00:00 +0000</pubDate>
+				<category><![CDATA[Normas]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[EN 301 549]]></category>
+		<category><![CDATA[TIC]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1125</guid>
+
+					<description><![CDATA[<p>Nota: A presente vídeo-série encontra-se integralmente legendada em Português. Os vídeos encontram-se no Youtube em legenda fechada, podendo mesmo as legendas serem lidas por alguns leitores de ecrã usados por pessoas cegas. Listagem dos 13 vídeos Youtube da série 1. O que é a EN 301 549? De que forma a contratação ajuda a acessibilidade?Vídeo [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/microsoft-publica-videos-sobre-a-norma-europeia-de-acessibilidade-as-tic/">Introdução à Norma Europeia EN 301 549</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img fetchpriority="high" decoding="async" class="alignnone wp-post-image" src="/wp-content/uploads/2017/08/compass-smart-phone-navigation-direction-technology-1024x683.jpg" sizes="(max-width: 760px) 100vw, 760px" srcset="/wp-content/uploads/2017/08/compass-smart-phone-navigation-direction-technology-1024x683.jpg 1024w, /wp-content/uploads/2017/08/compass-smart-phone-navigation-direction-technology-300x200.jpg 300w, /wp-content/uploads/2017/08/compass-smart-phone-navigation-direction-technology-768x512.jpg 768w, /wp-content/uploads/2017/08/compass-smart-phone-navigation-direction-technology.jpg 1600w" alt="Introdução à norma Europeia EN 301 549" width="760" height="507" />
+
+Nota: A presente vídeo-série encontra-se integralmente legendada em Português. Os vídeos encontram-se no Youtube em legenda fechada, podendo mesmo as legendas serem lidas por alguns leitores de ecrã usados por pessoas cegas.
+
+<span id="more-1125"></span>
+<h2>Listagem dos 13 vídeos Youtube da série</h2>
+<ul class="list-unstyled">
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video1.png" alt="Vídeo 1:" /><a href="https://www.youtube.com/watch?v=J-BEi2yyuFw&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=1">1. O que é a EN 301 549? De que forma a contratação ajuda a acessibilidade?</a>Vídeo 1: O que é acessibilidade no contexto das TIC? O que é a EN 301 549? De que forma a contratação ajuda a acessibilidade? Quem deve ver esta série de vídeos?</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video2.png" alt="Vídeo 2:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=2">2. Como incorporar a EN 301 549 na cadeia de valor de um projecto de TIC.</a>Vídeo 2: Integração da acessibilidade e da EN 301 549 no processo de contratação. Como incorporá-la na cadeia de valor de um projeto TIC? O que esperar dos fornecedores TIC em termos de declaração de conformidade? Como controlar que a entrega cumpre com os requisitos?</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video3.png" alt="Vídeo 3:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=3">3. A estrutura da EN 301 549.</a>Vídeo 3: Explicação da estrutura da EN 301 549. Explicação das Declarações de Desempenho Funcional (capítulo 4). Requisitos Técnicos (capítulos 5 a 13). A relação existente entre os dois (Anexo B) e os critérios de teste (Anexo C).</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video4.png" alt="Vídeo 4:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=4">4. Desempenho Funcional.</a>Vídeo 4: este vídeo inclui o capítulo 4 da norma EN 301 549: Capítulo 4, Desempenho Funcional.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video5.png" alt="Vídeo 5:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=5">5. Requisitos genéricos.</a>Vídeo 5: este vídeo inclui o capítulo 5 da norma.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video6.png" alt="Vídeo 6:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=6">6. Requisitos sobre TIC com comunicação por voz bidirecional.</a>Vídeo 6: este vídeo inclui o capítulo 6 da norma EN 301 549: Capítulo 6, requisitos sobre TIC com comunicação por voz bidirecional.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video7.png" alt="Vídeo 7:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=7">7. Requisitos sobre TIC com capacidades de vídeo.</a>Vídeo 7: este vídeo inclui o capítulo 7 da norma EN 301 549: Capítulo 7, requisitos sobre TIC com capacidades de vídeo.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video8.png" alt="Vídeo 8:" /><a href="https://www.youtube.com/watch?v=VD-2tfOnSL8&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=8">8. Requisitos sobre hardware.</a>Vídeo 8: este vídeo inclui o capítulo 8 da norma EN 301 549: Capítulo 8, requisitos sobre hardware.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video9.png" alt="Vídeo 9:" /><a href="https://www.youtube.com/watch?v=73EdfgAPw8E&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=9">9. Web (1ª parte).</a>Vídeo 9, 1ª parte: este vídeo inclui a 1ª parte do capítulo 9 da norma EN 301 549: Capítulo 9, requisitos sobre web.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video10.png" alt="Vídeo 10:" /><a href="https://www.youtube.com/watch?v=73EdfgAPw8E&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=10">9. Web (2ª parte). </a>Vídeo 9, 2ª parte: este vídeo inclui a 2ª parte do capítulo 9 da norma EN 301 549: Capítulo 9, requisitos sobre web.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video11.png" alt="Vídeo 11:" /><a href="https://www.youtube.com/watch?v=qVWKMfztc8E&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=11">10. Requisitos sobre documentos não-web.</a>Vídeo 10: este vídeo inclui o capítulo 10 da norma EN 301 549: Capítulo 10, requisitos sobre documentos não-web.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video12.png" alt="Vídeo 12:" /><a href="https://www.youtube.com/watch?v=qVWKMfztc8E&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=12">11. Requisitos sobre software.</a>Vídeo 11: este vídeo inclui o capítulo 11 da norma EN 301 549: Capítulo 11, requisitos sobre software.</li>
+ 	<li><img decoding="async" src="/wp-content/uploads/2017/08/video13.png" alt="Vídeo 13:" /><a href="https://www.youtube.com/watch?v=S_x_H6Opjtk&amp;list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3&amp;index=13">12 e 13. Capítulos 12 e 13 da norma EN 301 549.</a>Vídeo 12: este vídeo inclui os capítulos 12 e 13 da norma EN 301 549: Capítulo 12, requisitos sobre documentação e serviços de apoio. Capítulo 13, requisitos sobre TIC que disponibilizam serviços de intermediação ou acesso ao serviço de emergência.</li>
+</ul>
+<h2>Com a presente série a Funka fez um notável trabalho de simplificação para apresentar a EN 301 549</h2>
+As normas técnicas são geralmente difíceis de ler e de entender. A norma Europeia (EN 301 549) que norteia a contratação pública de <strong>Tecnologias de Informação e Comunicação (TIC)</strong> não é exceção. Foi a pensar nisto que a <a href="http://www.funka.com/en/" hreflang="en">Funka &#8211; empresa europeia especialista em acessibilidade</a> &#8211; com o patrocínio da Microsoft, produziu uma <a href="https://www.youtube.com/playlist?list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3">série de 13 vídeos de introdução à Norma Europeia EN 301 549</a>. Os vídeos, em formato de tutoriais de 10 a 15 minutos, facilitam a compreensão e a utilização da Norma por quem é responsável pelo desenvolvimento ou pela aquisição de TIC.
+<blockquote><i class="fa fa-quote-left quote"></i> Quanto mais fácil for para as pessoas compreenderem como podem ter a acessibilidade em conta aquando dos processos de aquisição, mais acessível a nossa sociedade será. A Microsoft investiu anos na elaboração da Norma Europeia EN 301 549. Esperamos que esta série de vídeos ajude a Norma a alcançar o seu máximo potencial.
+
+<cite style="text-align: right;">Alex Li, Analista Principal de Standards da Microsoft.</cite></blockquote>
+A EN 301 549 vai, provavelmente, ser um dos passos mais importantes rumo à acessibilidade às TIC na Europa. Ela é o resultado do trabalho conjunto das organizações europeias de normalização CEN/CENELEC e ETSI, as quais foram mandatadas pela Comissão Europeia para elaborarem uma Norma Técnica no âmbito da acessibilidade às TIC que possa servir de <strong>diretriz à legislação sobre contratação pública nos vários Estados Membros</strong>. Espera-se que a Norma possa ter um impacto imediato no setor público mas o objetivo é que as soluções acessíveis se disseminem por toda a sociedade.
+<blockquote><i class="fa fa-quote-left quote"></i> Estamos muito orgulhosos e felizes por levar a cabo este projeto.
+
+<cite style="text-align: right;">Susanna Laurin, CEO da Funka e especialista em acessibilidade.</cite></blockquote>
+<h2>Referências EN 301 549</h2>
+<ul>
+ 	<li><a href="https://www.youtube.com/playlist?list=PLfCFZkKjngqrnEaIymHKvsym025w0cOF3">Canal de vídeo Youtube dedicado à Norma Europeia EN 301 549</a>.</li>
+ 	<li><a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf">Norma EN 301 549 (PDF; 1,5MB)</a>.</li>
+ 	<li><a href="http://mandate376.standards.eu/"><em lang="en">Toolkit</em> para utilização da Norma EN 301 549</a>.</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/microsoft-publica-videos-sobre-a-norma-europeia-de-acessibilidade-as-tic/">Introdução à Norma Europeia EN 301 549</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lei Europeia da Acessibilidade e Norma Design for All</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-legislacao/lei-europeia-da-acessibilidade-e-norma-design-for-all/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2019 17:18:41 +0000</pubDate>
+				<category><![CDATA[Legislação]]></category>
+		<category><![CDATA[Normas]]></category>
+		<category><![CDATA[Lei Europeia da Acessibilidade]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1830</guid>
+
+					<description><![CDATA[<p>Após vários meses de negociações com o Conselho e a Comissão, a Lei Europeia da Acessibilidade foi votada favoravelmente por maioria absoluta no Parlamento Europeu.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-legislacao/lei-europeia-da-acessibilidade-e-norma-design-for-all/">Lei Europeia da Acessibilidade e Norma Design for All</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[Após vários meses de negociações com o Conselho e a Comissão, a Lei Europeia da Acessibilidade foi votada favoravelmente por maioria absoluta no Parlamento Europeu.
+
+<span id="more-1830"></span>
+
+A Lei Europeia da Acessibilidade visa aproximar a legislação e os requisitos de produtos e serviços <abbr title="Tecnologias de Informação e Comunicação">TIC</abbr> de todos os Estados-Membros. O seu âmbito recai sobre:
+<ul>
+ 	<li>Equipamentos informáticos e sistemas operativos;</li>
+ 	<li>Terminais de pagamento;</li>
+ 	<li>Caixas Multibanco;</li>
+ 	<li>Máquinas de emissão de bilhetes;</li>
+ 	<li>Máquinas de registo automático;</li>
+ 	<li>Equipamentos terminais de serviços de comunicações eletrónicas;</li>
+ 	<li>Equipamentos terminais para aceder a serviços de comunicação social audiovisual;</li>
+ 	<li>Serviços de transporte aéreo, de autocarro, ferroviário, marítimo e fluvial de passageiros (sítios web, máquinas de autosserviço interativo, serviços integrados em dispositivos móveis, incluindo aplicações móveis, bilhetes eletrónicos e serviços de bilhética eletrónica, informações sobre o serviço de transporte);</li>
+ 	<li>Serviços bancários;</li>
+ 	<li>Livros Eletrónicos e equipamento dedicado;</li>
+ 	<li>Leitores de Livros Eletrónicos;</li>
+ 	<li>Serviços de Comércio Eletrónico.</li>
+</ul>
+A vigência da nova Diretiva ocorrerá após a sua publicação no Jornal Oficial da União Europeia e a nível nacional carece de ratificação por parte do Conselho de Ministros.
+
+Entretanto, foi publicada a <a href="https://www.cencenelec.eu/News/Brief_News/Pages/TN-2019-019.aspx">Norma Europeia EN 17161:2019</a> “Design for All – Acessibilidade seguindo uma aproximação no Desenho para Todos nos produtos, bens e serviços – Alargar a variedade de utilizadores”. Este standard que define requisitos, reveste-se de um papel muito útil para as entidades privadas e públicas que desenham, desenvolvem e fornecem produtos, bens e serviços a cumprir a Lei Europeia de Acessibilidade, especialmente se as autoridades governamentais considerarem a Norma Europeia um critério de seleção para as compras públicas.<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-legislacao/lei-europeia-da-acessibilidade-e-norma-design-for-all/">Lei Europeia da Acessibilidade e Norma Design for All</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>W3C/WAI publica Recomendação com as WCAG 2.1</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-normas/w3c-wai-publica-recomendacao-wcag-2-1/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Fri, 08 Jun 2018 17:18:33 +0000</pubDate>
+				<category><![CDATA[Normas]]></category>
+		<category><![CDATA[WCAG 2.0]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1676</guid>
+
+					<description><![CDATA[<p>Há 17 novos requisitos em relação à versão 2.0 das WCAG. Eles destinam-se a resolver situações nas seguintes 3 áreas:<br />
+(a) acessibilidade aos dispositivos móveis; (b)<br />
+pessoas com baixa visão, e (c)<br />
+pessoas com incapacidade cognitiva e de aprendizagem.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-normas/w3c-wai-publica-recomendacao-wcag-2-1/">W3C/WAI publica Recomendação com as WCAG 2.1</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[O Grupo de Trabalho para as Diretrizes de Acessibilidade publicou a 5 de junho de 2018 a Recomendação do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr> para a versão 2.1 das Diretrizes de Acessibilidade para Conteúdo Web (<a href="https://www.w3.org/TR/WCAG21/"><em lang="en"><abbr title="Web Content Accessibility Guidelines">WCAG</abbr> 2.1</em></a>).<span id="more-1676"></span>
+
+Todos os requisitos (“critérios de sucesso”) da versão 2.0 estão incluídos na versão 2.1. Os critérios de sucesso da versão 2.0 foram transpostos para a versão 2.1 exatamente com o mesmo texto.
+
+Aos 61 critérios de sucesso da versão 2.0 foram adicionados mais 17, perfazendo um total de 78 requisitos.
+
+Os 17 requisitos adicionais da versão 2.1 destinam-se a resolver situações nas seguintes 3 áreas:
+<ul>
+ 	<li>acessibilidade móvel</li>
+ 	<li>pessoas com baixa visão</li>
+ 	<li>pessoas com incapacidade cognitiva e de aprendizagem</li>
+</ul>
+Pode consultar:
+<ul>
+ 	<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/"><em lang="en">What&#8217;s New in WCAG 2.1</em></a></li>
+ 	<li><a href="https://www.w3.org/blog/2018/06/wcag21-rec/">a entrada do Blogue do W3C com o anúncio da publicação da recomendação</a></li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-normas/w3c-wai-publica-recomendacao-wcag-2-1/">W3C/WAI publica Recomendação com as WCAG 2.1</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de E-gov - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/category/categoria-e-gov/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/category/categoria-e-gov/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 21 Sep 2023 14:04:44 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>3 passos para publicar a Declaração de Acessibilidade</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/3passos-declaracao/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2023 10:00:00 +0000</pubDate>
+				<category><![CDATA[Acessibilidade]]></category>
+		<category><![CDATA[E-gov]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[declaração]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=2406</guid>
+
+					<description><![CDATA[<p>A Declaração de Acessibilidade é obrigatória. <strong>Avalie</strong> os seus conteúdos digitais de acordo com o <em lang="en">standard <abbr title="Web Content Accessibility Guidelines, version 2.1">WCAG 2.1</abbr></em>, <strong>preencha</strong> e <strong>publique</strong> a sua Declaração. </p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/3passos-declaracao/">3 passos para publicar a Declaração de Acessibilidade</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="lead">A partir de 23 de setembro de 2020 todos os sítios Web da Administração Pública passaram a estar obrigados a ter uma Declaração de Acessibilidade Web publicada.</p>
+
+
+
+<p>Para a sua publicação há 3 coisas que precisa de fazer:</p>
+
+
+
+<ul><li><a href="#n1">Avaliar os seus conteúdos e as várias componentes da interface dos seus serviços</a></li><li><a href="#n2">Preencher a Declaração</a></li><li><a href="#n3">Publicar a Declaração no seu sítio Web</a></li></ul>
+
+
+
+<div class="alert alert-warning row" role="alert">
+<div class="col-lg-4 col-md-12 col-sm-12 justify-content-center d-flex">
+<div class="icon-xl-about icon" aria-hidden="true">&nbsp;</div>
+</div>
+<div class="col-lg-8 col-md-12 col-sm-12">
+<h2>Tenho uma dúvida sobre os níveis de conformidade&#8230;</h2><p>O que define se o meu sítio Web está &#8220;plenamente conforme&#8221;, &#8220;parcialmente conforme&#8221; ou &#8220;não conforme&#8221;?</p><p><a href="#conformidade">Quais são as definições que balizam a conformidade?</a></p></div></div>
+
+
+
+<h2 class="wp-block-heading" id="n1">Avaliar</h2>
+
+
+
+<p>Para proceder à avaliação dos conteúdos Web e das componentes da interface dos seus serviços em linha, precisa:</p>
+
+
+
+<ul><li>conhecer os padrões aplicáveis. Por via do Decreto-lei n.º 83/2018, de 19 de outubro, em Portugal a norma é a Norma Europeia EN 301549. Esta norma corresponde ao: <ul><li><span lang="en">standard</span> do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr> <abbr title="Web Content Accessibility Guidelines" lang="en">WCAG</abbr> 2.1 conformidade nível AA. Pode consultar a <a title="WCAG 2.1" href="https://www.w3.org/TR/WCAG21/" target="_blank" rel="noopener noreferrer">versão inglesa<span class="sr-only">abre numa nova janela</span></a> ou a <a title="WCAG 2.1" href="/wcag">versão portuguesa</a>. A equipa de Usabilidade e Conteúdos da AMA recomenda também a consulta do <a href="https://3pha.com/wcag2/" target="_blank" rel="noopener noreferrer">Mapa dos Critérios de Sucesso WCAG<span class="sr-only">abre numa nova janela</span></a> como ponto de entrada na documentação W3C</li></ul></li></ul>
+
+
+
+<p>Depois de saber onde se encontram os <em lang="en">standards</em>, tome nota que vai ter que voltar várias vezes aos documentos referenciados atrás. Diziamos nós que, depois de conhecidos os <em lang="en">standards</em> há que proceder à avaliação.</p>
+
+
+
+<p>Para o trabalho de avaliação, pode, e deve, usar dois métodos: </p>
+
+
+
+<ul><li>avaliação automática, e</li><li>avaliação manual</li></ul>
+
+
+
+<h3 class="wp-block-heading" id="auto">Avaliação automática</h3>
+
+
+
+<p>Para a avaliação automática, a que recorre a ferramentas automáticas de avaliação de boas práticas de acessibilidade nos conteúdos ou nas diversas componentes da interface Web, recomendamos a utilização:</p>
+
+
+
+<ul><li>do <a href="http://accessmonitor.acessibilidade.gov.pt">validador AccessMonitor</a>, o qual é um desenvolvimento da própria AMA;</li><li>do <a href="https://rocketvalidator.com/" target="_blank" rel="noreferrer noopener">RocketValidator</a>, do qual a AMA disponibiliza vouchers para os organismos públicos e os mesmos podem ser solicitados pelo e-mail: <a href="mailto:acessibilidade@ama.pt" target="_blank" rel="noreferrer noopener"><a href="mailto:acessibilidade@ama.pt" rel="noreferrer noopener" target="_blank">acessibilidade@ama.pt</a></a>, e do;</li><li><a href="https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd">plug-in para Chrome aXe</a> da DeQue.</li></ul>
+
+
+
+<p>A avaliação, de acordo com o Decreto-lei n.º 83/2018, deve ser feita a uma amostra de páginas composta, no mínimo, pela página de entrada + todas as páginas hiperligadas à página de entrada. Todas elas pertencentes ao domínio em análise. </p>
+
+
+
+<h3 class="wp-block-heading" id="manual">Avaliação manual</h3>
+
+
+
+<p>Para a avaliação manual, a AMA desenvolveu a <a href="https://amagovpt.github.io/kit-selo/checklists/">lista de verificação &#8220;10 aspetos críticos de acessibilidade funcional&#8221;</a>. Percorra a lista de verificação<em lang="en"></em>, proceda à correção dos erros encontrados e faça do ficheiro fornecido um repositório das evidências que demonstram de que forma os seus conteúdos e as suas componentes Web passam o <a href="/wcag"><em lang="en">standard <abbr title="Web Content Accessibility Guidelines, version 2.1">WCAG 2.1</abbr></em></a>.</p>
+
+
+
+<h2 class="wp-block-heading" id="conformidade">Níveis de conformidade</h2>
+
+
+
+<p>A declaração de acessibilidade divide-se em 3 níveis de conformidade:</p>
+
+
+
+<ul><li>Plenamente conforme</li><li>Parcialmente conforme</li><li>Não conforme</li></ul>
+
+
+
+<p>A declaração encontra-se plenamente conforme quando:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;(1) A avaliação automática indica que todas as páginas da amostra têm uma pontuação entre 9 e 10 na escala do validador AccessMonitor, e;</p><p>(2) A avaliação manual indica que, no mínimo, 75% dos requisitos constantes da lista de verificação &#8220;10 aspetos críticos de acessibilidade funcional&#8221; estão satisfeitos.&#8221;</p></blockquote>
+
+
+
+<p>A declaração encontra-se parcialmente conforme quando:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;(1) A avaliação automática indica que todas as páginas da amostra têm uma pontuação inferior a 9 mas superior a 8 na escala do validador AccessMonitor, e;</p><p>(2) A avaliação manual indica que, no mínimo,  entre 50% a 75% dos requisitos constantes da lista de verificação &#8220;10 aspetos críticos de acessibilidade funcional&#8221; estão satisfeitos.&#8221;</p></blockquote>
+
+
+
+<p>A declaração apresenta-se não conforme quando:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>(1) A avaliação automática indica que todas as página da amostra têm uma pontuação inferior a 8 na escala do validador AccessMonitor, e; </p><p>(2) A avaliação manual indica que violamos mais de 50% do requisitos da lista de verificação &#8220;10 aspetos críticos de acessibilidade funcional&#8221;.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading" id="n2">Preencher a Declaração</h2>
+
+
+
+<p>Feita a avaliação e a correção das ocorrências encontradas, é importante efetuar relatórios de todo o processo de avaliação levado a efeito. Estes documentos irão ser anexados e servirão de prova de evidências do trabalho que desenvolveu para tornar o seu sítio Web mais acessível.</p>
+
+
+
+<p>Para o preenchimento da Declaração, a AMA desenvolveu um Gerador que o ajuda a completar esta etapa e a preparar a declaração para ser publicada.</p>
+
+
+
+<p>O <a href="https://preprod.acessibilidade.gov.pt/gerador/">Gerador WAI-Tools PT v1.5</a> foi desenvolvido pela AMA no âmbito do projeto <a href="https://www.w3.org/WAI/about/projects/wai-tools/">WAI-Tools</a> &#8211; projeto financiado pela Comissão Europeia. O Gerador foi concebido para responder ao modelo da Declaração em uso em Portugal.</p>
+
+
+
+<p>A declaração que resulta do Gerador tem um formato <em lang="en">machine-readable</em>, e está pronto para ser copiado para o seu sítio Web. O Gerador fornece o documento HTML estruturado. O estilo é o do seu sítio Web.</p>
+
+
+
+<h2 class="wp-block-heading" id="n3">Publicar a Declaração</h2>
+
+
+
+<p>A declaração exportada do Gerador deve ser tornada pública no seu sítio Web. O Decreto-lei n.º 83/2018 menciona mesmo que ela deve ficar numa página com o endereço do tipo https://domínio-do-site/acessibilidade/ ou https://domínio-do-site/acessibilidade.html (ou .php ou outra extensão usada pelo gestor de conteúdos). </p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/3passos-declaracao/">3 passos para publicar a Declaração de Acessibilidade</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

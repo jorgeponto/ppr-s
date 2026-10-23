@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Estudos - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/category/categoria-estudos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/category/categoria-estudos/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Thu, 18 Aug 2022 16:07:38 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>1º Período de Monitorização: 281 sites e 16 apps</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/1o-perido-de-monitorizacao-281-sites-e-16-apps/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 17:36:31 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Publicações]]></category>
+		<category><![CDATA[Sem categoria]]></category>
+		<category><![CDATA[aplicações móveis]]></category>
+		<category><![CDATA[monitorização digital]]></category>
+		<category><![CDATA[sítios Web]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3851</guid>
+
+					<description><![CDATA[<p>Sites e Apps em monitorização: uma análise mais aprofundada aos dados recolhidos em Portugal permite perceber que a situação encontrada é bastante diferenciada quando se observam as cláusulas da Norma Europeia EN 301 549 que constituem os 4 princípios de acessibilidade enumerados pelo W3C.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/1o-perido-de-monitorizacao-281-sites-e-16-apps/">1º Período de Monitorização: 281 sites e 16 apps</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><span id="G02"></span><strong>Nota:</strong> caso não consiga consultar, por qualquer razão, o gráfico seguinte, veja os dados na <a href="/reports/monitor1/1report-pt.html#T41">Tabela 41</a>.</p>
+<figure><figcaption>Gráfico 02 – Taxa média de não conformidade dos sítios Web para com as cláusulas da Norma Europeia <em>EN 301 549</em> aplicáveis</figcaption><img decoding="async" src="/reports/monitor1/img/pt02.png" alt="As curvas da monitorização simplificada e aprofundada são similares. Monitorização aprofundada revela taxas de não conformidade superiores à monitorização simplificada em todos os 4 princípios" style="width: 100%">
+</figure>
+
+
+
+<p>A métrica de análise <abbr title="World Wide Web Consortium" lang="en">W3C</abbr> não revelou em Portugal nenhum sítio ou aplicação em conformidade com o nível &#8216;AA&#8217; das Diretrizes de Acessibilidade para Conteúdo Web (<a href="/wcag/">WCAG</a>) 2.1. Este é, aliás, um resultado que está alinhado com o que foi encontrado nos vários Estados-Membro da União Europeia. No entanto, uma análise mais aprofundada aos 281 <em>sites</em> e às 16 <em>apps</em> que foram alvo da 1ª monitorização revela diferenças significativas nas taxas de não conformidade dos 4 princípios de acessibilidade. </p>
+
+
+
+<p>Da análise foi possível perceber que a situação encontrada é bastante diferenciada quando se observam as cláusulas da Norma Europeia EN 301 549 que constituem os 4 princípios de acessibilidade. Genericamente, os 4 princípios correspondem à adição de 4 atributos ao conteúdo digital. Para serem acessíveis os conteúdos digitais têm de ser tendencialmente mais percetíveis, mais operáveis, mais compreensíveis e mais robustos. </p>
+
+
+
+<p>Dos dados apresentados em síntese no gráfico do presente artigo é possível concluir que os princípios &#8220;Percetível&#8221; (1) e &#8220;Robusto&#8221; (4) são os mais penalizados, com taxas médias de não conformidade maiores, na ordem dos 70% e 90% de não conformidade respetivamente. Para os princípios &#8220;Operável&#8221; (2) e “Compreensível” (3), a taxa média de não conformidade apresenta-se com rácios mais baixos, na ordem dos 50% e 30% respetivamente.</p>
+
+
+
+<p>O princípio &#8220;Percetível&#8221;, muito ligado à perceção sensorial por via da visão e da audição, deixam antever uma dificuldade acrescida na utilização dos sítios Web por parte de pessoas cegas, pessoas com baixa visão e também por pessoas surdas e pessoas com dificuldades auditivas severas. A situação das pessoas cegas agrava-se com a taxa de não conformidade do princípio &#8220;Robusto&#8221;. É ao nível deste princípio que encontramos requisitos que fazem com que as tecnologias consigam interoperar o conteúdo e apresentar representações alternativas à representação em ecrãs. Se, por exemplo, os leitores de ecrã, usados principalmente por pessoas cegas, não conseguirem transmitir corretamente a estrutura e semântica de um documento ao utilizador, aquele &#8211; o documento &#8211; torna-se de leitura caótica para estes utilizadores. Já o principio &#8220;Operável&#8221; afeta todos os utilizadores que tenham de usar diferentes dispositivos de navegação. Passar de dispositivos apontadores de seleção direta, como é o rato, para dispositivos de seleção por varrimento ou 100% dependentes de teclado ou emuladores do mesmo, é tarefa que fica, não raras as vezes, bloqueada por violações de requisitos de acessibilidade que formam o princípio &#8220;Operável&#8221;.</p>
+
+
+
+<p>O princípio &#8220;Compreensível&#8221; envolve várias cláusulas de acessibilidade relacionadas com o processamento cognitivo dos conteúdos digitais. As ferramentas automáticas não são boas a desbravar os requisitos aqui enumerados e os próprios requisitos parecem, quando se observam os 4 princípios em conjunto, os menos trabalhados pelas Normas e Recomendações Técnicas existentes &#8211; caso das <abbr title="Web Content Accessibility Guidelines" lang="en">WCAG</abbr> 2.1 do W3C. Esta é, aliás, matéria que foi atualizada na versão 2.1 e que está a ser refinada na versão 2.2 e na versão 3.0.</p>
+
+
+
+<p>A monitorização simplificada, levada a efeito de acordo com a metodologia proposta no âmbito da Diretiva Europeia da acessibilidade web, baseou-se  100% em <em>validadores</em> automáticos de práticas de acessibilidade web). Portugal usou dois tipos de amostras para a monitorização simplificada.  A amostra tipo <a href="https://observatorio.acessibilidade.gov.pt">Observatório Português da Acessibilidade Web</a>, a que designámos de <em>Home+</em> e que recolheu uma média de 80 páginas por sítio, e a amostra 2K que procurou incorporar 2 mil páginas por sítio Web. Este último método permitiu-nos concluir que 70% dos sítios Web analisados têm menos de 2 mil páginas, o que é o mesmo que dizer que em 70% dos sítios a amostra corresponde à totalidade do <em>site</em>. Quando se compara a amostra mais pequena com a amostra maior, verificamos que o número de não conformidades adicionais, revelado pela amostra maior, não é significativo. No máximo, mais 5% no caso do princípio &#8220;Compreensível&#8221;. No princípio &#8220;Percetível&#8221; o acréscimo foi apenas de 2% e no &#8220;Operável&#8221; de 1%. Estas taxas de não conformidade revelam-nos que o método de amostragem usado no Observatório Português da Acessibilidade Web é fiável, apesar da diferença do número de páginas média por sítio ser considerável: 80 para 1000.</p>
+
+
+
+<p>Quando se compara a monitorização simplificada (automática) com a monitorização aprofundada (manual), percebe-se que a taxa de não conformidade é maior na monitorização manual. Mais 10% no &#8220;Percetível&#8221;, mais 20% no &#8220;Operável&#8221;, mais 20% no &#8220;Compreensível&#8221; e mais 10% no &#8220;Robusto&#8221;. Daqui conclui-se que as ferramentas automáticas de validação de práticas de acessibilidade fazem um trabalho bastante bom ao nível da deteção das não conformidade, principalmente, dos princípios &#8220;Percetível&#8221; e &#8220;Robusto&#8221;.</p>
+
+
+
+<p>O cenário encontrado nas aplicações móveis é semelhante ao encontrado para os sítios Web.</p>
+
+
+
+<p>Consulte o relatório integral em &#8220;<a href="https://preprod.acessibilidade.gov.pt/publicacao/monitorizacao1/">Relatório de Monitorização do Periodo 2020/21</a>&#8220;.     </p>
+
+
+
+<p></p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/sem-categoria/1o-perido-de-monitorizacao-281-sites-e-16-apps/">1º Período de Monitorização: 281 sites e 16 apps</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A comunicação do turismo acessível: um estudo sobre as atrações turísticas da cidade do Porto</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-estudos/a-comunicacao-do-turismo-acessivel-um-estudo-sobre-as-atracoes-turisticas-da-cidade-do-porto/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Mon, 18 Dec 2017 18:18:24 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[turismo]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=1598</guid>
+
+					<description><![CDATA[<p> Eleito por viajantes de todo o mundo como <em lang="en">European Best Destination</em> em 2012, 2014 e, mais recentemente, em 2017, o Porto é um destino cada vez mais adequado ao mercado de turismo acessível.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-estudos/a-comunicacao-do-turismo-acessivel-um-estudo-sobre-as-atracoes-turisticas-da-cidade-do-porto/">A comunicação do turismo acessível: um estudo sobre as atrações turísticas da cidade do Porto</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<strong>Autora: Celine Teixeira de Castro</strong>
+
+A cidade do Porto, um dos destinos turísticos mais antigos da Europa, é reconhecida pelo seu charme. O seu centro histórico foi classificado em 1996 pela UNESCO como Património Cultural da Humanidade e está atualmente em voga na indústria do Turismo. Eleito por viajantes de todo o mundo como <em lang="en">European Best Destination</em> em 2012, 2014 e, mais recentemente, em 2017, o Porto é um destino cada vez mais adequado ao mercado de turismo acessível. No entanto, a imagem projetada no universo da <em lang="en">world wide web</em> não reflete a realidade, uma vez que esta mesma acessibilidade não é devidamente difundida nos <em lang="en">websites</em> turísticos. <strong>A conclusão é do <a href="https://repositorio-aberto.up.pt/bitstream/10216/108137/2/224081.pdf">estudo &#8220;A comunicação do Turismo Acessível: um estudo sobre as atrações turísticas da cidade do Porto&#8221;</a>, realizado no âmbito do Mestrado em Marketing da Faculdade de Economia da Universidade do Porto.</strong>
+
+<span id="more-1598"></span>
+
+Dadas as circunstâncias especiais em que se encontram os indivíduos que formam este mercado, pelas limitações e especificidades das suas deficiências, a internet facilita a obtenção de informação e proporciona segurança na preparação da viagem, garantindo condições de acessibilidade adequadas. Assim, a informação colocada à disposição deste tipo de turista pode determinar a sua escolha de destino. Para que a estratégia de comunicação seja bem elaborada e atraia o mercado do turismo acessível, é necessário criar <em lang="en">websites</em> turísticos compatíveis com as tecnologias de apoio usadas pelos utilizadores com deficiência e disponibilizar informação fidedigna sobre a acessibilidade do destino turístico.
+
+<strong>O objetivo do estudo foi determinar de que forma a comunicação online sobre acessibilidades nos locais turísticos está em concordância com as reais acessibilidades físicas e até que ponto o acesso à mesma é facilitada pelas páginas web</strong>. Para isso, foram consideradas duas vertentes de acessibilidade:
+<ol>
+ 	<li>as infraestruturas e;</li>
+ 	<li>os <em lang="en">websites</em> institucionais e/ou outros <em lang="en">websites</em> destinados à promoção das 20 atrações turísticas mais emblemáticas da cidade, segundo os utilizadores do <em lang="en">website</em> de viagens Tripadvisor, em 2017.</li>
+</ol>
+Para a análise das infraestruturas, construíram-se grelhas de observação do cumprimento dos requisitos de acessibilidade física, tendo como critérios de avaliação as diretrizes de acessibilidade estabelecidas pela filosofia do Design Universal, um conceito que permite o desenho de produtos, serviços e ambientes que possam ser utilizados por todos, sem exceção, sem necessidade de adaptação ou desenho especializado. Os itens desta filosofia de design serviram também de base para a análise da qualidade da informação divulgada nos <em lang="en">websites</em>, tendo em conta a sua concordância com a acessibilidade que o turista poderá encontrar no local. Por sua vez, a acessibilidade online foi avaliada com recurso ao <a href="/accessmonitor">AccessMonitor</a>, uma ferramenta da autoria da Fundação para a Ciência e a Tecnologia.
+
+Os resultados demonstram claramente que, apesar de se verificarem esforços ao nível das infraestruturas para tornar o Porto uma cidade acessível, nenhum dos websites analisados o reflete: numa escala de 1 a 10, proposta pelo <a href="/accessmonitor">AccessMonitor</a>, a média geral obtida é de 5. Para além disso, não é divulgada informação detalhada ou relevante online que influencie de forma positiva o desfecho do processo de decisão de um turista com deficiência.
+
+Uma oportunidade poderá estar a ser descurada, uma vez que o segmento do turismo acessível é significativo: cerca de 20% da população mundial é portadora de deficiência. Esta percentagem tem aumentado exponencialmente, resultado do modo de vida pouco saudável das sociedades modernas, compensado pelos avanços da medicina, que permitem o aumento da esperança média de vida da população. Além disso, este segmento não é apenas composto por pessoas portadoras de deficiência; as famílias e amigos destes consumidores são frequentemente esquecidos. Turistas com deficiência tendem a preferir que os seus acompanhantes de viagem sejam totalmente independentes a nível motor e cognitivo, devido à sua grande necessidade de segurança e de assistência durante a estadia num local que não lhes é familiar. Mais, este nicho de mercado tende não só a viajar em época baixa, o que poderá contribuir para o combate à sazonalidade do setor, como também a revisitar destinos e a investir valores monetários acima da média, talvez devido à escassez de opções disponíveis.
+
+<strong>Keywords:</strong> internet; mercado; segmento; turismo acessível; website; comunicação
+<h2>Referências bibliográficas</h2>
+<ul style="list-style-type: none;">
+ 	<li><i class="fa fa-check-square-o" aria-hidden="true"></i> Alexandre, D. (2013). <em><a href="/arquivo/618">O Turismo para Todos na Hotelaria de Lisboa – um custo ou um investimento?</a></em> Estoril: Escola Superior de Hotelaria e Turismo do Estoril.</li>
+ 	<li><i class="fa fa-check-square-o" aria-hidden="true"></i> Castro, C. (2017). <em>A comunicação do Turismo Acessível: um estudo sobre as atrações turísticas da cidade do Porto.</em> Porto: Faculdade de Economia da Universidade do Porto.</li>
+ 	<li><i class="fa fa-check-square-o" aria-hidden="true"></i> UNWTO (2016). <em>UNWTO Recommendations on Accessible Information in Tourism.</em> Spain: UNWTO.</li>
+ 	<li><i class="fa fa-check-square-o" aria-hidden="true"></i> Michopoulou, E. and Buhalis, D. (2013). <em>Information provision for challenging markets: The case of the accessibility requiring market in the context of tourism.</em> Information &amp; Management, 50, 229-239.</li>
+ 	<li><i class="fa fa-check-square-o" aria-hidden="true"></i> Lee, B. K., Agarwal, S. and Kim, H. J. (2012). <em>Influences of travel constraints on the people with disabilities’ intention to travel: An application of Seligman’s helplessness theory.</em> Tourism Management, 33, 569-579.</li>
+ 	<li><i class="fa fa-check-square-o" aria-hidden="true"></i> Yau M. K., Mckercher, B., and Packer T. L. (2004). <em>Traveling with a disability: More than an access issue.</em> Annals of Tourism Research, 31(4), 946-960.</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-estudos/a-comunicacao-do-turismo-acessivel-um-estudo-sobre-as-atracoes-turisticas-da-cidade-do-porto/">A comunicação do turismo acessível: um estudo sobre as atrações turísticas da cidade do Porto</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Estudo Europeu sobre acessibilidade Web mostra que Portugal está na média da UE27</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/estudo-europeu-sobre-acessibilidade-web-mostra-que-portugal-esta-na-media-da-ue27/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Sat, 09 Nov 2013 22:54:22 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[acessibilidade web]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=683</guid>
+
+					<description><![CDATA[<p>O relatório final “Study on Assessing and Promoting e-Accessibility” (PDF, 3,3MB) mostra que os sítios da Administração Pública portuguesa se encontram na média dos Estados Membros da UE a 27. Figura 1: Pontuação Global (em % da pontuação máxima possível por cada país) Dois anos depois de ter surgido em 2º lugar num ranking de [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/estudo-europeu-sobre-acessibilidade-web-mostra-que-portugal-esta-na-media-da-ue27/">Estudo Europeu sobre acessibilidade Web mostra que Portugal está na média da UE27</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>O relatório final <a href="https://preprod.acessibilidade.gov.pt/estudos/thestudyonassessingandpromotinge-accessibility.pdf">“<em lang="en">Study on Assessing and Promoting e-Accessibility</em>” (PDF, 3,3MB)</a> mostra que os sítios da Administração Pública portuguesa se encontram na média dos Estados Membros da <abbr title="União Europeia">UE</abbr> a 27.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/overall_scores-1024x327-1.png" alt="Portugal com classificação média ligeiramente acima dos 50%"/></figure></div>
+
+
+
+<p style="font-size: 90%; text-align: center;">Figura 1: Pontuação Global (em % da pontuação máxima possível por cada país)</p>
+
+
+
+<p>Dois anos depois de ter surgido em 2º lugar num ranking de 192 países, Portugal descola da Alemanha e cai para a média da UE27. Uma bateria de testes singular em estudos de acessibilidade e uma mudança da avaliação de automática para manual pericial, poderá estar na base de uma posição mais crítica de Portugal. Alemanha ocupa o 2º lugar, o que indicia que poderá ter uma realidade capaz de resistir a qualquer metodologia de análise.</p>
+
+
+
+<p>A pontuação global obtida por Portugal está ligeiramente acima dos 50%, similar à média da UE27, 20% abaixo dos melhores e 20% acima do “lanterna vermelha”. Os 3 melhores são Reino Unido, Alemanha e República Checa. Grécia, Letónia e Chipre ocupam a cauda. Na vizinhança de Portugal, temos a Dinamarca e a Holanda.</p>
+
+
+
+<p>Este é o primeiro estudo levado a efeito pela <abbr title="Comissão Europeia">CE</abbr> em que se utiliza uma metodologia com avaliação 100% manual de base pericial.</p>
+
+
+
+<p>De cada país foram analisados 12 sítios web: 9 sítios públicos e 3 setoriais: um banco, um jornal diário e um sítio da área dos transportes ferroviários.</p>
+
+
+
+<p>Dos 61 critérios de sucesso das WCAG 2.0 do W3C, o estudo aborda 10 critérios: 6 de prioridade ‘A’ e 5 de prioridade ‘duplo-A’. Das centenas de técnicas específicas existentes, o estudo escolhe 16: 10 para a prioridade ‘A’ e 6 para a prioridade ‘duplo-A’. Fica desta forma em análise: (1) cabeçalhos; (2) legendagem de vídeos; (3) controlo via teclado; (4) etiquetas de formulários; (5) validação de HTML; (6) ampliação; (7) separação da informação e estrutura da apresentação; (8) motor de busca; (9) foco de navegação; (10) mensagens de erro.</p>
+
+
+
+<p>Destes 10 pontos em análise, Portugal surge abaixo da média em 5 deles.</p>
+
+
+
+<p>No que diz respeito a cabeçalhos, o comportamento dos sítios públicos portugueses é igual à média da UE27.</p>
+
+
+
+<p>Já no que diz respeito a legendagem de vídeos, a situação portuguesa é muito grave. Os investigadores localizaram na recolha amostral apenas 2 vídeos e nenhum tinha legendas ou transcrição textual. A mesma recolha amostral encontrou nos sítios web espanhóis 9 vídeos, estando 4 deles acompanhados de legendas. Espanha lidera o estudo no que diz respeito a legendagem de vídeos online. Outra situação onde os sítios Web portugueses são arrastados para a cauda da tabela está relacionada com os erros de HTML &#8211; o teste apresenta-se com “<em lang="en">score</em>” zero, o que significa que todos os sítios analisados se apresentam com múltiplos erros gramaticais de HTML. Embora não sirva de consolo, neste teste, Portugal não está sozinho. Há 12 países classificados com zero.</p>
+
+
+
+<p>No que diz respeito à ampliação, os sítios portugueses também ficam abaixo da média. Ao ampliar os conteúdos 200%, há informação que se deixa de ver no espaço disponível do ecrã, dizem os investigadores.</p>
+
+
+
+<p>Num dos testes onde 70% dos sítios públicos da UE27 analisados foram classificados com nota máxima, Portugal surge 9 posições abaixo da média. Referimo-nos à separação clara entre estrutura e estilo. Tal como os investigadores dão conta, esta técnica que sugere a separação do conteúdo e estrutura (<abbr title="Hyper Text Markup Language" lang="en">HTML</abbr>) da apresentação (<abbr title="Cascading Style Sheet" lang="en">CSS</abbr>) tem quase 20 anos. Isto pode denotar envelhecimento das plataformas de gestão ao serviço dos sítios Web públicos portugueses.</p>
+
+
+
+<p>Portugal não se destaca em nenhum dos testes efetuados. Os melhores resultados vão para os testes que envolvem o controlo do teclado, o motor de busca, o acompanhamento do foco de navegação quando se navega com teclado e a apresentação de mensagens de erro. Respetivamente 8, 5, 8 e 8 posições acima da média da UE27.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/estudo-europeu-sobre-acessibilidade-web-mostra-que-portugal-esta-na-media-da-ue27/">Estudo Europeu sobre acessibilidade Web mostra que Portugal está na média da UE27</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hotelaria de Lisboa investe pouco na inclusão</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/hotelaria-de-lisboa-investe-pouco-na-inclusao/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Mon, 16 Sep 2013 10:04:05 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[acessibilidade web]]></category>
+		<category><![CDATA[turismo acessível]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=618</guid>
+
+					<description><![CDATA[<p>Lisboa é o principal destino turístico nacional, e a sua reputação enquanto destino turístico de eleição tem vindo a consolidar-se com prestigiados prémios internacionais. No entanto, a hotelaria da nossa capital parece ainda não ter despertado para o facto de estar situada num continente cada vez mais envelhecido, e num país em que 18% da população tem algum tipo de incapacidade: a oferta de quartos acessíveis representa menos de 2% da oferta total de alojamento lisboeta.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/hotelaria-de-lisboa-investe-pouco-na-inclusao/">Hotelaria de Lisboa investe pouco na inclusão</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[texto escrito por <em>Dora Alexandre<sup><a title="nota sobre Dora Alexandre" href="#nota1">1</a></sup></em>
+
+Lisboa é o principal destino turístico nacional, e a sua reputação enquanto destino turístico de eleição tem vindo a consolidar-se com prestigiados prémios internacionais. No entanto, a hotelaria da nossa capital parece ainda não ter despertado para o facto de estar situada num continente cada vez mais envelhecido, e num país em que 18% da população tem algum tipo de incapacidade: a <strong>oferta de quartos acessíveis representa menos de 2% da oferta total</strong> de alojamento lisboeta. A conclusão é do estudo “Turismo para Todos na Hotelaria de Lisboa – um custo ou um investimento”, realizado no âmbito de Mestrado na Escola Superior de Hotelaria e Turismo do Estoril (Alexandre, D., 2013).
+
+<span id="more-618"></span>
+
+O estudo tomou como amostra 100 hotéis de Lisboa que, na sua maioria, não veem no Turismo inclusivo uma prioridade ou uma oportunidade de negócio: <strong>48% afirmaram já terem considerado o Turismo para Todos, mas ponderam ainda se merece ou não ser desenvolvido e 33% consideram que a aposta na inclusão de clientes com necessidades especiais é uma questão de responsabilidade/solidariedade social</strong>.
+
+A criação de condições adequadas a clientes com necessidades especiais representa, no entanto, uma promissora oportunidade de negócio, comprovada por estudos realizados por vários países que já despertaram para esta realidade. É o caso da Alemanha, que apurou que o montante líquido anual de viajantes com limitações ronda os <strong>2500 milhões de euros</strong>. Nos Estados Unidos, o segmento do Turismo Acessível representa rendimentos de mais de 200 milhões de dólares; no Reino Unido, estima-se um valor anual de dois mil milhões de libras em receitas provenientes de turistas com incapacidades e, na Austrália, os gastos destes turistas foram calculados entre cerca de 8 e 12 milhões de dólares australianos. <strong>Na Europa, as receitas relativas ao Turismo Acessível variam entre 83 e 166 mil milhões de euros</strong>.
+
+No que toca à <strong>acessibilidade eletrónica</strong>, o estudo mostra que, <strong>entre os 100 hotéis lisboetas analisados, nenhum cumpre os requisitos mínimos de acessibilidade</strong> definidos nas <em lang="en">Web Content Accessibility Guidelines (WCAG 2.0)</em>. Uma aferição realizada pelo <strong><em lang="en">Access</em>Monitor da Unidade Acesso da Fundação para a Ciência e a Tecnologia</strong>. E, de facto, quando testados por pessoas cegas, os websites melhor classificados pelo <em lang="en">Access</em>Monitor não permitiram a estas pessoas realizar uma reserva de forma autónoma. Numa escala que varia entre 1 e 10, os <em lang="en">websites</em> analisados ficam-se por uma média de 4.3.
+
+A fraca aposta dos hoteleiros de Lisboa nos clientes com incapacidades é também traduzida na informação que prestam: <strong>em Lisboa, existem hotéis que dispõem de quartos adaptados mas não o anunciam no seu sítio online</strong>. Quando abordados telefonicamente, 77% dos hotéis assumiram ter quartos adaptados para pessoas com deficiência mas, nos <em lang="en">websites</em>, apenas 47% o referem.
+
+Uma realidade muito aquém da de outros países que já se adiantam na inclusão e na aposta num acolhimento universal. A inclusão não precisa de ter um aspeto ortopédico, basta adotar os princípios do design universal e usar de criatividade – a recompensa chegará em novos clientes e mais retorno económico – afinal, de acordo com estudos internacionais, os turistas com necessidades especiais são mais fiéis aos destinos, tendem a viajar com mais acompanhantes, a despender valores mais elevados, a optar por estadias mais prolongadas e ainda a contrariar a sazonalidade.
+
+A Organização Mundial do Turismo atualizou neste mês de setembro de 2013 as recomendações de 2005 sobre o Turismo acessível a todos e prevê que, em 2020, as pessoas com algum tipo de incapacidade representarão 25% dos 1,56 mil milhões de chegadas mundiais.
+
+Num contexto internacional iluminado pela Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006), que Portugal também ratificou, é importante que o Turismo – e neste caso a Hotelaria – deem o seu contributo para a criação de uma sociedade para Todos. Com a vantagem de poderem retirar dessa aposta o devido proveito económico.
+
+<address>Dora Alexandre,
+Jornalista programa Consigo, RTP2/INR, I.P.
+Mestre em Turismo, <abbr title="Escola Superior de Hotelaria e Turismo do Estoril">ESHTE</abbr></address>
+<h2>Referências bibliográficas</h2>
+<ul>
+ 	<li>Alexandre, D. (2013). <em>O Turismo para Todos na Hotelaria de Lisboa – um custo ou um investimento?</em> Estoril: Escola Superior de Hotelaria e Turismo do Estoril.</li>
+ 	<li>Department for Culture, Media and Sport. (2010). <em lang="en">Accessible Tourism: Making it work for your business.</em> Londres: Department for Culture, Media and Sport.</li>
+ 	<li>Neumann, P. e Reuber, P. (2004). <em>Estímulos económicos do turismo acessível para todos, Ministério Federal da Economia e do Trabalho Alemão (BMWA).</em> Munique e Berlim: BMWA.</li>
+ 	<li>Dwyer, L. e Darcy, S. (2008). <em lang="en">The economic contribution of accessible tourism to the australian economy. In Darcy et al (Ed.) Visitor Accessibility in Urban Centres (pp.21-34).</em> Gold Coast, Queensland: The Sustainable Tourism Cooperative Research Centre.</li>
+ 	<li>Arola, E., Cooper, C. e Cooper, R. (2011). <em lang="en">Encounters of disabled customers on the tourism stage. In Buhalis, D. e Darcy, S. (Ed.), Accessible Tourism Concepts and issues (pp. 139-148).</em> Bristol: Charlesworth Press.</li>
+ 	<li>Buhalis, D., Eichhorn, V., Michopoulou, E. e Miller, G. (2006). <em lang="en">Accessibility Market and Stakeholder Analysis 2005. OSSATE/ University of Surrey, 2006.</em> Consultado a 19 novembro, 2011, em http://www.ossate.org/doc_resources/OSSATE_Market&amp;Stakeholder%20Analysis_Public_Version_Fina..pdf</li>
+</ul><p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/hotelaria-de-lisboa-investe-pouco-na-inclusao/">Hotelaria de Lisboa investe pouco na inclusão</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Incapacidade Continua a ser o Principal Fator que Determina a não Utilização da Internet</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/a-incapacidade-continua-a-ser-o-principal-fator-determinante-no-uso-da-internet/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2013 21:48:09 +0000</pubDate>
+				<category><![CDATA[Estudos]]></category>
+		<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[idosos]]></category>
+		<category><![CDATA[internet]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=334</guid>
+
+					<description><![CDATA[<p>No Reino Unido, a incapacidade continua a ser o principal fator que determina a não utilização da Internet, revela relatório. No Reino Unido, há 3 vezes menos adultos com uma incapacidade a usar a Internet que os que não têm uma incapacidade, revelou um relatório do Office for National Statistics (ONS). Os dados apresentados na [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/a-incapacidade-continua-a-ser-o-principal-fator-determinante-no-uso-da-internet/">A Incapacidade Continua a ser o Principal Fator que Determina a não Utilização da Internet</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[No Reino Unido, a incapacidade continua a ser o principal fator que determina a não utilização da Internet, revela relatório.
+
+<img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-1977" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico1-300x193.png" alt="Total de adultos - 14% nunca usaram a Internet" width="300" height="193" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico1-300x193.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico1-768x495.png 768w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico1.png 925w" sizes="(max-width: 300px) 100vw, 300px" />
+<span id="more-1039"></span>
+
+<strong>No Reino Unido, há 3 vezes menos adultos com uma incapacidade a usar a Internet que os que não têm uma incapacidade, revelou um relatório do <em lang="en">Office for National Statistics (ONS)</em>.</strong>
+
+Os dados apresentados na última <em lang="en">Internet Access Quarterly Update</em>, publicado a cada quatro meses, mostra que no primeiro trimestre de 2013, existiam <strong>3.7 milhões de adultos com alguma incapacidade – tal como é definido na <em lang="en">Disability Discrimination Act</em> – que nunca usou a internet</strong>, representando <strong>32% do total de adultos com incapacidade</strong> existentes no Reino Unido.
+
+O número <strong>total de adultos</strong> que nunca usou a Internet no primeiro trimestre de 2013 era de <strong>7.1 milhões (14%)</strong>, o que significa que mais de metade (53%) eram pessoas com uma incapacidade.
+
+No entanto, comparando com o trimestre anterior em que a atualização da <abbr lang="en" title="Office for National Statistics">ONS</abbr> dava conta da existência de <strong>3.8 milhões de adultos com uma incapacidade que nunca estiveram online</strong>, existem menos adultos com uma deficiência <em lang="en">offline</em>. De facto, com algumas pequenas exceções, este número tem vindo a cair regularmente desde que a <abbr lang="en" title="Office for National Statistics">ONS</abbr> iniciou a publicação das suas <em lang="en">Internet Access Quarterly Update</em> no início de 2011, correspondendo o número de 3.7 milhões, da última atualização, ao mais baixo registado até agora.
+
+O relatório mostra também que a idade é outro fator chave na determinação do uso da Internet. <strong>Apenas 34% (1.6 milhões de pessoas) dos adultos com mais de 75 anos usaram a Internet</strong>, o que significa que os 3.1 milhões de pessoas com idade igual ou superior a 75 anos que nunca estiveram online representam 43% do total dos 7.1 milhões de não utilizadores adultos.
+
+Os dados do <em lang="en">Internet Access Quarterly Update</em> resultam de um Inquérito do departamento <em lang="en">Labour Force Survey da ONS</em>, de caráter contínuo sobre as circunstâncias de empregabilidade da população do Reino Unido realizado na Inglaterra, Escócia e Gales. A última versão da atualização pode ser vista abaixo:
+<h2>Gráficos</h2>
+<img decoding="async" class="aligncenter size-medium wp-image-1978" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico2-300x177.png" alt="Adultos com mais de 75 anos - 66% nunca usaram a Internet" width="300" height="177" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico2-300x177.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico2-768x454.png 768w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico2.png 1022w" sizes="(max-width: 300px) 100vw, 300px" />
+<img decoding="async" class="aligncenter size-medium wp-image-1979" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico3-300x177.png" alt="Total de adultos com incapacidade - 32% nunca usaram a Internet" width="300" height="177" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico3-300x177.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico3-768x454.png 768w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico3.png 1022w" sizes="(max-width: 300px) 100vw, 300px" />
+<img loading="lazy" decoding="async" class="aligncenter size-medium wp-image-1980" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico4-300x200.png" alt="Dos adultos que nunca usaram a Internet - 52% são adultos com uma incapacidade" width="300" height="200" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico4-300x200.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico4-768x511.png 768w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico4.png 926w" sizes="(max-width: 300px) 100vw, 300px" />
+<img loading="lazy" decoding="async" class="aligncenter size-medium wp-image-1981" src="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico5-300x199.png" alt="Dos adultos que nunca usaram a Internet - 44% tem mais de 75 anos" width="300" height="199" srcset="https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico5-300x199.png 300w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico5-768x510.png 768w, https://preprod.acessibilidade.gov.pt/wp-content/uploads/2020/04/grafico5.png 927w" sizes="(max-width: 300px) 100vw, 300px" />
+<ul>
+ 	<li>Link curto: <a href="http://bit.ly/YIFMLA">http://bit.ly/YIFMLA</a></li>
+ 	<li>Link completo: <a href="http://www.ons.gov.uk/ons/rel/rdit2/internet-access-quarterly-update/2013-q1/stb-ia-q1-2013.html">http://www.ons.gov.uk/ons/rel/rdit2/internet-access-quarterly-update/2013-q1/stb-ia-q1-2013.html</a></li>
+</ul>
+Fonte: <em lang="en">e-Access Bulletin</em>, maio 2013.<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/a-incapacidade-continua-a-ser-o-principal-fator-determinante-no-uso-da-internet/">A Incapacidade Continua a ser o Principal Fator que Determina a não Utilização da Internet</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

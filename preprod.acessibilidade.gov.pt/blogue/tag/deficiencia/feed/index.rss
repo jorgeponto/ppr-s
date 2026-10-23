@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de deficiência - acessibilidade.gov.pt</title>
+	<atom:link href="https://preprod.acessibilidade.gov.pt/blogue/tag/deficiencia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://preprod.acessibilidade.gov.pt/blogue/tag/deficiencia/</link>
+	<description>Acessibilidade Digital potencia a inclusão de pessoas com deficiência</description>
+	<lastBuildDate>Tue, 15 Dec 2020 09:40:31 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Dia Internacional das Pessoas com Deficiência</title>
+		<link>https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/dia-internacional-das-pessoas-com-deficiencia/</link>
+		
+		<dc:creator><![CDATA[Jorge Fernandes]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2020 15:43:05 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[deficiência]]></category>
+		<category><![CDATA[evento]]></category>
+		<guid isPermaLink="false">https://preprod.acessibilidade.gov.pt/?p=3056</guid>
+
+					<description><![CDATA[<p>No próximo dia 3 de dezembro celebra-se o Dia Internacional das Pessoas com Deficiência, uma boa data para relembrar a importância da acessibilidade, da experiência de utilização dos serviços digitais e para aumentar a consciencialização para uma sociedade cada vez mais inclusiva. Conheça as ferramentas ao dispor e alguns dos eventos que assinalam a data. [&#8230;]</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/dia-internacional-das-pessoas-com-deficiencia/">Dia Internacional das Pessoas com Deficiência</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>No próximo dia 3 de dezembro celebra-se o Dia Internacional das Pessoas com Deficiência, uma boa data para relembrar a importância da acessibilidade, da experiência de utilização dos serviços digitais e para aumentar a consciencialização para uma sociedade cada vez mais inclusiva. Conheça as ferramentas ao dispor e alguns dos eventos que assinalam a data.</strong></p>
+
+<p>Este dia pretende aumentar a consciencialização para o tema e promover os direitos das pessoas com deficiência em todos os aspetos da vida, num mundo onde muitas pessoas enfrentam barreiras de acessibilidade devido às suas necessidades específicas. Só em Portugal, de acordo com os Censos de 2011 do INE, cerca de 18% da população tem algum tipo de deficiência ou incapacidade.</p>
+
+<p>Nesse cenário, as Tecnologias de Informação e Comunicação (TIC) e o digital têm um papel preponderante, porque são um facilitador e um fator de inclusão, sendo essenciais para remover barreiras e contribuir para uma vida independente. Mas para isso, os serviços digitais precisam de ser acessíveis e fáceis de utilizar e o <em lang="en">site</em> <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a> há muito se assumiu como a referência para a acessibilidade digital em Portugal.</p>
+
+<p>Este ano foi lançada uma versão melhorada do <em lang="en">site</em> e várias ferramentas de apoio: a nova versão do <a href="https://accessmonitor.acessibilidade.gov.pt">AccessMonitor</a>, que permite avaliar automaticamente a acessibilidade Web e gerar um relatório de acordo com as diretrizes <abbr title="version 2.1 of Web Content Accessibility Guidelines" lang="en">WCAG 2.1</abbr> do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr>, e o <a href="https://preprod.acessibilidade.gov.pt/gerador">Gerador</a>, que permite criar a Declaração de Acessibilidade e Usabilidade para <em lang="en">sites</em> da Administração Pública (AP).</p>
+
+<p>Até ao final do ano será lançado o novo <a href="https://observatorio.acessibilidade.gov.pt">Observatório Português da Acessibilidade Web</a> com o objetivo de ser o observatório público das práticas de acessibilidade e usabilidade em sítios Web e aplicações móveis, identificando, monitorizando, promovendo as melhores práticas e gerando a consciencialização de todos para o tema.</p>
+
+<p>Hoje existe um conjunto de soluções que garante que os serviços digitais disponibilizados pela AP respondem às necessidades de todos os cidadãos, trata-se do ecossistema de experiência digital, que além do <a href="https://preprod.acessibilidade.gov.pt">Acessibilidade.gov</a> e das ferramentas já mencionadas, é ainda composto pelo <em lang="en">site</em> <a href="https://www.usabilidade.gov.pt">Usabilidade.gov</a> e pelo <a href="https://selo.usabilidade.gov.pt">Selo de Usabilidade e Acessibilidade</a>, um selo de excelência criado para distinguir boas práticas e que tem três níveis – Bronze, Prata e Ouro.</p>
+
+<p>Sendo um trabalho contínuo, até ao final do ano, a AMA disponibilizará outras novidades que resultam do que vem sendo feito pela sua Equipa de Experiência Digital, no sentido de promover a acessibilidade e a usabilidade digital.</p>
+
+<p>Além disso, a Academia AMA disponibiliza em modalidade <em lang="en">e-learning</em>, até 31 de dezembro, o curso <a href="https://www.nau.edu.pt/curso/acessibilidade-dos-conteudos-digitais-da-declaracao-de-acessibilidade-e-usabilidade-ao-selo-de-excelencia/">&#8220;Acessibilidade dos Conteúdos Digitais: da Declaração de Acessibilidade e Usabilidade ao Selo de Excelência”</a> que tem como objetivo principal apresentar uma primeira abordagem às boas práticas e aos requisitos, bem como às ferramentas disponíveis para garantir a sua aplicação nos sítios Web da AP. Este curso foi concebido pela Equipa de Experiência Digital e pela Equipa de Competências e Formação da AMA, em parceria com o Instituto Nacional para a Reabilitação, e a participação é gratuita mediante inscrição, através da Plataforma NAU.</p>
+
+<p>O Dia Internacional das Pessoas com Deficiência é também marcado por uma série de iniciativas, entre as quais destacamos a conferência <a href="https://www.itu.int/en/ITU-D/Regional-Presence/Europe/Pages/Events/2020/AE21/PreEvent.aspx"><em lang="en">&#8220;Towards Digitally Accessible Europe&#8221;</em></a>, organizada pela <em lang="en">International Telecommunication Union (ITU)</em>, que decorre <em lang="en">online</em> entre as 09:00 e as 11:00, e onde a AMA participará na sessão <em lang="en">“Digital Accessibility policies and strategies”</em> com uma intervenção de Sérgio Belo, responsável pela Equipa de Experiência Digital. Este evento marca também o início das atividades relacionadas com o <a href="https://www.itu.int/en/ITU-D/Regional-Presence/Europe/Pages/Events/2020/AE21/default.aspx"><em lang="en">“Accessible Europe: ICT 4 All 2021”</em></a>, que terá Portugal como anfitrião em março do próximo ano.</p>
+
+<p>O INR é o instituto responsável pela realização das <a href="https://www.inr.pt/noticias/-/journal_content/56/11309/446524" title="Programa das Comemorações do Dia Internacional das Pessoas com Deficiência no sítio Web do INR">comemorações nacionais do Dia Internacional das Pessoas com Deficiência</a>.</p>
+<p>O conteúdo <a href="https://preprod.acessibilidade.gov.pt/blogue/categoria-noticias/dia-internacional-das-pessoas-com-deficiencia/">Dia Internacional das Pessoas com Deficiência</a> aparece primeiro em <a href="https://preprod.acessibilidade.gov.pt">acessibilidade.gov.pt</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
